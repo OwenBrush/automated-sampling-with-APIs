@@ -1,0 +1,115 @@
+{
+    "48.953, 3.06238": {
+        "businesses": [
+            {
+                "id": "6cV78-cdVJWIiW0g8JpNOA",
+                "alias": "dragon-d-or-sept-sorts-2",
+                "name": "Dragon d'Or",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/dragon-d-or-sept-sorts-2?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 3,
+                "categories": [
+                    {
+                        "alias": "chinese",
+                        "title": "Chinese"
+                    },
+                    {
+                        "alias": "wok",
+                        "title": "Wok"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 48.9373999,
+                    "longitude": 3.103201
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "ZI du Hainault",
+                    "address2": "3 rue du Hainault",
+                    "address3": null,
+                    "city": "Sept Sorts",
+                    "zip_code": "77260",
+                    "country": "FR",
+                    "state": "77",
+                    "display_address": [
+                        "ZI du Hainault",
+                        "3 rue du Hainault",
+                        "77260 Sept Sorts",
+                        "France"
+                    ]
+                },
+                "phone": "+33160329761",
+                "display_phone": "+33 1 60 32 97 61",
+                "distance": 3449.1236093813127
+            },
+            {
+                "id": "NaC7DOyBu5aRcWZd8e1tUg",
+                "alias": "pizza-cesena-sept-sorts",
+                "name": "Pizza Cesena",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_6UFSfpbBqpJZjsCuedFDA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/pizza-cesena-sept-sorts?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "pizza",
+                        "title": "Pizza"
+                    }
+                ],
+                "rating": 3.0,
+                "coordinates": {
+                    "latitude": 48.9373999,
+                    "longitude": 3.103201
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Rue Hainault zi",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Sept Sorts",
+                    "zip_code": "77260",
+                    "country": "FR",
+                    "state": "77",
+                    "display_address": [
+                        "Rue Hainault zi",
+                        "77260 Sept Sorts",
+                        "France"
+                    ]
+                },
+                "phone": "+33160329378",
+                "display_phone": "+33 1 60 32 93 78",
+                "distance": 3449.1236093813127
+            }
+        ],
+        "total": 2,
+        "region": {
+            "center": {
+                "longitude": 3.06238,
+                "latitude": 48.953
+            }
+        }
+    },
+    "-0.89065, 110.78539": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 110.78539,
+                "latitude": -0.89065
+            }
+        }
+    },
+    "47.733333, 24.366667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 24.366667,
+                "latitude": 47.733333
+            }
+        }
+    }
+}

@@ -1,0 +1,453 @@
+{
+    "-44.48767, -65.31431": {
+        "threegeonames": "ROJA-ODENWALD-MAHILYOW",
+        "geonumber": "3949643367628",
+        "nearest": {
+            "inlatt": "-44.48767",
+            "distance": "0.000",
+            "timezone": "America/Argentina/Rio_Gallegos",
+            "elevation": "1",
+            "region": {},
+            "state": "AR",
+            "latt": "-44.48767",
+            "longt": "-65.31431",
+            "city": "Puerto Larrea",
+            "prov": "Chubut",
+            "inlongt": "-65.31431",
+            "altgeocode": "LARRPUE-BOPPK"
+        },
+        "osmtags": {
+            "wikidata": "Q368780",
+            "wikipedia": "es:Departamento Florentino Ameghino",
+            "is_in_state": "Chubut",
+            "name": "Departamento Florentino Ameghino",
+            "is_in_country": "Argentina",
+            "state": "AR",
+            "admin_level": "5",
+            "boundary": "administrative",
+            "id": "49153",
+            "type": "boundary"
+        },
+        "geocode": "ACERTADA-BOPPK",
+        "major": {
+            "inlatt": "-44.48767",
+            "distance": "4.657",
+            "timezone": {},
+            "elevation": "11",
+            "region": {},
+            "state": "AR",
+            "latt": "-44.529507",
+            "longt": "-65.317141",
+            "city": "Punta Acertada",
+            "prov": {},
+            "inlongt": "-65.31431"
+        },
+        "adminareas": {
+            "admin5": {
+                "wikipedia": "es:Departamento Florentino Ameghino",
+                "wikidata": "Q368780",
+                "is_in_state": "Chubut",
+                "osmid": "49153",
+                "name": "Departamento Florentino Ameghino",
+                "is_in_country": "Argentina",
+                "admin_level": "5",
+                "level": "5",
+                "boundary": "administrative",
+                "type": "boundary"
+            }
+        }
+    },
+    "17.55, 32.95": {
+        "threegeonames": "DANGEIL-ZOLTAN-GNARABUP",
+        "geonumber": "8428747002378",
+        "nearest": {
+            "inlatt": "17.55",
+            "distance": "0.000",
+            "timezone": "Africa/Khartoum",
+            "elevation": "436",
+            "region": {},
+            "state": "SD",
+            "latt": "17.55",
+            "longt": "32.95",
+            "city": "Jabal Sa\u2019ada",
+            "prov": "River Nile",
+            "inlongt": "32.95",
+            "altgeocode": "JABALADA-IJEKO"
+        },
+        "osmtags": {
+            "name": "ad-Damir",
+            "state": "SD",
+            "admin_level": "8",
+            "name_ar": "\u0627\u0644\u062f\u0627\u0645\u0631",
+            "boundary": "administrative",
+            "id": "78608",
+            "type": "boundary",
+            "name_en": "ad-Damer",
+            "int_name": "ad-Damir"
+        },
+        "geocode": "FERUD-IJEKO",
+        "major": {
+            "inlatt": "17.55",
+            "distance": "17.004",
+            "timezone": {},
+            "elevation": "465",
+            "region": {},
+            "state": "SD",
+            "latt": "17.683611",
+            "longt": "33.028056",
+            "city": "Jebel Abu el Ferud",
+            "prov": {},
+            "inlongt": "32.95"
+        },
+        "adminareas": {
+            "admin8": {
+                "osmid": "78608",
+                "name": "ad-Damir",
+                "admin_level": "8",
+                "level": "8",
+                "name_ar": "\u0627\u0644\u062f\u0627\u0645\u0631",
+                "boundary": "administrative",
+                "type": "boundary",
+                "int_name": "ad-Damir",
+                "name_en": "ad-Damer"
+            }
+        }
+    },
+    "-22.2, 131.06667": {
+        "threegeonames": "YUELAMU-VOICEOVER-KRZYSZTOF",
+        "geonumber": "5160180651759",
+        "nearest": {
+            "inlatt": "-22.2",
+            "distance": "0.000",
+            "timezone": "Australia/Darwin",
+            "elevation": "653",
+            "region": {},
+            "state": "AU",
+            "latt": "-22.2",
+            "longt": "131.06667",
+            "city": "Matchee Spring",
+            "prov": "Northern Territory",
+            "inlongt": "131.06667",
+            "altgeocode": "MATCHEE-ITVAD"
+        },
+        "osmtags": {
+            "id": {},
+            "state": {}
+        },
+        "geocode": "MATCHEE-ITVAD",
+        "major": {
+            "inlatt": "-22.2",
+            "distance": "0.000",
+            "timezone": "Australia/Darwin",
+            "elevation": "653",
+            "region": {},
+            "state": "AU",
+            "latt": "-22.2",
+            "longt": "131.06667",
+            "city": "Matchee Spring",
+            "prov": "Northern Territory",
+            "inlongt": "131.06667"
+        },
+        "adminareas": {}
+    },
+    "52.03982, 0.72503": {
+        "threegeonames": "IPSWICH-LPARAM-HAZEL",
+        "geonumber": "3154816432216",
+        "nearest": {
+            "inlatt": "52.03982",
+            "distance": "0.000",
+            "timezone": "Europe/London",
+            "elevation": "32",
+            "region": "Suffolk",
+            "name": "Walnuttree Hospital",
+            "state": "UK",
+            "latt": "52.03982",
+            "longt": "0.72503",
+            "city": "Sudbury",
+            "prov": "England",
+            "inlongt": "0.72503",
+            "altgeocode": "WALNUTTREE-EUNIU"
+        },
+        "osmtags": {
+            "website": "https://www.sudburytowncouncil.co.uk/",
+            "name": "Sudbury",
+            "ref_gss": "E04009129",
+            "state": "UK",
+            "admin_level": "10",
+            "designation": "civil_parish",
+            "boundary": "administrative",
+            "council_name": "Sudbury Town Council",
+            "id": "384366",
+            "type": "boundary",
+            "council_style": "town"
+        },
+        "geocode": "SUDBURY-EUNIU",
+        "major": {
+            "inlatt": "52.03982",
+            "distance": "0.432",
+            "timezone": "Europe/London",
+            "elevation": "36",
+            "region": "Suffolk",
+            "name": "Sudbury",
+            "state": "UK",
+            "latt": "52.0389",
+            "longt": "0.73117",
+            "city": "Sudbury",
+            "prov": "England",
+            "inlongt": "0.72503"
+        },
+        "adminareas": {
+            "admin10": {
+                "website": "https://www.sudburytowncouncil.co.uk/",
+                "osmid": "384366",
+                "name": "Sudbury",
+                "ref_gss": "E04009129",
+                "admin_level": "10",
+                "designation": "civil_parish",
+                "level": "10",
+                "boundary": "administrative",
+                "council_name": "Sudbury Town Council",
+                "type": "boundary",
+                "council_style": "town"
+            },
+            "admin6": {
+                "wikipedia": "en:Essex",
+                "wikidata": "Q23240",
+                "website": "https://www.essex.gov.uk/Pages/Default.aspx",
+                "osmid": "336451",
+                "name": "Essex",
+                "ISO3166_2": "GB-ESS",
+                "ref_gss": "E10000012",
+                "admin_level": "6",
+                "designation": "non_metropolitan_county",
+                "level": "6",
+                "boundary": "administrative",
+                "council_name": "Essex County Council",
+                "type": "boundary"
+            },
+            "admin8": {
+                "website": "https://www.braintree.gov.uk/",
+                "osmid": "343756",
+                "name": "Braintree",
+                "ref_gss": "E07000067",
+                "ons_code": "22UC",
+                "admin_level": "8",
+                "designation": "non_metropolitan_district",
+                "name_lt": "Breintris",
+                "level": "8",
+                "boundary": "administrative",
+                "council_name": "Braintree District Council",
+                "type": "boundary",
+                "source_ons_code": "OS_OpenData_CodePoint Codelist.txt"
+            },
+            "admin5": {
+                "wikipedia": "en:East of England",
+                "wikidata": "Q48006",
+                "ref_nuts_1": "UKH",
+                "osmid": "336443",
+                "name": "East of England",
+                "name_ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u043d\u0433\u043b\u0438\u044f",
+                "admin_level": "5",
+                "level": "5",
+                "boundary": "administrative",
+                "type": "boundary"
+            }
+        }
+    },
+    "48.953, 3.06238": {
+        "threegeonames": "EVREUX-MORULA-SDEP",
+        "geonumber": "3071114915012",
+        "nearest": {
+            "inlatt": "48.953",
+            "distance": "0.000",
+            "timezone": "Europe/Paris",
+            "elevation": "52",
+            "region": "Seine-et-Marne",
+            "name": "Ru de Courtablond",
+            "state": "FR",
+            "latt": "48.953",
+            "longt": "3.06238",
+            "city": "La Ferte-sous-Jouarre",
+            "prov": "\u00cele-de-France",
+            "inlongt": "3.06238",
+            "altgeocode": "COURND-KWMXO"
+        },
+        "osmtags": {
+            "ref_INSEE": "77478",
+            "wikidata": "Q268711",
+            "wikipedia": "fr:Ussy-sur-Marne",
+            "name": "Ussy-sur-Marne",
+            "addr_postcode": "77260",
+            "state": "FR",
+            "admin_level": "8",
+            "boundary": "administrative",
+            "id": "269575",
+            "type": "boundary"
+        },
+        "geocode": "JOUARRE-KWMXO",
+        "major": {
+            "inlatt": "48.953",
+            "distance": "4.739",
+            "timezone": "Europe/Paris",
+            "elevation": "72",
+            "region": "Seine-et-Marne",
+            "name": "La Fert\u00e9-sous-Jouarre",
+            "state": "FR",
+            "latt": "48.9514",
+            "longt": "3.12724",
+            "city": "La Ferte-sous-Jouarre",
+            "prov": "\u00cele-de-France",
+            "inlongt": "3.06238"
+        },
+        "adminareas": {
+            "admin7": {
+                "wikipedia": "fr:Arrondissement de Meaux",
+                "wikidata": "Q642854",
+                "ref_INSEE": "771",
+                "osmid": "266070",
+                "name": "Meaux",
+                "admin_level": "7",
+                "level": "7",
+                "boundary": "administrative",
+                "type": "boundary"
+            },
+            "admin6": {
+                "wikipedia": "fr:Seine-et-Marne",
+                "ref_INSEE": "77",
+                "ref_NUTS": "FR102",
+                "osmid": "265173",
+                "source_name_br": "ofis publik ar brezhoneg",
+                "name_ru": "\u0421\u0435\u043d\u0430 \u0438 \u041c\u0430\u0440\u043d\u0430",
+                "name_lt": "Sena ir Marna",
+                "boundary": "administrative",
+                "wikidata": "Q12753",
+                "ref": "77",
+                "ISO3166_2": "FR-77",
+                "name": "Seine-et-Marne",
+                "name_es": "Sena y Marne",
+                "admin_level": "6",
+                "level": "6",
+                "name_br": "Saena-ha-Marn",
+                "type": "boundary",
+                "border_type": "departement"
+            },
+            "admin8": {
+                "wikipedia": "fr:Ussy-sur-Marne",
+                "wikidata": "Q268711",
+                "ref_INSEE": "77478",
+                "osmid": "269575",
+                "name": "Ussy-sur-Marne",
+                "addr_postcode": "77260",
+                "admin_level": "8",
+                "level": "8",
+                "boundary": "administrative",
+                "type": "boundary"
+            }
+        }
+    },
+    "-0.89065, 110.78539": {
+        "threegeonames": "KAYONG-IOLAUS-MOUSSON",
+        "geonumber": "5098821493447",
+        "nearest": {
+            "inlatt": "-0.89065",
+            "distance": "0.000",
+            "timezone": "Asia/Pontianak",
+            "elevation": "65",
+            "region": {},
+            "name": "Sungai Tangga",
+            "state": "ID",
+            "latt": "-0.89065",
+            "longt": "110.78539",
+            "city": "Ng Bengaras",
+            "prov": "West Kalimantan",
+            "inlongt": "110.78539",
+            "altgeocode": "TANGGASU-APLIT"
+        },
+        "osmtags": {
+            "wikidata": "Q12485944",
+            "wikipedia": "id:Hulu Sungai, Ketapang",
+            "name": "Hulu Sungai",
+            "state": "ID",
+            "admin_level": "6",
+            "boundary": "administrative",
+            "type": "boundary",
+            "id": "550569"
+        },
+        "geocode": "BENGARAS-APLIT",
+        "major": {
+            "inlatt": "-0.89065",
+            "distance": "7.273",
+            "timezone": "Asia/Pontianak",
+            "elevation": "60",
+            "region": {},
+            "name": "Ng Bengaras",
+            "state": "ID",
+            "latt": "-0.83937",
+            "longt": "110.826",
+            "city": "Ng Bengaras",
+            "prov": "West Kalimantan",
+            "inlongt": "110.78539"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "id:Hulu Sungai, Ketapang",
+                "wikidata": "Q12485944",
+                "osmid": "550569",
+                "name": "Hulu Sungai",
+                "admin_level": "6",
+                "level": "6",
+                "boundary": "administrative",
+                "type": "boundary"
+            },
+            "admin5": {
+                "wikipedia": "id:Kabupaten Ketapang",
+                "wikidata": "Q14159",
+                "osmid": "550514",
+                "name": "Ketapang",
+                "admin_level": "5",
+                "level": "5",
+                "boundary": "administrative",
+                "type": "boundary"
+            }
+        }
+    },
+    "47.733333, 24.366667": {
+        "threegeonames": "SUCEAVA-DRAKKEN-INARIGDA",
+        "geonumber": "3043809469212",
+        "nearest": {
+            "inlatt": "47.73333",
+            "distance": "0.000",
+            "timezone": "Europe/Bucharest",
+            "elevation": "544",
+            "region": "Ora\u015f Vi\u015feu De Sus",
+            "name": "Comuna Vi\u015feu de Jos",
+            "state": "RO",
+            "latt": "47.733333",
+            "longt": "24.366667",
+            "city": "Vi\u015feu de Jos",
+            "prov": "Maramure\u015f",
+            "inlongt": "24.36667",
+            "altgeocode": "VIZAUL-GKFPS"
+        },
+        "osmtags": {
+            "id": {},
+            "state": {}
+        },
+        "geocode": "SUS-GKFPS",
+        "major": {
+            "inlatt": "47.73333",
+            "distance": "5.319",
+            "timezone": "Europe/Bucharest",
+            "elevation": "510",
+            "region": "Ora\u015f Vi\u015feu De Sus",
+            "name": "Vi\u015feu de Sus",
+            "state": "RO",
+            "latt": "47.71667",
+            "longt": "24.43333",
+            "city": "Viseu de Sus",
+            "prov": "Maramure\u015f",
+            "inlongt": "24.36667"
+        },
+        "adminareas": {}
+    }
+}

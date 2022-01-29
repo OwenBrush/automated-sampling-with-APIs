@@ -1,0 +1,2271 @@
+{
+    "48.953, 3.06238": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f5c3d68975bb0843ad42ab"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "4c9f89b52fb1a14366adf440",
+                    "name": "BP",
+                    "location": {
+                        "address": "Autoroute de l'Est",
+                        "lat": 48.96423982,
+                        "lng": 3.05337578,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.96423982,
+                                "lng": 3.05337578
+                            }
+                        ],
+                        "distance": 1413,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "La Fert\u00e9-sous-Jouarre",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Autoroute de l'Est",
+                            "77260 LA FERTE SOUS JOUARRE",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d113951735",
+                            "name": "Gas Station",
+                            "pluralName": "Gas Stations",
+                            "shortName": "Gas Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "venuePage": {
+                        "id": "588182871"
+                    },
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5300bfdf11d24e4a14650f76",
+                    "name": "Aire de Changis-sur-Marne",
+                    "location": {
+                        "address": "Autoroute A4 (Strasbourg > Paris)",
+                        "lat": 48.96393251317261,
+                        "lng": 3.053030362352729,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.96393251317261,
+                                "lng": 3.053030362352729
+                            }
+                        ],
+                        "distance": 1395,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "Ussy-sur-Marne",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Autoroute A4 (Strasbourg > Paris)",
+                            "77260 Ussy-Sur-Marne",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4d954b16a243a5684b65b473",
+                            "name": "Rest Area",
+                            "pluralName": "Rest Areas",
+                            "shortName": "Rest Areas",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/restarea_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5651c62e498ec6889b850bd5",
+                    "name": "Stade Dominique Offroy",
+                    "location": {
+                        "lat": 48.95588521092822,
+                        "lng": 3.0617945833932945,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.95588521092822,
+                                "lng": 3.0617945833932945
+                            }
+                        ],
+                        "distance": 324,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d188941735",
+                            "name": "Soccer Stadium",
+                            "pluralName": "Soccer Stadiums",
+                            "shortName": "Soccer",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4d5fa4e5b6b9a1cd86727151",
+                    "name": "Aire d'Ussy-sur-Marne",
+                    "location": {
+                        "address": "Autoroute A4 (Paris > Strasbourg)",
+                        "lat": 48.97047053413574,
+                        "lng": 3.0641555786132812,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.97047053413574,
+                                "lng": 3.0641555786132812
+                            }
+                        ],
+                        "distance": 1949,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "Ussy-sur-Marne",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Autoroute A4 (Paris > Strasbourg)",
+                            "77260 Ussy-sur-Marne",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4d954b16a243a5684b65b473",
+                            "name": "Rest Area",
+                            "pluralName": "Rest Areas",
+                            "shortName": "Rest Areas",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/restarea_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "55d36458498e9dace3b5ca57",
+                    "name": "BP",
+                    "location": {
+                        "address": "A4",
+                        "lat": 48.971146,
+                        "lng": 3.065271,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.971146,
+                                "lng": 3.065271
+                            }
+                        ],
+                        "distance": 2031,
+                        "cc": "FR",
+                        "city": "Ussy-sur-Marne",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "A4",
+                            "Ussy-sur-Marne",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d113951735",
+                            "name": "Gas Station",
+                            "pluralName": "Gas Stations",
+                            "shortName": "Gas Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bb8a3ba314e95213b96489d",
+                    "name": "Gare SNCF de La Fert\u00e9-sous-Jouarre",
+                    "location": {
+                        "address": "Place de la Gare",
+                        "lat": 48.95086270655875,
+                        "lng": 3.125138282775879,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.95086270655875,
+                                "lng": 3.125138282775879
+                            }
+                        ],
+                        "distance": 4593,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "La Fert\u00e9-sous-Jouarre",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Place de la Gare",
+                            "77260 La Fert\u00e9-sous-Jouarre",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d129951735",
+                            "name": "Train Station",
+                            "pluralName": "Train Stations",
+                            "shortName": "Train Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "550b38c9498efa0b2adefab9",
+                    "name": "BP",
+                    "location": {
+                        "address": "42 Avenue Franklin Roosevelt",
+                        "lat": 48.94367391,
+                        "lng": 3.12120208,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.94367391,
+                                "lng": 3.12120208
+                            }
+                        ],
+                        "distance": 4423,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "La Fert\u00e9-sous-Jouarre",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "42 Avenue Franklin Roosevelt",
+                            "77260 LA FERTE SOUS JOUARRE",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d113951735",
+                            "name": "Gas Station",
+                            "pluralName": "Gas Stations",
+                            "shortName": "Gas Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "venuePage": {
+                        "id": "587682741"
+                    },
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4d1f287216cfb60cfb334f61",
+                    "name": "Charly's Jardin",
+                    "location": {
+                        "lat": 48.941985,
+                        "lng": 3.132415,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.941985,
+                                "lng": 3.132415
+                            }
+                        ],
+                        "distance": 5264,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4da334b5540ea1cd344a8cde",
+                    "name": "Eglise de saint jean les deux jumeaux",
+                    "location": {
+                        "address": "Rue du P\u00e8re Mary",
+                        "lat": 48.9511615492941,
+                        "lng": 3.0184682795658624,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.9511615492941,
+                                "lng": 3.0184682795658624
+                            }
+                        ],
+                        "distance": 3216,
+                        "postalCode": "77660",
+                        "cc": "FR",
+                        "city": "Saint-Jean-les-Deux-Jumeaux",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Rue du P\u00e8re Mary",
+                            "77660 Saint-Jean-les-Deux-Jumeaux",
+                            "France"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e0b82b5149563b079c7b04c",
+                    "name": "Le Dragon d'Or",
+                    "location": {
+                        "lat": 48.949115,
+                        "lng": 3.115222,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.949115,
+                                "lng": 3.115222
+                            }
+                        ],
+                        "distance": 3887,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4d46457414aa8cfada4a7b3d",
+                    "name": "Cafe de la gare",
+                    "location": {
+                        "lat": 48.945449,
+                        "lng": 3.111598,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.945449,
+                                "lng": 3.111598
+                            }
+                        ],
+                        "distance": 3695,
+                        "cc": "FR",
+                        "city": "La Fert\u00e9-sous-Jouarre",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "La ferte sous jouarre",
+                            "France"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f6f33dde4b0ac4cdbe3bd01",
+                    "name": "Cheval Rouge",
+                    "location": {
+                        "lat": 48.949357,
+                        "lng": 3.129181,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.949357,
+                                "lng": 3.129181
+                            }
+                        ],
+                        "distance": 4900,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11b941735",
+                            "name": "Pub",
+                            "pluralName": "Pubs",
+                            "shortName": "Pub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "523762c611d24cf7aefb532e",
+                    "name": "U Zakonnic",
+                    "location": {
+                        "lat": 48.9547313963884,
+                        "lng": 3.12624678802103,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.9547313963884,
+                                "lng": 3.12624678802103
+                            }
+                        ],
+                        "distance": 4672,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4fc8e713e4b0ccf717b906c2",
+                    "name": "PMU Fert\u00e9 sous Jouarre",
+                    "location": {
+                        "lat": 48.950007,
+                        "lng": 3.129434,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.950007,
+                                "lng": 3.129434
+                            }
+                        ],
+                        "distance": 4913,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4befd7f93a002d7ffe6b85a4",
+                    "name": "Au bec fin",
+                    "location": {
+                        "lat": 48.94977146389628,
+                        "lng": 3.1321162588454605,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.94977146389628,
+                                "lng": 3.1321162588454605
+                            }
+                        ],
+                        "distance": 5110,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d10c941735",
+                            "name": "French Restaurant",
+                            "pluralName": "French Restaurants",
+                            "shortName": "French",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "525716cb498e91c34df3fef6",
+                    "name": "At Toubib's",
+                    "location": {
+                        "lat": 48.948856099164445,
+                        "lng": 3.1308884348749615,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.948856099164445,
+                                "lng": 3.1308884348749615
+                            }
+                        ],
+                        "distance": 5029,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d118941735",
+                            "name": "Dive Bar",
+                            "pluralName": "Dive Bars",
+                            "shortName": "Dive Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bb8c7c9cf2fc9b6e1d69f02",
+                    "name": "McDonald's",
+                    "location": {
+                        "address": "Rue du Hainault",
+                        "crossStreet": "Parking Intermarch\u00e9",
+                        "lat": 48.944877353447694,
+                        "lng": 3.111869450760295,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.944877353447694,
+                                "lng": 3.111869450760295
+                            }
+                        ],
+                        "distance": 3729,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "SEPT SORTS",
+                        "state": "Ile de France (Banlieue)",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Rue du Hainault (Parking Intermarch\u00e9)",
+                            "77260 SEPT SORTS",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d16e941735",
+                            "name": "Fast Food Restaurant",
+                            "pluralName": "Fast Food Restaurants",
+                            "shortName": "Fast Food",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "506d0b9de4b00a7cb44753f5",
+                    "name": "Lea&cie",
+                    "location": {
+                        "lat": 48.9439005661656,
+                        "lng": 3.1257368416776634,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.9439005661656,
+                                "lng": 3.1257368416776634
+                            }
+                        ],
+                        "distance": 4741,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4d954b06a243a5684965b473",
+                            "name": "Residential Building (Apartment / Condo)",
+                            "pluralName": "Residential Buildings (Apartments / Condos)",
+                            "shortName": "Residential",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51c17bbf498e2bd1d969b6d4",
+                    "name": "La Houssaie",
+                    "location": {
+                        "address": "33 Rue Du Petit Huet",
+                        "lat": 48.92724907912084,
+                        "lng": 3.1269497489449325,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.92724907912084,
+                                "lng": 3.1269497489449325
+                            }
+                        ],
+                        "distance": 5523,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "33 Rue Du Petit Huet",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "5032891291d4c4b30a586d68",
+                            "name": "Assisted Living",
+                            "pluralName": "Assisted Living",
+                            "shortName": "Assisted Living",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "504140f6e4b01555a5fddb38",
+                    "name": "Gite De La Noue",
+                    "location": {
+                        "lat": 48.931619280587604,
+                        "lng": 3.0096964160919586,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.931619280587604,
+                                "lng": 3.0096964160919586
+                            }
+                        ],
+                        "distance": 4528,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "5032891291d4c4b30a586d68",
+                            "name": "Assisted Living",
+                            "pluralName": "Assisted Living",
+                            "shortName": "Assisted Living",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4d3aca30beb7b1f7eed9ec71",
+                    "name": "Auberge De Cond\u00e9",
+                    "location": {
+                        "address": "1 av de Montmirail",
+                        "lat": 48.942638,
+                        "lng": 3.127895,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.942638,
+                                "lng": 3.127895
+                            }
+                        ],
+                        "distance": 4926,
+                        "postalCode": "77260",
+                        "cc": "FR",
+                        "city": "La Fert\u00e9-sous-Jouarre",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "1 av de Montmirail",
+                            "77260 La Fert\u00e9-sous-Jouarre",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1f8931735",
+                            "name": "Bed & Breakfast",
+                            "pluralName": "Bed & Breakfasts",
+                            "shortName": "B & B",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "53f8f80e498eacb60d442809",
+                    "name": "Ici c'est chez Katia",
+                    "location": {
+                        "lat": 48.947104,
+                        "lng": 3.07992,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.947104,
+                                "lng": 3.07992
+                            }
+                        ],
+                        "distance": 1440,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4f2a210c4b9023bd5841ed28",
+                            "name": "Housing Development",
+                            "pluralName": "Housing Developments",
+                            "shortName": "Housing Development",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/housingdevelopment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "519a72ed498e1b514929a42d",
+                    "name": "Kappartement",
+                    "location": {
+                        "lat": 48.94787313518882,
+                        "lng": 3.111830511099572,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.94787313518882,
+                                "lng": 3.111830511099572
+                            }
+                        ],
+                        "distance": 3659,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4d954b06a243a5684965b473",
+                            "name": "Residential Building (Apartment / Condo)",
+                            "pluralName": "Residential Buildings (Apartments / Condos)",
+                            "shortName": "Residential",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bbcc095593fef3b8d900256",
+                    "name": "Gare SNCF de Changis \u2014 Saint-Jean",
+                    "location": {
+                        "address": "Place de la Gare",
+                        "lat": 48.95920058547991,
+                        "lng": 3.025365471839905,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.95920058547991,
+                                "lng": 3.025365471839905
+                            }
+                        ],
+                        "distance": 2792,
+                        "postalCode": "77660",
+                        "cc": "FR",
+                        "city": "Changis-sur-Marne",
+                        "state": "\u00cele-de-France",
+                        "country": "France",
+                        "formattedAddress": [
+                            "Place de la Gare",
+                            "77660 Changis-sur-Marne",
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d129951735",
+                            "name": "Train Station",
+                            "pluralName": "Train Stations",
+                            "shortName": "Train Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5183cf64498e578a4a5435f1",
+                    "name": "La Halle Aux Chaussures",
+                    "location": {
+                        "lat": 48.94613418298914,
+                        "lng": 3.11036400317478,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.94613418298914,
+                                "lng": 3.11036400317478
+                            }
+                        ],
+                        "distance": 3590,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1f6941735",
+                            "name": "Department Store",
+                            "pluralName": "Department Stores",
+                            "shortName": "Department Store",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51d3fe94498ee56d0b0d7702",
+                    "name": "Sandwicherie",
+                    "location": {
+                        "lat": 48.943552,
+                        "lng": 3.122357,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.943552,
+                                "lng": 3.122357
+                            }
+                        ],
+                        "distance": 4509,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1c5941735",
+                            "name": "Sandwich Place",
+                            "pluralName": "Sandwich Places",
+                            "shortName": "Sandwiches",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4de0b873d4c040523eaba106",
+                    "name": "J&D Coiffeur",
+                    "location": {
+                        "lat": 48.949632,
+                        "lng": 3.130086,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.949632,
+                                "lng": 3.130086
+                            }
+                        ],
+                        "distance": 4963,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d10c951735",
+                            "name": "Cosmetics Shop",
+                            "pluralName": "Cosmetics Shops",
+                            "shortName": "Cosmetics",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51dc3c37498e99ad7e6e4ecb",
+                    "name": "Le Ponton",
+                    "location": {
+                        "lat": 48.92746888501814,
+                        "lng": 3.0811807528729953,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.92746888501814,
+                                "lng": 3.0811807528729953
+                            }
+                        ],
+                        "distance": 3157,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4eb1d4dd4b900d56c88a45fd",
+                            "name": "River",
+                            "pluralName": "Rivers",
+                            "shortName": "River",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "534e2cff498efcdab6e77e41",
+                    "name": "P\u00f4le Emploi La Fert\u00e9 sous Jouarre",
+                    "location": {
+                        "lat": 48.95052907242085,
+                        "lng": 3.124412033807392,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.95052907242085,
+                                "lng": 3.124412033807392
+                            }
+                        ],
+                        "distance": 4543,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "52f2ab2ebcbc57f1066b8b57",
+                            "name": "Recruiting Agency",
+                            "pluralName": "Recruiting Agencies",
+                            "shortName": "Recruiting Agency",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4dabda9cf7b145b3702f26ea",
+                    "name": "Laboratoire Analyses Medicales",
+                    "location": {
+                        "lat": 48.942029,
+                        "lng": 3.127121,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 48.942029,
+                                "lng": 3.127121
+                            }
+                        ],
+                        "distance": 4888,
+                        "cc": "FR",
+                        "country": "France",
+                        "formattedAddress": [
+                            "France"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d177941735",
+                            "name": "Doctor's Office",
+                            "pluralName": "Doctor's Offices",
+                            "shortName": "Doctor's Office",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_doctorsoffice_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496406",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    },
+    "-0.89065, 110.78539": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f5c474717a110d7d748a10"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "4eb742b30cd68825785c7e39",
+                    "name": "Kantor Pelindo Kotabaru",
+                    "location": {
+                        "address": "Jl. Raya Stagen",
+                        "lat": -0.8459165322899671,
+                        "lng": 110.70981860160828,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -0.8459165322899671,
+                                "lng": 110.70981860160828
+                            }
+                        ],
+                        "distance": 9775,
+                        "cc": "ID",
+                        "city": "Kotabaru",
+                        "state": "South Kalimantan",
+                        "country": "Indonesia",
+                        "formattedAddress": [
+                            "Jl. Raya Stagen",
+                            "Kotabaru",
+                            "South Kalimantan",
+                            "Indonesia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124941735",
+                            "name": "Office",
+                            "pluralName": "Offices",
+                            "shortName": "Office",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496564",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    },
+    "47.733333, 24.366667": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f5c4b69e487b46413451cb"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "50097198e4b0a27e00eb3a52",
+                    "name": "Pensiunea Talhaus",
+                    "location": {
+                        "address": "Strada Valea Vinului 87",
+                        "lat": 47.741047,
+                        "lng": 24.412266,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.741047,
+                                "lng": 24.412266
+                            }
+                        ],
+                        "distance": 3520,
+                        "cc": "RO",
+                        "city": "Vi\u0219eul de sus",
+                        "state": "Maramure\u0219",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Strada Valea Vinului 87",
+                            "Vi\u0219eul de sus",
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1f8931735",
+                            "name": "Bed & Breakfast",
+                            "pluralName": "Bed & Breakfasts",
+                            "shortName": "B & B",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f8c397ae4b0a95f9678af96",
+                    "name": "Gara Vi\u0219eu de Jos",
+                    "location": {
+                        "lat": 47.72097550122432,
+                        "lng": 24.367289543151852,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.72097550122432,
+                                "lng": 24.367289543151852
+                            }
+                        ],
+                        "distance": 1376,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d129951735",
+                            "name": "Train Station",
+                            "pluralName": "Train Stations",
+                            "shortName": "Train Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5b7320155c6838002ca15919",
+                    "name": "Provincial",
+                    "location": {
+                        "lat": 47.725081,
+                        "lng": 24.371378,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.725081,
+                                "lng": 24.371378
+                            }
+                        ],
+                        "distance": 984,
+                        "postalCode": "437390",
+                        "cc": "RO",
+                        "city": "Vi\u015feu de Jos",
+                        "state": "Maramure\u0219",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "437390 Vi\u015feu de Jos",
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1fa931735",
+                            "name": "Hotel",
+                            "pluralName": "Hotels",
+                            "shortName": "Hotel",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "55b58013498ecdbad8eb2f28",
+                    "name": "Club Vi\u0219eu",
+                    "location": {
+                        "lat": 47.706738,
+                        "lng": 24.42283,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.706738,
+                                "lng": 24.42283
+                            }
+                        ],
+                        "distance": 5143,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11f941735",
+                            "name": "Nightclub",
+                            "pluralName": "Nightclubs",
+                            "shortName": "Nightclub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5583e073498e60d28dc7e681",
+                    "name": "Cafe & Games Cry Ali",
+                    "location": {
+                        "lat": 47.727275,
+                        "lng": 24.364332,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.727275,
+                                "lng": 24.364332
+                            }
+                        ],
+                        "distance": 696,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d17c941735",
+                            "name": "Casino",
+                            "pluralName": "Casinos",
+                            "shortName": "Casino",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/casino_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "520d627f11d2266f0fae4be0",
+                    "name": "Club Frateli",
+                    "location": {
+                        "lat": 47.729188503863206,
+                        "lng": 24.35169195576386,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.729188503863206,
+                                "lng": 24.35169195576386
+                            }
+                        ],
+                        "distance": 1212,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11f941735",
+                            "name": "Nightclub",
+                            "pluralName": "Nightclubs",
+                            "shortName": "Nightclub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "567dbb22498e6a84e820d041",
+                    "name": "frateli, viseu, maramures",
+                    "location": {
+                        "lat": 47.706195,
+                        "lng": 24.429272,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.706195,
+                                "lng": 24.429272
+                            }
+                        ],
+                        "distance": 5577,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11f941735",
+                            "name": "Nightclub",
+                            "pluralName": "Nightclubs",
+                            "shortName": "Nightclub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f8b5fcfe4b0b1c4b18fc805",
+                    "name": "Frateli / Versus",
+                    "location": {
+                        "lat": 47.70637633183187,
+                        "lng": 24.433498555486747,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.70637633183187,
+                                "lng": 24.433498555486747
+                            }
+                        ],
+                        "distance": 5835,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11f941735",
+                            "name": "Nightclub",
+                            "pluralName": "Nightclubs",
+                            "shortName": "Nightclub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e3a755388772c3bf1221c4b",
+                    "name": "BT Viseu",
+                    "location": {
+                        "lat": 47.70774043478351,
+                        "lng": 24.3739527366026,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.70774043478351,
+                                "lng": 24.3739527366026
+                            }
+                        ],
+                        "distance": 2900,
+                        "cc": "RO",
+                        "city": "Vi\u015feu de Sus",
+                        "state": "Maramure\u0219",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Viseu De Sus",
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d10a951735",
+                            "name": "Bank",
+                            "pluralName": "Banks",
+                            "shortName": "Bank",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4fe1ea6be4b0f27f28376409",
+                    "name": "Villa Garden",
+                    "location": {
+                        "lat": 47.716492843574876,
+                        "lng": 24.40444457053186,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.716492843574876,
+                                "lng": 24.40444457053186
+                            }
+                        ],
+                        "distance": 3393,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d15e941735",
+                            "name": "Pool",
+                            "pluralName": "Pools",
+                            "shortName": "Pool",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "523d809d11d2a928290c980a",
+                    "name": "Montana Cafe-Bistro",
+                    "location": {
+                        "lat": 47.70828942003731,
+                        "lng": 24.428307426136218,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.70828942003731,
+                                "lng": 24.428307426136218
+                            }
+                        ],
+                        "distance": 5392,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1c4941735",
+                            "name": "Restaurant",
+                            "pluralName": "Restaurants",
+                            "shortName": "Restaurant",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e59410e45dd705592947202",
+                    "name": "Pensiunea Livisra",
+                    "location": {
+                        "lat": 47.72588,
+                        "lng": 24.3712,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.72588,
+                                "lng": 24.3712
+                            }
+                        ],
+                        "distance": 896,
+                        "cc": "RO",
+                        "city": "Vi\u015feu de Sus",
+                        "state": "Maramure\u0219",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Viseu De Sus",
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5494aef0498eae17539f7a4b",
+                    "name": "Roberto's Place",
+                    "location": {
+                        "lat": 47.72694821493012,
+                        "lng": 24.365804587383995,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.72694821493012,
+                                "lng": 24.365804587383995
+                            }
+                        ],
+                        "distance": 713,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11a941735",
+                            "name": "Other Nightlife",
+                            "pluralName": "Other Nightlife",
+                            "shortName": "Nightlife",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4fec3bdce4b0cfb879674e06",
+                    "name": "la hritu",
+                    "location": {
+                        "lat": 47.72209167480469,
+                        "lng": 24.379825592041016,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.72209167480469,
+                                "lng": 24.379825592041016
+                            }
+                        ],
+                        "distance": 1592,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "522378f511d2a6672c9e4077",
+                    "name": "The Old Railway",
+                    "location": {
+                        "lat": 47.707482751614094,
+                        "lng": 24.43368613244812,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.707482751614094,
+                                "lng": 24.43368613244812
+                            }
+                        ],
+                        "distance": 5785,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11b941735",
+                            "name": "Pub",
+                            "pluralName": "Pubs",
+                            "shortName": "Pub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4fccac81e4b09e8af8f4b569",
+                    "name": "Maya",
+                    "location": {
+                        "lat": 47.70747644626799,
+                        "lng": 24.43175124828302,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.70747644626799,
+                                "lng": 24.43175124828302
+                            }
+                        ],
+                        "distance": 5660,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "55fc20eb498e786c4dc06fbc",
+                    "name": "Montana Pub",
+                    "location": {
+                        "lat": 47.70802835347568,
+                        "lng": 24.425966339575112,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.70802835347568,
+                                "lng": 24.425966339575112
+                            }
+                        ],
+                        "distance": 5258,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11a941735",
+                            "name": "Other Nightlife",
+                            "pluralName": "Other Nightlife",
+                            "shortName": "Nightlife",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51852b64498e8375f1ae8dca",
+                    "name": "Terasa Yara",
+                    "location": {
+                        "lat": 47.707968954201505,
+                        "lng": 24.431719445076933,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.707968954201505,
+                                "lng": 24.431719445076933
+                            }
+                        ],
+                        "distance": 5630,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f8b211de4b055d2318aa18e",
+                    "name": "Pub Underground",
+                    "location": {
+                        "lat": 47.70837153548183,
+                        "lng": 24.427995952124245,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.70837153548183,
+                                "lng": 24.427995952124245
+                            }
+                        ],
+                        "distance": 5368,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11b941735",
+                            "name": "Pub",
+                            "pluralName": "Pubs",
+                            "shortName": "Pub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4fb8ef96e4b08a09e67645e3",
+                    "name": "Raresh",
+                    "location": {
+                        "lat": 47.707777,
+                        "lng": 24.431947,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.707777,
+                                "lng": 24.431947
+                            }
+                        ],
+                        "distance": 5656,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4efba084d4f29a453982aad7",
+                    "name": "Groupama Asigurari",
+                    "location": {
+                        "address": "Str. Iuliu Maniu nr. 1, et. 1",
+                        "lat": 47.708606,
+                        "lng": 24.424324,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.708606,
+                                "lng": 24.424324
+                            }
+                        ],
+                        "distance": 5120,
+                        "postalCode": "435700",
+                        "cc": "RO",
+                        "city": "Vi\u015feu de Sus",
+                        "state": "Maramure\u0219",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Str. Iuliu Maniu nr. 1, et. 1",
+                            "435700 Viseul De Sus",
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4d4b7105d754a06375d81259",
+                            "name": "Professional & Other Places",
+                            "pluralName": "Professional & Other Places",
+                            "shortName": "Professional",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51ebb012498ebec678e3decb",
+                    "name": "Pop's Land",
+                    "location": {
+                        "address": "Valea Iepei",
+                        "lat": 47.754117,
+                        "lng": 24.307563,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.754117,
+                                "lng": 24.307563
+                            }
+                        ],
+                        "distance": 4992,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Valea Iepei",
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d15f941735",
+                            "name": "Field",
+                            "pluralName": "Fields",
+                            "shortName": "Field",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/field_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51820c53498e22a5ace33a29",
+                    "name": "Restaurant Mineru T",
+                    "location": {
+                        "lat": 47.708839438023716,
+                        "lng": 24.4300182440528,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.708839438023716,
+                                "lng": 24.4300182440528
+                            }
+                        ],
+                        "distance": 5471,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11e941735",
+                            "name": "Cocktail Bar",
+                            "pluralName": "Cocktail Bars",
+                            "shortName": "Cocktail",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f742172e4b006a67d8cf5c9",
+                    "name": "Observator",
+                    "location": {
+                        "lat": 47.707654,
+                        "lng": 24.431762,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.707654,
+                                "lng": 24.431762
+                            }
+                        ],
+                        "distance": 5651,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1c4941735",
+                            "name": "Restaurant",
+                            "pluralName": "Restaurants",
+                            "shortName": "Restaurant",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f72c091e4b05b6a6867891f",
+                    "name": "School",
+                    "location": {
+                        "lat": 47.7112718440903,
+                        "lng": 24.43008109737024,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.7112718440903,
+                                "lng": 24.43008109737024
+                            }
+                        ],
+                        "distance": 5346,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d13b941735",
+                            "name": "School",
+                            "pluralName": "Schools",
+                            "shortName": "School",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "519f544e498e31f53dce59f8",
+                    "name": "Casa de Cultura",
+                    "location": {
+                        "lat": 47.708287865287296,
+                        "lng": 24.42696510458927,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.708287865287296,
+                                "lng": 24.42696510458927
+                            }
+                        ],
+                        "distance": 5306,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "5032792091d4c4b30a586d5c",
+                            "name": "Concert Hall",
+                            "pluralName": "Concert Halls",
+                            "shortName": "Concert Hall",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "54c1f59b498e3427269fdf88",
+                    "name": "scoala nr.1",
+                    "location": {
+                        "lat": 47.711273,
+                        "lng": 24.429343,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.711273,
+                                "lng": 24.429343
+                            }
+                        ],
+                        "distance": 5297,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1a8941735",
+                            "name": "General College & University",
+                            "pluralName": "General Colleges & Universities",
+                            "shortName": "Education",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/other_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "53be8565498e218e4f9faa3e",
+                    "name": "Salon Mimi",
+                    "location": {
+                        "lat": 47.706811,
+                        "lng": 24.426655,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.706811,
+                                "lng": 24.426655
+                            }
+                        ],
+                        "distance": 5375,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d110951735",
+                            "name": "Salon / Barbershop",
+                            "pluralName": "Salons / Barbershops",
+                            "shortName": "Salon / Barbershop",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50dd96a1e4b0e21651feadef",
+                    "name": "Farmacia M.M.M.",
+                    "location": {
+                        "lat": 47.707814621901505,
+                        "lng": 24.426934338451968,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.707814621901505,
+                                "lng": 24.426934338451968
+                            }
+                        ],
+                        "distance": 5332,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d10f951735",
+                            "name": "Pharmacy",
+                            "pluralName": "Pharmacies",
+                            "shortName": "Pharmacy",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                },
+                {
+                    "id": "53fadb27498e33ee6445a9f0",
+                    "name": "Pensiunea Vaduri",
+                    "location": {
+                        "lat": 47.72347640991211,
+                        "lng": 24.369211196899414,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 47.72347640991211,
+                                "lng": 24.369211196899414
+                            }
+                        ],
+                        "distance": 1113,
+                        "cc": "RO",
+                        "country": "Rom\u00e2nia",
+                        "formattedAddress": [
+                            "Rom\u00e2nia"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "52e81612bcbc57f1066b7a34",
+                            "name": "Community Center",
+                            "pluralName": "Community Centers",
+                            "shortName": "Community Center",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643496630",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    }
+}

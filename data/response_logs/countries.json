@@ -1,0 +1,77 @@
+{
+    "48.953, 3.06238": {
+        "place_id": 282653968,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2202162,
+        "lat": "46.603354",
+        "lon": "1.8883335",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.9133264437396503,
+        "addresstype": "country",
+        "name": "France",
+        "display_name": "France",
+        "address": {
+            "country": "France",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "-50.2187169",
+            "51.3055721",
+            "-178.3873749",
+            "172.3057152"
+        ]
+    },
+    "-0.89065, 110.78539": {
+        "place_id": 282469732,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 304751,
+        "lat": "-2.4833826",
+        "lon": "117.8902853",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8155820405486824,
+        "addresstype": "country",
+        "name": "Indonesia",
+        "display_name": "Indonesia",
+        "address": {
+            "country": "Indonesia",
+            "country_code": "id"
+        },
+        "boundingbox": [
+            "-11.2085669",
+            "6.2744496",
+            "94.7717124",
+            "141.0200345"
+        ]
+    },
+    "47.733333, 24.366667": {
+        "place_id": 282235618,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 90689,
+        "lat": "45.9852129",
+        "lon": "24.6859225",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8053461798288829,
+        "addresstype": "country",
+        "name": "Romania",
+        "display_name": "Romania",
+        "address": {
+            "country": "Romania",
+            "country_code": "ro"
+        },
+        "boundingbox": [
+            "43.618682",
+            "48.2654738",
+            "20.2619955",
+            "30.0454257"
+        ]
+    }
+}

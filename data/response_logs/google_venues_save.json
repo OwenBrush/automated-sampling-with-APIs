@@ -1,0 +1,2004 @@
+{
+    "48.953, 3.06238": {
+        "html_attributions": [],
+        "next_page_token": "Aap_uEBq8F-7hxW_3BLL_QSfPn1lxI9ea5dJNZ5dxmYci8bxWdKTnTo0eYcA77waPpPWxhGEZaWHcQaqCZHyglTzSWMUZYu9QKUDzNLYKxHE7yV0G7DGfAEuFNyfzkM_ce6MGKPOB4yGC5CNJTTWSz160WrkiIYWOVB6hFAfEcWK-eAehxQS1wa9euJw8xcBptWsITTlPb9TrtjcVXTI9QQvIAp_CnBZFl-uq-7uszL4Qki9aWx3IzWZwhAf5oDad9PwCc2wy1vdFfjt9WvDRIjGtlNCBO-JETmpYSLxkBVil01eIpeAGYiLRC3WRr7dqzTuQuRvTPiRAMPm-Ne7-DVe3SsnKqHrIAj4m350GnhEsEVjevzX6NOVoWW1pv7gq1e9ZUM6waqTS-1-ssMyY9b2wk_6_U_y0BRgewDYJsvMiRjO",
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 48.95050699999999,
+                        "lng": 3.130059
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.97754645283936,
+                            "lng": 3.167277047643775
+                        },
+                        "southwest": {
+                            "lat": 48.93492740455928,
+                            "lng": 3.102540890594951
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "La Fert\u00e9-sous-Jouarre",
+                "photos": [
+                    {
+                        "height": 2736,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115740287788651374817\">ciel odinhive</a>"
+                        ],
+                        "photo_reference": "Aap_uEACGK5AQKiWN7St8GqyELP_M4JnA__Ziej6mEYrfvxOjD1khP70mYKFZpR8ekCOIo-cfPcVrPDwFbI_-DQ6ZYtM0Q2JrTp4_hYip-CHdbPxOxI42WCEYZ3T9cx6NkK1XIk-N9rKt_49T9CEDTwiboae1-DyoJo9ygqFszvox59Z-vKb",
+                        "width": 3648
+                    }
+                ],
+                "place_id": "ChIJ17gIEPG-6EcRkBWRO3qGb-s",
+                "reference": "ChIJ17gIEPG-6EcRkBWRO3qGb-s",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "La Fert\u00e9-sous-Jouarre"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9436416,
+                        "lng": 3.1226605
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.94486378029151,
+                            "lng": 3.123766330291502
+                        },
+                        "southwest": {
+                            "lat": 48.94216581970851,
+                            "lng": 3.121068369708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Best Hotel",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1365,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/118005961913512558919\">Best Hotel La Fert\u00e9 sous Jouarre</a>"
+                        ],
+                        "photo_reference": "Aap_uEC6x_c3AGMjzZcXLnfz2dwROxLAkrxjfJBESsvvz-HNLYbCqVxz05-iu74ABVfOPAEpUjWXZtqQA-s2k3k-sVhNJ27EWKCIq0nK1MWEzOXR1KuPze0vrPuOkO3fsXtgxlZMBgYsTFJJFfa3DN_n7fAotU_V4Pl4eUYG0gOCu3m_jVY",
+                        "width": 2048
+                    }
+                ],
+                "place_id": "ChIJr9xSg5S-6EcRN_PmC6rT8ks",
+                "plus_code": {
+                    "compound_code": "W4VF+F3 La Fert\u00e9-sous-Jouarre, France",
+                    "global_code": "8FW5W4VF+F3"
+                },
+                "rating": 3.3,
+                "reference": "ChIJr9xSg5S-6EcRN_PmC6rT8ks",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 179,
+                "vicinity": "32 Avenue Franklin Roosevelt, La Fert\u00e9-sous-Jouarre"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.96373399999999,
+                        "lng": 3.052824
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.96504338029149,
+                            "lng": 3.054297780291502
+                        },
+                        "southwest": {
+                            "lat": 48.9623454197085,
+                            "lng": 3.051599819708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Aire de Changis-sur-Marne",
+                "opening_hours": {
+                    "open_now": true
+                },
+                "photos": [
+                    {
+                        "height": 3120,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107684308969483354662\">Cathie Catou</a>"
+                        ],
+                        "photo_reference": "Aap_uEBiDze_RLL4lJEDElQA7C1bgfaJbjIkp4vuvoJMb4OHZqn7dYbBJLDoIQ6QAfNcLzcryVdke1jTD2wvhBMYrSYpfMSj3vvzExjYrYt2nGlRfP6I3VizzEDvvav4TksXvekQDH_d-d1SlsHzkRDXcq9NivWlXaJYrxt50c1W3_32HD2K",
+                        "width": 4160
+                    }
+                ],
+                "place_id": "ChIJH3QKcAG96EcRq3d9aHEa5ao",
+                "plus_code": {
+                    "compound_code": "X373+F4 Ussy-sur-Marne, France",
+                    "global_code": "8FW5X373+F4"
+                },
+                "rating": 3.8,
+                "reference": "ChIJH3QKcAG96EcRq3d9aHEa5ao",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 726,
+                "vicinity": "Autoroute A4 Km 56 Sens Strasbourg > Paris, Ussy-sur-Marne"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9496716,
+                        "lng": 3.129571
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9510392302915,
+                            "lng": 3.130926430291502
+                        },
+                        "southwest": {
+                            "lat": 48.9483412697085,
+                            "lng": 3.128228469708499
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "PRO&Cie",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJfed3avK-6EcRLug1Ra2NxoY",
+                "plus_code": {
+                    "compound_code": "W4XH+VR La Fert\u00e9-sous-Jouarre, France",
+                    "global_code": "8FW5W4XH+VR"
+                },
+                "rating": 4.7,
+                "reference": "ChIJfed3avK-6EcRLug1Ra2NxoY",
+                "scope": "GOOGLE",
+                "types": [
+                    "electronics_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 27,
+                "vicinity": "35 Rue des Pelletiers, La Fert\u00e9-sous-Jouarre"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9501178,
+                        "lng": 3.1298456
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9514962302915,
+                            "lng": 3.131186880291501
+                        },
+                        "southwest": {
+                            "lat": 48.9487982697085,
+                            "lng": 3.128488919708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+                "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 4032,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114838126227383034292\">Cpt L&#39;inspecteur</a>"
+                        ],
+                        "photo_reference": "Aap_uEAdWJcif2eDZnvhsE60WeeL0_OnCoMGpYvm6fxE1riiX-jEC6CpoEju6rfkk3LZJ-BWAer0U0sgfTWCc_j_gunQMbhvTaM9-lJBldC1C4SwT2b-vxZFiyx1E9zTJHRGg5_6EbIVOSRtMBdR5wmxUXXmPYdsMcZyBxtfaELjaCELPG5f",
+                        "width": 3024
+                    }
+                ],
+                "place_id": "ChIJMb9XR_K-6EcRgssrLbiZVgY",
+                "plus_code": {
+                    "compound_code": "X42H+2W La Fert\u00e9-sous-Jouarre, France",
+                    "global_code": "8FW5X42H+2W"
+                },
+                "rating": 4.2,
+                "reference": "ChIJMb9XR_K-6EcRgssrLbiZVgY",
+                "scope": "GOOGLE",
+                "types": [
+                    "bank",
+                    "atm",
+                    "finance",
+                    "insurance_agency",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 45,
+                "vicinity": "15 Rue du Mouton, La Fert\u00e9-sous-Jouarre"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.943654,
+                        "lng": 3.023954
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.94492793029149,
+                            "lng": 3.025298380291502
+                        },
+                        "southwest": {
+                            "lat": 48.9422299697085,
+                            "lng": 3.022600419708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Chambre d'hotes Romance",
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101374448737510074111\">Melody Kao</a>"
+                        ],
+                        "photo_reference": "Aap_uEA1T4aD5MDHhsGPwC8087ZE_Xs94gEUqprGF-aSbTeL3e_lrHn0ADtrEj1LHUPybOmYdEFXW7LB5u4CaYDdfSkS1Ms7e8irwFmB1uGX_d2B87UFUZoA-MYCRQfSU-uqOwRqrYwaLCgVYrF9Pn9chN2J_FL2BC2xNs7UQfaYiNSkVjJl",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJo42lrce86EcRQeJN0Q4OfpQ",
+                "plus_code": {
+                    "compound_code": "W2VF+FH Saint-Jean-les-Deux-Jumeaux, France",
+                    "global_code": "8FW5W2VF+FH"
+                },
+                "rating": 3.9,
+                "reference": "ChIJo42lrce86EcRQeJN0Q4OfpQ",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 7,
+                "vicinity": "52 Rue Andre Hache, Saint-Jean-les-Deux-Jumeaux"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.94869,
+                        "lng": 3.086382
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9500602302915,
+                            "lng": 3.087725430291502
+                        },
+                        "southwest": {
+                            "lat": 48.9473622697085,
+                            "lng": 3.085027469708499
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Mairie de Sammeron",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 4224,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102882420462978698993\">Jacques Charlier</a>"
+                        ],
+                        "photo_reference": "Aap_uEDffHW5Efg8RSs48DLtqLEQ-EZM-cCvzo8BV4d32VhyC4NMWr0e43QIV5i37Fi8D5EBFuwbWfYr9TpTrcJJgzPgK4dahGsy6gA2R4uGnGH1j32HHH66vwpLlVuFAFUqOwgBUhV0uYw63PEzHbi6cL-5tCM6bXjBQmJW_6jwfVfoxkYv",
+                        "width": 3136
+                    }
+                ],
+                "place_id": "ChIJu_tDvDq86EcRvs9nHNtYvfo",
+                "plus_code": {
+                    "compound_code": "W3XP+FH Sammeron, France",
+                    "global_code": "8FW5W3XP+FH"
+                },
+                "rating": 4.8,
+                "reference": "ChIJu_tDvDq86EcRvs9nHNtYvfo",
+                "scope": "GOOGLE",
+                "types": [
+                    "city_hall",
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 4,
+                "vicinity": "Place de Verdun, Sammeron"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9543162,
+                        "lng": 3.0707613
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9556028802915,
+                            "lng": 3.072044930291502
+                        },
+                        "southwest": {
+                            "lat": 48.9529049197085,
+                            "lng": 3.069346969708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "En ville \u00e0 Ussy-sur-Marne",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1465,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/108749509938899578236\">Daniel WILK</a>"
+                        ],
+                        "photo_reference": "Aap_uEC6mYr4-p19A_eIIDD1oNorFgstqUMCs8fbzM3Q69xmdZvwq452onNFPEGWaTPE1iskoaf0q4-EHbdE-2Vgg3YY4ukbJ4MXTqJ4UcKpii-Sx-AyIBMj5icHVsCy4XdC0J61OdW3Bw0Lvj4rZxvR9nUEnPs80pOMgAkWvhfjZDOtLMS1",
+                        "width": 1953
+                    }
+                ],
+                "place_id": "ChIJnV_IZk686EcRu0aQ0JCeCcU",
+                "plus_code": {
+                    "compound_code": "X33C+P8 Ussy-sur-Marne, France",
+                    "global_code": "8FW5X33C+P8"
+                },
+                "rating": 4.4,
+                "reference": "ChIJnV_IZk686EcRu0aQ0JCeCcU",
+                "scope": "GOOGLE",
+                "types": [
+                    "city_hall",
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 7,
+                "vicinity": "2 Rue de Changis, Ussy-sur-Marne"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9374263,
+                        "lng": 3.1027189
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9388203802915,
+                            "lng": 3.104090230291501
+                        },
+                        "southwest": {
+                            "lat": 48.9361224197085,
+                            "lng": 3.101392269708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Mairie",
+                "photos": [
+                    {
+                        "height": 3456,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112780396015343811853\">Igor Neaga</a>"
+                        ],
+                        "photo_reference": "Aap_uEBuyaxsxKlhNbWG1IFywQy6BGYjSM0zhny4aYg4ullC9fdfPcC551hy8czJHVw_FoPSFqrVQebjATnjsBRnK3eA0nRRNXTzVU5xs-wbl01n3QSejkkgs1A-bbPvlQTOhgeW0pATeqPdJ77JheL-NqqEJj_cIj_dXXyNssQ9MFN_QaX8",
+                        "width": 4608
+                    }
+                ],
+                "place_id": "ChIJzQx5aaC-6EcRLMUzqnVkHbc",
+                "plus_code": {
+                    "compound_code": "W4P3+X3 Sept-Sorts, France",
+                    "global_code": "8FW5W4P3+X3"
+                },
+                "rating": 3.5,
+                "reference": "ChIJzQx5aaC-6EcRLMUzqnVkHbc",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 15,
+                "vicinity": "21 Rue de la Mairie, Sept-Sorts"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9481042,
+                        "lng": 3.0740904
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.94945318029149,
+                            "lng": 3.075439380291502
+                        },
+                        "southwest": {
+                            "lat": 48.94675521970849,
+                            "lng": 3.072741419708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Harl\u00e9 Alex - Boucherie -charcuterie - boulangerie - vente en ligne",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 400,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112463965250377979256\">Harl\u00e9 Alex - Boucherie -charcuterie - boulangerie - vente en ligne</a>"
+                        ],
+                        "photo_reference": "Aap_uECvWVaIoSitthEbooqM75ztSrw3Ompp9p1uRpGLV1vGkpwnQ6iUiZ4ZQ8asikZy4AHr-XCOZGPuGSjLO41rciKHP81GhBzsYDHMufu-jlgnl15zOGQP2Mm7JOUx-q5yyI_ekIjIPMEzJWZWFsJeM1aY6_aSLNv2cAiMPxelP0aT_5F1",
+                        "width": 600
+                    }
+                ],
+                "place_id": "ChIJ_6Pt2UW86EcRLs33BmUk2EI",
+                "plus_code": {
+                    "compound_code": "W3XF+6J Sammeron, France",
+                    "global_code": "8FW5W3XF+6J"
+                },
+                "rating": 4.2,
+                "reference": "ChIJ_6Pt2UW86EcRLs33BmUk2EI",
+                "scope": "GOOGLE",
+                "types": [
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 100,
+                "vicinity": "94 Rue de Metz, Sammeron"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9510407,
+                        "lng": 3.019809099999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9524596302915,
+                            "lng": 3.021178580291501
+                        },
+                        "southwest": {
+                            "lat": 48.9497616697085,
+                            "lng": 3.018480619708497
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Saint Jean M\u00e9dical",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 844,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/100596650631109458045\">MA MA</a>"
+                        ],
+                        "photo_reference": "Aap_uEAwqSpXZl2Ryakpe_VMF_WR2peEfqJhSCgd_7jf69bdo3NISwrioqhlx5qBWAJSYTXStASRiLkgkOQzZLKZ0JUFj9Nt_KL5Fx3fSAU1NihsQFcJx7klk9Eg5DuUtOYA9O2W9sFBybUHE7FFZzQMOqi9YIhozQJXj-L_gHNTmHmoaZWR",
+                        "width": 881
+                    }
+                ],
+                "place_id": "ChIJaVSL1M-86EcRYhDMHbenSXc",
+                "plus_code": {
+                    "compound_code": "X229+CW Saint-Jean-les-Deux-Jumeaux, France",
+                    "global_code": "8FW5X229+CW"
+                },
+                "rating": 4.8,
+                "reference": "ChIJaVSL1M-86EcRYhDMHbenSXc",
+                "scope": "GOOGLE",
+                "types": [
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 8,
+                "vicinity": "17 Rue Raymond Poincar\u00e9, Saint-Jean-les-Deux-Jumeaux"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.94894849999999,
+                        "lng": 3.0814937
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.95032188029149,
+                            "lng": 3.082602230291502
+                        },
+                        "southwest": {
+                            "lat": 48.94762391970849,
+                            "lng": 3.079904269708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Navette 77",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2268,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106790708570012508704\">Alain SIMON</a>"
+                        ],
+                        "photo_reference": "Aap_uECMYCbqmHfYrc1JiWTIJ4t0_nKXtaWKFLoQ_0doSJHZIgnu2LBOP4bWFl20zDODzQl_FwT2bKW7U8s0NMGN2aiqCobr9f31xL5tvSsuD9QDORzaUHzczvR7PFEXPPcpwC_6NSRHHPWcNxk9gKj1cbk4BUrp-IVHqJ-jffeEPWgQHHEN",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJ88AyIji86EcRtbKt8Y3o7As",
+                "plus_code": {
+                    "compound_code": "W3XJ+HH Sammeron, France",
+                    "global_code": "8FW5W3XJ+HH"
+                },
+                "rating": 4.8,
+                "reference": "ChIJ88AyIji86EcRtbKt8Y3o7As",
+                "scope": "GOOGLE",
+                "types": [
+                    "travel_agency",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 12,
+                "vicinity": "13 Rue de la Charbonni\u00e8re, Sammeron"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9551224,
+                        "lng": 3.128867
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9564464802915,
+                            "lng": 3.130339280291502
+                        },
+                        "southwest": {
+                            "lat": 48.9537485197085,
+                            "lng": 3.127641319708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "United Colors of Benetton",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJHXV8-AOh6EcR0MTHwIYHaAA",
+                "plus_code": {
+                    "compound_code": "X44H+2G Meaux, France",
+                    "global_code": "8FW5X44H+2G"
+                },
+                "rating": 4.5,
+                "reference": "ChIJHXV8-AOh6EcR0MTHwIYHaAA",
+                "scope": "GOOGLE",
+                "types": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 10,
+                "vicinity": "43 Avenue du G\u00e9n\u00e9ral Leclerc, Meaux"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9514124,
+                        "lng": 3.0191006
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.95271968029149,
+                            "lng": 3.020436230291502
+                        },
+                        "southwest": {
+                            "lat": 48.9500217197085,
+                            "lng": 3.017738269708499
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Mairie de Saint-Jean-les-deux-Jumeaux",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2268,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114026805522423525424\">Vitalie Crudu</a>"
+                        ],
+                        "photo_reference": "Aap_uEBI4_Ab2MPNG81SRC81gvPGsn8aKlAm3k1yuCDzQOKcARq3-tKTzPwgYuoyTEsKN9i7-ytgNA9zHH1k1fPrLmC4auGbEoZ9chFQ1bjn3b2urwPhGwiOJIad3-aKccbHOcWs818xeKgP5vfgk1ELADiOLdSVKD0mizOsF5s08fVmIYmi",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJtaFPfNS86EcRBcbAEGlGlMA",
+                "plus_code": {
+                    "compound_code": "X229+HJ Saint-Jean-les-Deux-Jumeaux, France",
+                    "global_code": "8FW5X229+HJ"
+                },
+                "rating": 3.8,
+                "reference": "ChIJtaFPfNS86EcRBcbAEGlGlMA",
+                "scope": "GOOGLE",
+                "types": [
+                    "city_hall",
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 6,
+                "vicinity": "46 Rue Raymond Poincar\u00e9, Saint-Jean-les-Deux-Jumeaux"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.95435000000001,
+                        "lng": 3.0749287
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9554936802915,
+                            "lng": 3.076325830291502
+                        },
+                        "southwest": {
+                            "lat": 48.9527957197085,
+                            "lng": 3.073627869708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Vishka LAND - Family Breeding COTTON TULEAR",
+                "photos": [
+                    {
+                        "height": 1512,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112686623757373088713\">VISHKA LAND - Elevage Familial de COTON DE TULEAR</a>"
+                        ],
+                        "photo_reference": "Aap_uEBn862dadaAi8QRZrP2sdGITQpVodDYsf8OVaAQzuM8cUp2T9EH--HYSLZhdTIqLv5sKsFwSMGGS7pbU6BxsHcCU2e8On_XtR6VdLsnSIwOGVxoJxCWyDQUAhzHQ97YkQhdRmw1CE46jklPdCN7Kit9q6SuIQu_w5DNgQiZNe7TxQhC",
+                        "width": 2048
+                    }
+                ],
+                "place_id": "ChIJe1auiEm86EcRV5P4Gkmvzdo",
+                "plus_code": {
+                    "compound_code": "X33F+PX Ussy-sur-Marne, France",
+                    "global_code": "8FW5X33F+PX"
+                },
+                "rating": 4.9,
+                "reference": "ChIJe1auiEm86EcRV5P4Gkmvzdo",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 24,
+                "vicinity": "Rue de la Fert\u00e9, Ussy-sur-Marne"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.97053749999999,
+                        "lng": 3.0645478
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9718864802915,
+                            "lng": 3.065896780291502
+                        },
+                        "southwest": {
+                            "lat": 48.9691885197085,
+                            "lng": 3.063198819708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+                "icon_background_color": "#FF9E67",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+                "name": "LEO RESTO - AIRE DE USSY SUR MARNE",
+                "opening_hours": {
+                    "open_now": true
+                },
+                "photos": [
+                    {
+                        "height": 660,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/105055026395025613765\">LEO RESTO - AIRE DE USSY SUR MARNE</a>"
+                        ],
+                        "photo_reference": "Aap_uEDOKZDazTyBchwfJ39ZA5RDffDeb-q4GWu6WX3CBkj-BR9v8g0o6YfPWJaqgns5xcMCxoJSD-_mXUqCacwR1ZPKy8by-zItPAyNXUxx00KMZHCLhgCxhOK8ZM4sa63Cofk36DQtku9DuQs5ADed9Bp93MNYRjtQD1cqZvEQFMtL16E6",
+                        "width": 1370
+                    }
+                ],
+                "place_id": "ChIJcd0IBKa96EcRRBHtLgx1iRU",
+                "plus_code": {
+                    "compound_code": "X3C7+6R Ussy-sur-Marne, France",
+                    "global_code": "8FW5X3C7+6R"
+                },
+                "price_level": 2,
+                "rating": 3.5,
+                "reference": "ChIJcd0IBKa96EcRRBHtLgx1iRU",
+                "scope": "GOOGLE",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 770,
+                "vicinity": "Autoroute de l'Est Sens Paris Reims, Ussy-sur-Marne"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.927598,
+                        "lng": 3.067955
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9290009802915,
+                            "lng": 3.069342630291502
+                        },
+                        "southwest": {
+                            "lat": 48.9263030197085,
+                            "lng": 3.066644669708499
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Mairie",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJ6cgmV3C86EcRKpq5I-rfF2I",
+                "plus_code": {
+                    "compound_code": "W3H9+25 Signy-Signets, France",
+                    "global_code": "8FW5W3H9+25"
+                },
+                "reference": "ChIJ6cgmV3C86EcRKpq5I-rfF2I",
+                "scope": "GOOGLE",
+                "types": [
+                    "city_hall",
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "5 Place de l'\u00c9glise, Signy-Signets"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.9484997,
+                        "lng": 3.0855565
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.9499687802915,
+                            "lng": 3.086996030291502
+                        },
+                        "southwest": {
+                            "lat": 48.9472708197085,
+                            "lng": 3.084298069708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Centre de Loisirs",
+                "photos": [
+                    {
+                        "height": 1080,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101620421709259004080\">romuald TESTA</a>"
+                        ],
+                        "photo_reference": "Aap_uECkKdrEkYiJdn5czNeZjNKWnQ-7wSGnqwe6C1nZeT7ieGsMFChRE7qnOhXy8hIfkNSRLN8j4Pfa5zF0WGBU0jwWgOmHcEh_c-Xtp6iBIcEYF4qf8Mw7_Un68xMdpnatTN5D9l8Yd30-8Ue1whwHpfbZCFOMATJdDmuYeXS4kQ8j94Jr",
+                        "width": 1920
+                    }
+                ],
+                "place_id": "ChIJR04ZFzq86EcRMhZdzr8E7Z8",
+                "plus_code": {
+                    "compound_code": "W3XP+96 Sammeron, France",
+                    "global_code": "8FW5W3XP+96"
+                },
+                "rating": 5,
+                "reference": "ChIJR04ZFzq86EcRMhZdzr8E7Z8",
+                "scope": "GOOGLE",
+                "types": [
+                    "city_hall",
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "1 Rue Ren\u00e9 Cassin, Sammeron"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 48.94589800000001,
+                        "lng": 3.041821
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.94727758029151,
+                            "lng": 3.043158680291501
+                        },
+                        "southwest": {
+                            "lat": 48.94457961970851,
+                            "lng": 3.040460719708498
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "S.I.C.A.H Soci\u00e9t\u00e9 Ingenierie Conception et Am\u00e9nagement Hospitalier",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJBWpBgO686EcRNiGM2yV9PuM",
+                "plus_code": {
+                    "compound_code": "W2WR+9P Saint-Jean-les-Deux-Jumeaux, France",
+                    "global_code": "8FW5W2WR+9P"
+                },
+                "reference": "ChIJBWpBgO686EcRNiGM2yV9PuM",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Les Merisiers, hameau montretout, Saint-Jean-les-Deux-Jumeaux"
+            },
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 48.92697,
+                        "lng": 3.130026
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 48.95050286323853,
+                            "lng": 3.189282180129546
+                        },
+                        "southwest": {
+                            "lat": 48.86018197295834,
+                            "lng": 3.042450581150161
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Jouarre",
+                "photos": [
+                    {
+                        "height": 2304,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104857624375309536729\">Chantal Schuller</a>"
+                        ],
+                        "photo_reference": "Aap_uEBPSpL61j6zqA9ju9I7PDeEOd-zah1TF1K_xehrYEznXT5eLOA47YW2GqDpoFlwmQDW7gCRc1hqUTLtxojVygkGNfRHH83icb8n_Nk6uH7XNgtJg4hQqQAqqwQGffYqgUEuQxvyRjFxn6QoMK9DQeT7GSba2Inf-blOSSl96NoJW2UL",
+                        "width": 3456
+                    }
+                ],
+                "place_id": "ChIJjf7SkUa56EcRcFeMaMOCCwQ",
+                "reference": "ChIJjf7SkUa56EcRcFeMaMOCCwQ",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Jouarre"
+            }
+        ],
+        "status": "OK"
+    },
+    "-0.89065, 110.78539": {
+        "html_attributions": [],
+        "results": [
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -0.9179565000000001,
+                        "lng": 110.7929721
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -0.916607519708498,
+                            "lng": 110.7943210802915
+                        },
+                        "southwest": {
+                            "lat": -0.919305480291502,
+                            "lng": 110.7916231197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Pustu Tanjung Lambai",
+                "photos": [
+                    {
+                        "height": 480,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117786276387965565193\">Fitriani Yulistio</a>"
+                        ],
+                        "photo_reference": "Aap_uEB-BqeQ3b9MgTr-Ip_ZUNqyhw128Xa-d3VsTTnKPKncOEwonLqW5OmpiyolnMBmsGlPj7PDLpqhPDS3XYj1vvW1FzyTOU2iq37eUJhnTJmBH3-uATZjwAaszLwPfupUu3fOTrPDQIn-JL9kkPkpHTkgutoXOWEjBukjY0giLhDAST0Q",
+                        "width": 640
+                    }
+                ],
+                "place_id": "ChIJGWVJ1PfrAy4RxN6x7UNKrJk",
+                "reference": "ChIJGWVJ1PfrAy4RxN6x7UNKrJk",
+                "scope": "GOOGLE",
+                "types": [
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "3QJV+R59, Senduruhan"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -0.9206312999999999,
+                        "lng": 110.791924
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -0.9192823197084979,
+                            "lng": 110.7932729802915
+                        },
+                        "southwest": {
+                            "lat": -0.921980280291502,
+                            "lng": 110.7905750197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "SDN 06 Hulu Sungai Tanjung Lambai",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 6000,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/108980238061871253845\">Setyo budi santoso</a>"
+                        ],
+                        "photo_reference": "Aap_uECUqKbsBSDaaINPhedYvHxl9JbRfoAAKr-TPuv-BIEbl3UFtSL2aYWf7y0CowAFS2APC6bqeG6eM0eJBUyRHzbZRakauAfomeok0Ajgr-OzeA89ly2EdaEQzm2ZEIT5vFk4asuR43w8vac7-xjdSoZOXcSJ794jayU2zF2vpPzWPZZB",
+                        "width": 8000
+                    }
+                ],
+                "place_id": "ChIJzaU13XPtAy4RPPFRMIUrslU",
+                "reference": "ChIJzaU13XPtAy4RPPFRMIUrslU",
+                "scope": "GOOGLE",
+                "types": [
+                    "primary_school",
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "3QHR+PQ, Senduruhan"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -0.9213688000000001,
+                        "lng": 110.7906738
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -0.920019819708498,
+                            "lng": 110.7920227802915
+                        },
+                        "southwest": {
+                            "lat": -0.9227177802915021,
+                            "lng": 110.7893248197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Jembatan Gantung Tanjung Lambai",
+                "place_id": "ChIJk7GtaQnsAy4R3e1PmZwmhD0",
+                "rating": 4,
+                "reference": "ChIJk7GtaQnsAy4R3e1PmZwmhD0",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2,
+                "vicinity": "3QHR+F73, Senduruhan"
+            }
+        ],
+        "status": "OK"
+    },
+    "47.733333, 24.366667": {
+        "html_attributions": [],
+        "next_page_token": "Aap_uEC5G5kXd1Hnt8u0FUvWvKZ_ZXY3sRQCeLRWxmIp0yN1EqrnpwlsuEXPuE4-D4CJeeaXnOJ3-AVfMNz0pM0QCfPo62nxAIZnHg7O74AczrIxh4tFL3Ra0A_D7o4cisStjDzHlCsBU_iXSdJyXARDDLVC-2fgsRCHRNtwpRDurv_7Xzu5OFjbjXs8498PxufzhlT2pSzu6Afxqay8kRrzuBbOHwjPJngpa2zReQxOia_FrR0-grjfyYDfMaGuNvCxOt4vnzcnjBIihptwDKzJ3mcUQpwLQPXgx7ymD3Nx2fBs54w-jVjtFl2Hy-G-UQ6zT-4-llCv7wl4zJkcOkIZs4uVjlQMvt2i8BwTJ1aycP7YE38ONiUk-NSNp8pbIZwLxljm51towecW5M1zDfJPgflR5Y2YzYlbo_MyFiObu_ql",
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 47.7150521,
+                        "lng": 24.4396734
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.75378060974827,
+                            "lng": 24.53978783268934
+                        },
+                        "southwest": {
+                            "lat": 47.66728765642867,
+                            "lng": 24.41019405861648
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Vi\u0219eu de Sus",
+                "photos": [
+                    {
+                        "height": 542,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115364070569766079412\">G.A.B. Relu B.</a>"
+                        ],
+                        "photo_reference": "Aap_uEDy_gpG4jvsqgW5tIFJ2gFss-1GloeeLq0XqnM9h3fiyoOjdrRV3KL5FR4rTI6cTJZrnuA5MhDIXHng7vfBBEDjPwozZAcLLWDQBa8yaNSVXpESZAaGeU0APqLtul1y0wYASs-iHLgyl4OA5HOBT4Duy7BayhmLmAVSq8mHHzIbP24q",
+                        "width": 720
+                    }
+                ],
+                "place_id": "ChIJ59yNAc1ANkcRviYpN3o3Fm0",
+                "reference": "ChIJ59yNAc1ANkcRviYpN3o3Fm0",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7179043,
+                        "lng": 24.3959999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7192624802915,
+                            "lng": 24.3973269802915
+                        },
+                        "southwest": {
+                            "lat": 47.7165645197085,
+                            "lng": 24.3946290197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Casa Teo",
+                "photos": [
+                    {
+                        "height": 2988,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101650690095871135963\">Bachnev Cosmin</a>"
+                        ],
+                        "photo_reference": "Aap_uEC2z3a5VeObDiRiXrI4HuNaPMP9PoSwgVNWnbvXLtO5_fRQcIKFDWNa-SieTh9kHLo1WOOt839UxGYMLaY7RRdMflCu8mCR0pEzJi312yeBZa7KEdax8nCP2t53Wn1wJH9Zub4Ngmw9D3Z-_OlfJEeHs8Xs8uoAuVw0wrkkVMMQv98i",
+                        "width": 5312
+                    }
+                ],
+                "place_id": "ChIJC7jZRBNHNkcR16FIfeqpcvA",
+                "plus_code": {
+                    "compound_code": "P99W+59 Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6P99W+59"
+                },
+                "rating": 4.4,
+                "reference": "ChIJC7jZRBNHNkcR16FIfeqpcvA",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 107,
+                "vicinity": "Strada branduselor numarul 1/A, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7249126,
+                        "lng": 24.3631375
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.72624748029149,
+                            "lng": 24.3643410802915
+                        },
+                        "southwest": {
+                            "lat": 47.7235495197085,
+                            "lng": 24.3616431197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Office.Dabala",
+                "permanently_closed": true,
+                "photos": [
+                    {
+                        "height": 949,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104520116054918934034\">Carl Georg Dabala</a>"
+                        ],
+                        "photo_reference": "Aap_uED7MYznDRiYdG9uFJbHI-_EFZmpFZtpr61ysfVayFHPm2YV92yXuYfFpe2I5VH7d-sgMKkvIWrvOW8D_en8nTIG8oWKwh3GRkuHgzMMhBItBgXzbbsrV6C8UMBEKVL4H3bVF-8rSOWewoJqINYV7OqkiS5Dvw0CRegGg2GFdNEcNf0g",
+                        "width": 1265
+                    }
+                ],
+                "place_id": "ChIJg-O4rqJHNkcRU_OBHom0q1Y",
+                "plus_code": {
+                    "compound_code": "P9F7+X7 Vi\u0219eu de Jos, Romania",
+                    "global_code": "8GV6P9F7+X7"
+                },
+                "rating": 4.3,
+                "reference": "ChIJg-O4rqJHNkcRU_OBHom0q1Y",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3,
+                "vicinity": "DN18 427, Vi\u0219eu de Jos"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.725475,
+                        "lng": 24.369917
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.72677383029149,
+                            "lng": 24.3712281302915
+                        },
+                        "southwest": {
+                            "lat": 47.72407586970849,
+                            "lng": 24.3685301697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "LAZ & STEF",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 4160,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102110985785359506169\">Vasile Tomoiag\u0103</a>"
+                        ],
+                        "photo_reference": "Aap_uEB4nyoL3nfXaQwqnv3L0cenTVxzoSbK5Bh1rictwBJ6IkubqW8s8Ch1LRtRs1ZxgvTQT2kQ5p4WoPZ5Z9Y7Y3cAHa8yqtebA46IdACrz5qsi3IxBG0EWJJXa3kmr4Ckqj1l4gPV_qltsfsPopVdssTYvIPrKoQP3nDlUhEOSVTc4eZV",
+                        "width": 3120
+                    }
+                ],
+                "place_id": "ChIJ0YjmMqJHNkcRq0xtnoueWYM",
+                "plus_code": {
+                    "compound_code": "P9G9+5X Vi\u0219eu de Jos, Romania",
+                    "global_code": "8GV6P9G9+5X"
+                },
+                "rating": 4.5,
+                "reference": "ChIJ0YjmMqJHNkcRq0xtnoueWYM",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 88,
+                "vicinity": "Maramures, Viseu de Jos, Strada Principala Nr. 706, Vi\u0219eu de Jos"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7266792,
+                        "lng": 24.3673546
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7279271802915,
+                            "lng": 24.3686262302915
+                        },
+                        "southwest": {
+                            "lat": 47.7252292197085,
+                            "lng": 24.3659282697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Poli\u021bia Vi\u0219eu de Jos",
+                "place_id": "ChIJN_QqBKNHNkcRXCUKSskOElc",
+                "plus_code": {
+                    "compound_code": "P9G8+MW Vi\u0219eu de Jos, Romania",
+                    "global_code": "8GV6P9G8+MW"
+                },
+                "reference": "ChIJN_QqBKNHNkcRXCUKSskOElc",
+                "scope": "GOOGLE",
+                "types": [
+                    "police",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "DN18, Vi\u0219eu de Jos"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7223203,
+                        "lng": 24.3742236
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7236824802915,
+                            "lng": 24.3757858802915
+                        },
+                        "southwest": {
+                            "lat": 47.72098451970851,
+                            "lng": 24.3730879197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Pensiunea Iza",
+                "photos": [
+                    {
+                        "height": 919,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110275621294966056598\">Dana Petrica</a>"
+                        ],
+                        "photo_reference": "Aap_uEByNq3zzAMls1-n_mYAr72nE8jByc0Vd1VDJj0C3IS_48vAtUNFQmp-iI3gDUgaPGKHWZNfLEDke9090tWfNGN7CHtzoDUPZwTWJcJkX6Nvq7rJ2Cr7J4pQm04RsfrZlB7h_CMyZpwj3vVz0WUx4BeK-ceYv93gcr1g_fao42zzVfvG",
+                        "width": 1568
+                    }
+                ],
+                "place_id": "ChIJPbyTIaBHNkcRJpTn_bwwXW0",
+                "plus_code": {
+                    "compound_code": "P9CF+WM Vi\u0219eu de Jos, Romania",
+                    "global_code": "8GV6P9CF+WM"
+                },
+                "rating": 4.6,
+                "reference": "ChIJPbyTIaBHNkcRJpTn_bwwXW0",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 142,
+                "vicinity": "Vi\u0219eu de Jos"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7195373,
+                        "lng": 24.3888444
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7208862802915,
+                            "lng": 24.3901933802915
+                        },
+                        "southwest": {
+                            "lat": 47.7181883197085,
+                            "lng": 24.3874954197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Romstal",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/111716741044841184475\">Uwe Neckel</a>"
+                        ],
+                        "photo_reference": "Aap_uED57GIdqMwRQehhJnN5U-1KGs4ZL1NBtJxJv1T0i527UqPYQ5mxqVHg85aqEMRO1qNKPXfuYolDfwv8E4pa3-A2vVaLqY65C3JRjmtwsAics4hdgHOEfvNMJ7cKVCULd689iSzIqfPxuz-M2H_NjvYCZ66qYHcE42GsaYyVYr5bjo8m",
+                        "width": 1021
+                    }
+                ],
+                "place_id": "ChIJtRpXB7dANkcRBczoHpxQ4io",
+                "plus_code": {
+                    "compound_code": "P99Q+RG Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6P99Q+RG"
+                },
+                "rating": 4.2,
+                "reference": "ChIJtRpXB7dANkcRBczoHpxQ4io",
+                "scope": "GOOGLE",
+                "types": [
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 26,
+                "vicinity": "Str. Bogdan Voda 138, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "geometry": {
+                    "location": {
+                        "lat": 47.726898,
+                        "lng": 24.33469
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7282033302915,
+                            "lng": 24.3358871302915
+                        },
+                        "southwest": {
+                            "lat": 47.7255053697085,
+                            "lng": 24.3331891697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Biserica greco-catolic\u0103 Danova",
+                "permanently_closed": true,
+                "place_id": "ChIJf4Vy3ehHNkcRPCgH0o4RTKc",
+                "plus_code": {
+                    "compound_code": "P8GM+QV Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6P8GM+QV"
+                },
+                "rating": 5,
+                "reference": "ChIJf4Vy3ehHNkcRPCgH0o4RTKc",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 4,
+                "vicinity": "47\u00b043'36. 24\u00b020'04., Strada 9 Mai 8\"N, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7410365,
+                        "lng": 24.4120651
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.74235883029149,
+                            "lng": 24.4133433302915
+                        },
+                        "southwest": {
+                            "lat": 47.73966086970849,
+                            "lng": 24.41064536970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Pensiunea Talhaus B&B",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 647,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112172806675724436127\">Pensiunea Talhaus B&amp;B</a>"
+                        ],
+                        "photo_reference": "Aap_uEDLaxck-fc8cdIOVJ5Dos5CNySM0fIAQDRf9tX27JaxshxyCTvaK53YCwpQaBp5TqpcTQ1Bbw8tvhttO5dz0_mMSmH4vNqB75-A6PPYORkSFNJW7O-Hepon8SoIXcjeaInHhGvM1NP4a7Dff4po7LAmqwpjA3VWx7rQQlYy7tvcZr-D",
+                        "width": 648
+                    }
+                ],
+                "place_id": "ChIJqTnvlORGNkcRhiZlH9-4WnU",
+                "plus_code": {
+                    "compound_code": "PCR6+CR Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PCR6+CR"
+                },
+                "rating": 4.9,
+                "reference": "ChIJqTnvlORGNkcRhiZlH9-4WnU",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 150,
+                "vicinity": "Strada Valea Vinului 87, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.73556589999999,
+                        "lng": 24.31912509999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7363244302915,
+                            "lng": 24.3201720302915
+                        },
+                        "southwest": {
+                            "lat": 47.7336264697085,
+                            "lng": 24.3174740697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Wooden Church",
+                "photos": [
+                    {
+                        "height": 4032,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116353801294633056431\">Raluca Moldovan</a>"
+                        ],
+                        "photo_reference": "Aap_uEAmKnSxdsnbSSlPRGoKKaWKLUcMX0EEusg5ro1-8uZ1D8TwfCAOT7NtWd2HiWKD4tSN4OnZkIybOTi-bzyJhiYOn8Sk9M5Hrc46DAERNdIAlTM3ZkVGBWuSfYPe94OE_byJhglf3LEOP3q45VEZ75XOFgNZrPSPPScLXbwlPcfLLHvg",
+                        "width": 1960
+                    }
+                ],
+                "place_id": "ChIJ5T6kIXVINkcR9LCBMYYvYu4",
+                "plus_code": {
+                    "compound_code": "P8P9+6M Vi\u0219eu de Jos, Romania",
+                    "global_code": "8GV6P8P9+6M"
+                },
+                "rating": 5,
+                "reference": "ChIJ5T6kIXVINkcR9LCBMYYvYu4",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 5,
+                "vicinity": "DN18"
+            },
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "geometry": {
+                    "location": {
+                        "lat": 47.714619,
+                        "lng": 24.40557
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.71604578029149,
+                            "lng": 24.4069812302915
+                        },
+                        "southwest": {
+                            "lat": 47.7133478197085,
+                            "lng": 24.40428326970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Biserica greco-catolic\u0103",
+                "permanently_closed": true,
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112737331898815701011\">danielle rus</a>"
+                        ],
+                        "photo_reference": "Aap_uEDjkB1ckL0Jj5NBxJq3sHDGmUJhH4ChHkS5btVeiY8s6Cj7QGkHBlBf6HRULUzbtoiP7EVVkzDJ062he072xqCHdEoOKEPtGtIXl4_NCnq55DX67kyFaNDqStXDuj6qfzbMDcXXkJe_PXKmyvkTTL1DZ01mPPyPwB9aHKRsY9FOekwN",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJb1KOeUBHNkcRj30XgagxyZ4",
+                "plus_code": {
+                    "compound_code": "PC74+R6 Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PC74+R6"
+                },
+                "rating": 5,
+                "reference": "ChIJb1KOeUBHNkcRj30XgagxyZ4",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2,
+                "vicinity": "47\u00b042'52. 24\u00b024'20., Strada 1 Mai 6\"N, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7126453,
+                        "lng": 24.404809
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7141198302915,
+                            "lng": 24.4062519802915
+                        },
+                        "southwest": {
+                            "lat": 47.7114218697085,
+                            "lng": 24.4035540197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Casa Grad",
+                "permanently_closed": true,
+                "photos": [
+                    {
+                        "height": 768,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/103012182240587255815\">Ciprian Grad</a>"
+                        ],
+                        "photo_reference": "Aap_uEBHWQ3qGQwX5IWSsgPoqRSVPnWgerw8EwzAjZHbxSLxYO9lOjzQBS6Sfv07UBon8OWpffGiNWBJ0Hm-_zI4IS5UJPmtvTrsPyv6RS7qMfXuwWSpMfZcRNqFGKCRLJaU0DFuTpmWQL22thUgf4QxAxOyGdbrnM8r7P1GgeaTJDgl6cVI",
+                        "width": 1024
+                    }
+                ],
+                "place_id": "ChIJF44I_0BHNkcR7Y9EZt2P964",
+                "plus_code": {
+                    "compound_code": "PC73+3W Vi\u0219eu de Mijloc, Romania",
+                    "global_code": "8GV6PC73+3W"
+                },
+                "rating": 4.8,
+                "reference": "ChIJF44I_0BHNkcR7Y9EZt2P964",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 11,
+                "vicinity": "Vi\u0219eu de Mijloc"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7190519,
+                        "lng": 24.4145836
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7203519802915,
+                            "lng": 24.4160001802915
+                        },
+                        "southwest": {
+                            "lat": 47.7176540197085,
+                            "lng": 24.4133022197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Pensiunea Landhaus",
+                "photos": [
+                    {
+                        "height": 2252,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114330805974328042504\">Catalin Diana</a>"
+                        ],
+                        "photo_reference": "Aap_uED3MM3-ZFjvXBtVqKKwqDdr-KLwtkPUjxplyHBndZmrpXVeWAxkplW6epv-Kpc2mgPucslSSRtZFTQonkboRDzQn5vSBjou3HmhOm5ja_LGF5THmRpvhc-5_mn_DD9WbWJmFdzF9B_lXnY38q4mmPhkiW-b3ZLZUNfuUKR7z7UGc7Gb",
+                        "width": 4000
+                    }
+                ],
+                "place_id": "ChIJh_oc9jtHNkcR2oFlebXEQrA",
+                "plus_code": {
+                    "compound_code": "PC97+JR Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PC97+JR"
+                },
+                "rating": 4.8,
+                "reference": "ChIJh_oc9jtHNkcR2oFlebXEQrA",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 211,
+                "vicinity": "Strada Nicolae Grigorescu 1 B, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7190181,
+                        "lng": 24.4146272
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.72033458029149,
+                            "lng": 24.4160211302915
+                        },
+                        "southwest": {
+                            "lat": 47.7176366197085,
+                            "lng": 24.41332316970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Vila Landhaus",
+                "opening_hours": {
+                    "open_now": true
+                },
+                "photos": [
+                    {
+                        "height": 1152,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/105529933026678919401\">Vila Landhaus</a>"
+                        ],
+                        "photo_reference": "Aap_uECSn-WUUYVRhkQJ0MWEJA8cvw9EUYSBGvI2-Mj_5WeVweWElp_lf7AiQojskkVDTQDwp12f4PTZWFs80bcllPeBp57FmyIMqHXg8iUfJ235oUefEEfFBil2fNhp0Sr38nLrlOD1dQL4AnEa0oeUg_gz5G5Pg5EebHctXTEbkeyWMFiG",
+                        "width": 2048
+                    }
+                ],
+                "place_id": "ChIJ-fsd2ztHNkcRngsmt9kwKw8",
+                "plus_code": {
+                    "compound_code": "PC97+JV Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PC97+JV"
+                },
+                "rating": 5,
+                "reference": "ChIJ-fsd2ztHNkcRngsmt9kwKw8",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 7,
+                "vicinity": "Strada Nicolae Grigorescu 1B, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.713144,
+                        "lng": 24.409858
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.71446678029151,
+                            "lng": 24.4111814302915
+                        },
+                        "southwest": {
+                            "lat": 47.71176881970851,
+                            "lng": 24.4084834697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "M Trans Sandy",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 4032,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117589819617891534752\">Iosif Coto</a>"
+                        ],
+                        "photo_reference": "Aap_uEAGY7x30T8WrMNKL0oCOq9AP4flzDWiXIRELKPAbKGkOWRnI2zHkXnD7a9KWAH6KoXDRLv62_PvtR0Fmfd32CnrDV1p6JKDrMz8p1sVi2bir1KQdxckS_d9qQ0sYqfH2N4Pc1gQvPEGVdheDIz0KSXsGCL0tt7xTeC_ZTkEND8lqFv-",
+                        "width": 3024
+                    }
+                ],
+                "place_id": "ChIJI0xZTkdHNkcRw1C-ACpwpJ0",
+                "plus_code": {
+                    "compound_code": "PC75+7W Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PC75+7W"
+                },
+                "rating": 4.4,
+                "reference": "ChIJI0xZTkdHNkcRw1C-ACpwpJ0",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 43,
+                "vicinity": "Strada Drago\u0219 Vod\u0103, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7346947,
+                        "lng": 24.3139511
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7361530302915,
+                            "lng": 24.3153174802915
+                        },
+                        "southwest": {
+                            "lat": 47.7334550697085,
+                            "lng": 24.31261951970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Mocanita pensions Accommodation Viseu",
+                "permanently_closed": true,
+                "photos": [
+                    {
+                        "height": 300,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113080883918811703198\">Pensiune Mocanita cazare viseu</a>"
+                        ],
+                        "photo_reference": "Aap_uED7Lb3CPaJq8aBFXybQubeL5Cd_QmXQ4CJ3_5UiqCgj4_HFHgt9MmTtD14CsOXhlEyC24Rq9qKO0ef-sz7I4oEll3RoeN93iRlY-N3UvC-V_MQX9CTLNtu24eTtVGFJprF0IOMEJoGSXIGT59trRsv8fGyhDGl1LRNXpPc_YetO9qpr",
+                        "width": 400
+                    }
+                ],
+                "place_id": "ChIJpZMvJKBHNkcRYZ5lIZYJekA",
+                "plus_code": {
+                    "compound_code": "P8M7+VH Vi\u0219eu de Jos, Romania",
+                    "global_code": "8GV6P8M7+VH"
+                },
+                "rating": 4.5,
+                "reference": "ChIJpZMvJKBHNkcRYZ5lIZYJekA",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 38,
+                "vicinity": "DN18, Vi\u0219eu de Jos"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7407189,
+                        "lng": 24.4121059
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7420794802915,
+                            "lng": 24.4134984302915
+                        },
+                        "southwest": {
+                            "lat": 47.7393815197085,
+                            "lng": 24.4108004697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Projekt Maramures",
+                "place_id": "ChIJ-8ldlORGNkcR2Qd__SVZanc",
+                "plus_code": {
+                    "compound_code": "PCR6+7R Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PCR6+7R"
+                },
+                "reference": "ChIJ-8ldlORGNkcR2Qd__SVZanc",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Strada Valea Vinului 165, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.7273557,
+                        "lng": 24.4198354
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.72868783029151,
+                            "lng": 24.4212239302915
+                        },
+                        "southwest": {
+                            "lat": 47.72598986970851,
+                            "lng": 24.4185259697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Jorge & Estefan Transporters",
+                "place_id": "ChIJjX2C3yNHNkcR9DK_i4MPRFo",
+                "plus_code": {
+                    "compound_code": "PCG9+WW Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PCG9+WW"
+                },
+                "reference": "ChIJjX2C3yNHNkcR9DK_i4MPRFo",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Strada Poduri Nr 9, Vi\u0219eu de Sus"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 47.70936959999999,
+                        "lng": 24.4204807
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.7107203302915,
+                            "lng": 24.4218322302915
+                        },
+                        "southwest": {
+                            "lat": 47.7080223697085,
+                            "lng": 24.41913426970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Novaartis S.R.L.",
+                "place_id": "ChIJzRrfyEpHNkcRtvv95dYkAG4",
+                "plus_code": {
+                    "compound_code": "PC5C+P5 Vi\u0219eu de Sus, Romania",
+                    "global_code": "8GV6PC5C+P5"
+                },
+                "rating": 4.6,
+                "reference": "ChIJzRrfyEpHNkcRtvv95dYkAG4",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 7,
+                "vicinity": "STRADA BOGDAN VODA 46 A, Vi\u0219eu de Sus"
+            },
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 47.72916379999999,
+                        "lng": 24.3539897
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 47.73435905402591,
+                            "lng": 24.38261022424781
+                        },
+                        "southwest": {
+                            "lat": 47.71934784397123,
+                            "lng": 24.31643497632398
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Vi\u0219eu de Jos",
+                "photos": [
+                    {
+                        "height": 747,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114804899615747973746\">Mioara Lungulescu</a>"
+                        ],
+                        "photo_reference": "Aap_uEDyz1l10NS5xWUtxdCsn_Gcf5pkqJvXR-67zXZp2tlDZ6tKIVqQxyVZt3OJgwtjUkcEt6MyR1NzQ5LykoVOOQOQMcX8qHNg0FT9PnqGZXZ99yuv_oyyb6-FIRe6rteeXHmeotZh7soAmwHc18fEfQ_u9UMSC_zu56LnvuhSeGgzFhti",
+                        "width": 1328
+                    }
+                ],
+                "place_id": "ChIJVTklQ5VHNkcRZ9QP9wTuzJk",
+                "reference": "ChIJVTklQ5VHNkcRZ9QP9wTuzJk",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Vi\u0219eu de Jos"
+            }
+        ],
+        "status": "OK"
+    }
+}

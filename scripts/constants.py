@@ -1,14 +1,14 @@
 import os
 
 ### File structure
-SAVE_DIRECTORY = './data'
-LOG_DIRECTORY = SAVE_DIRECTORY+'/logs'
+SAVE_DIR = './data/'
+LOG_DIR = SAVE_DIR+'response_logs/'
 
 GEO_LOCATIONS = 'geo_locations.json'
-FS_VENUES = 'foursquare_venue_search.json'
-YELP_VENUES= 'yelp_venues_save.json'
 COUNTRIES = 'countries.json'
-GOOGLE_VENUES_ = 'google_venues_save.json'
+FOUR_SQUARE = 'foursquare_venue_search.json'
+YELP = 'yelp_venues_save.json'
+GOOGLE = 'google_venues_save.json'
 
 ### API Adresses
 GEO_LOCATION_URL = 'https://api.3geonames.org/.json?randomland=yes'
@@ -24,3 +24,5 @@ YELP_ID = os.environ["YELP_ID"]
 YELP_PASS = os.environ["YELP_KEY"]
 GOOGLE_KEY = os.environ["GOOGLE_PLACES_KEY"]
 
+###
+DELAY_BETWEEN_CALLS = 1.5
