@@ -2369,5 +2369,2160 @@
             ],
             "confident": false
         }
+    },
+    "-83.5, 167.35": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6116739d5fd0ce0dd1c44"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "55.24601, -107.58192": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f61184f0ed8522b537af72"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "4f5559cae4b06d72385bc6a6",
+                    "name": "Little Amyotte",
+                    "location": {
+                        "lat": 55.171522,
+                        "lng": -107.506119,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 55.171522,
+                                "lng": -107.506119
+                            }
+                        ],
+                        "distance": 9588,
+                        "cc": "CA",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d161941735",
+                            "name": "Lake",
+                            "pluralName": "Lakes",
+                            "shortName": "Lake",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516292",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    },
+    "27.7847, 61.30295": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f611a3c38033038542e461"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "53.16644, -126.31993": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f612477be15b40e31ded6b"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "-17.38333, -48.4": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6124aefabfd6174a57131"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "542fef7f498e34ea4accf7f4",
+                    "name": "Q.G. da Liga",
+                    "location": {
+                        "lat": -17.315466,
+                        "lng": -48.279328,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315466,
+                                "lng": -48.279328
+                            }
+                        ],
+                        "distance": 14881,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d11f941735",
+                            "name": "Nightclub",
+                            "pluralName": "Nightclubs",
+                            "shortName": "Nightclub",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5691b40e498e277c24bc84a2",
+                    "name": "Hotel Minas Goi\u00e1s",
+                    "location": {
+                        "lat": -17.325285191108655,
+                        "lng": -48.42579336136801,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.325285191108655,
+                                "lng": -48.42579336136801
+                            }
+                        ],
+                        "distance": 7018,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Palmelo, GO",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1fa931735",
+                            "name": "Hotel",
+                            "pluralName": "Hotels",
+                            "shortName": "Hotel",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "561ab69a498ebf51a994f38e",
+                    "name": "Centro Esp\u00edrita Luz Da Verdade",
+                    "location": {
+                        "lat": -17.325431772402812,
+                        "lng": -48.425783609371024,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.325431772402812,
+                                "lng": -48.425783609371024
+                            }
+                        ],
+                        "distance": 7003,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d131941735",
+                            "name": "Spiritual Center",
+                            "pluralName": "Spiritual Centers",
+                            "shortName": "Spiritual",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "53651006498e45e0c3ef94c8",
+                    "name": "Palmelo",
+                    "location": {
+                        "address": "Cidade da Paz!",
+                        "lat": -17.324981511865797,
+                        "lng": -48.42447198153588,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.324981511865797,
+                                "lng": -48.42447198153588
+                            }
+                        ],
+                        "distance": 6996,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Cidade da Paz!",
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1f6931735",
+                            "name": "General Travel",
+                            "pluralName": "General Travel",
+                            "shortName": "Travel",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4ecd0cdee30072984c029e59",
+                    "name": "Forum de Pires do Rio",
+                    "location": {
+                        "lat": -17.315817951993157,
+                        "lng": -48.28147831441944,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315817951993157,
+                                "lng": -48.28147831441944
+                            }
+                        ],
+                        "distance": 14665,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Pires do Rio, GO",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d12b941735",
+                            "name": "Courthouse",
+                            "pluralName": "Courthouses",
+                            "shortName": "Courthouse",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_courthouse_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50e0cbd7e4b0fe643bf6672f",
+                    "name": "Lanchonete do Tim",
+                    "location": {
+                        "lat": -17.329262528667414,
+                        "lng": -48.419625568691465,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.329262528667414,
+                                "lng": -48.419625568691465
+                            }
+                        ],
+                        "distance": 6369,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1c5941735",
+                            "name": "Sandwich Place",
+                            "pluralName": "Sandwich Places",
+                            "shortName": "Sandwiches",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4ee2ab0e99119449ff571758",
+                    "name": "Quiosque Country Grill",
+                    "location": {
+                        "lat": -17.31513786315918,
+                        "lng": -48.279205322265625,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.31513786315918,
+                                "lng": -48.279205322265625
+                            }
+                        ],
+                        "distance": 14911,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5259f02c11d26d03d8fd5f2a",
+                    "name": "Rancho Texas",
+                    "location": {
+                        "lat": -17.315109252929688,
+                        "lng": -48.279273986816406,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315109252929688,
+                                "lng": -48.279273986816406
+                            }
+                        ],
+                        "distance": 14907,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d116941735",
+                            "name": "Bar",
+                            "pluralName": "Bars",
+                            "shortName": "Bar",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50f96c90e4b02b25aeca43d2",
+                    "name": "Unipires",
+                    "location": {
+                        "lat": -17.315766433832096,
+                        "lng": -48.280053425149575,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315766433832096,
+                                "lng": -48.280053425149575
+                            }
+                        ],
+                        "distance": 14798,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d198941735",
+                            "name": "College Academic Building",
+                            "pluralName": "College Academic Buildings",
+                            "shortName": "Academic Building",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5250be1f11d2baeefe4d6d4a",
+                    "name": ".",
+                    "location": {
+                        "lat": -17.315473556518555,
+                        "lng": -48.280033111572266,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315473556518555,
+                                "lng": -48.280033111572266
+                            }
+                        ],
+                        "distance": 14817,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d18e941735",
+                            "name": "Comedy Club",
+                            "pluralName": "Comedy Clubs",
+                            "shortName": "Comedy Club",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/comedyclub_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "52586ec2498ed1b3b9a8c04e",
+                    "name": ".",
+                    "location": {
+                        "lat": -17.31559181213379,
+                        "lng": -48.280029296875,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.31559181213379,
+                                "lng": -48.280029296875
+                            }
+                        ],
+                        "distance": 14810,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "507c8c4091d498d9fc8c67a9",
+                            "name": "Public Art",
+                            "pluralName": "Public Art",
+                            "shortName": "Public Art",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50f05200e4b0f29e67aff8b4",
+                    "name": "Loteria",
+                    "location": {
+                        "lat": -17.31557060341741,
+                        "lng": -48.28167284143959,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.31557060341741,
+                                "lng": -48.28167284143959
+                            }
+                        ],
+                        "distance": 14661,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124941735",
+                            "name": "Office",
+                            "pluralName": "Offices",
+                            "shortName": "Office",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51078a6ae4b04030934ebd4c",
+                    "name": "Padaria P\u00e3o Dourado",
+                    "location": {
+                        "lat": -17.315684501501988,
+                        "lng": -48.280053425149575,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315684501501988,
+                                "lng": -48.280053425149575
+                            }
+                        ],
+                        "distance": 14803,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d16a941735",
+                            "name": "Bakery",
+                            "pluralName": "Bakeries",
+                            "shortName": "Bakery",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "53231b24498ee054d4258979",
+                    "name": "Capri Chevrolet",
+                    "location": {
+                        "lat": -17.314479,
+                        "lng": -48.28193,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.314479,
+                                "lng": -48.28193
+                            }
+                        ],
+                        "distance": 14701,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4eb1c1623b7b52c0e1adc2ec",
+                            "name": "Auto Dealership",
+                            "pluralName": "Auto Dealerships",
+                            "shortName": "Auto Dealer",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50f96d40e4b04ae2b4d7db81",
+                    "name": "Cooperpires",
+                    "location": {
+                        "lat": -17.31553546262257,
+                        "lng": -48.280053425149575,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.31553546262257,
+                                "lng": -48.280053425149575
+                            }
+                        ],
+                        "distance": 14811,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124941735",
+                            "name": "Office",
+                            "pluralName": "Offices",
+                            "shortName": "Office",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50634581e4b04593ef5ea76a",
+                    "name": "Auto El\u00e9trica e Mec\u00e2nica Vale Do Corumb\u00e1",
+                    "location": {
+                        "address": "Av. Eg\u00eddio Francisco Rodrigues",
+                        "lat": -17.315635143049324,
+                        "lng": -48.28138105116952,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315635143049324,
+                                "lng": -48.28138105116952
+                            }
+                        ],
+                        "distance": 14684,
+                        "cc": "BR",
+                        "city": "Pira Do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Av. Eg\u00eddio Francisco Rodrigues",
+                            "Pira Do Rio, GO",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124951735",
+                            "name": "Automotive Shop",
+                            "pluralName": "Automotive Shops",
+                            "shortName": "Automotive",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51fff784498ee9b41e1ef627",
+                    "name": "Auto Escola Caldas Novas",
+                    "location": {
+                        "lat": -17.315577309303357,
+                        "lng": -48.28000479477338,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315577309303357,
+                                "lng": -48.28000479477338
+                            }
+                        ],
+                        "distance": 14813,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Pires do Rio, GO",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124941735",
+                            "name": "Office",
+                            "pluralName": "Offices",
+                            "shortName": "Office",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "50db6a1de4b0f535ab9c55ef",
+                    "name": "Supermercado N. Sra. Aparecida",
+                    "location": {
+                        "lat": -17.32474708557129,
+                        "lng": -48.42539978027344,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.32474708557129,
+                                "lng": -48.42539978027344
+                            }
+                        ],
+                        "distance": 7057,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "50be8ee891d4fa8dcc7199a7",
+                            "name": "Market",
+                            "pluralName": "Markets",
+                            "shortName": "Market",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/market_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5053a9a4e4b096ad9902fc48",
+                    "name": "Capela Nossa Senhora Aparecida",
+                    "location": {
+                        "lat": -17.31561459663904,
+                        "lng": -48.28159016737126,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.31561459663904,
+                                "lng": -48.28159016737126
+                            }
+                        ],
+                        "distance": 14666,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d132941735",
+                            "name": "Church",
+                            "pluralName": "Churches",
+                            "shortName": "Church",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51af50d1498ef8e887e76bb9",
+                    "name": "Princesinha",
+                    "location": {
+                        "address": "Rua Coronel Jo\u00e3o Rincon N.6",
+                        "lat": -17.315623896058483,
+                        "lng": -48.28149776709023,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.315623896058483,
+                                "lng": -48.28149776709023
+                            }
+                        ],
+                        "distance": 14674,
+                        "postalCode": "75200-000",
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Rua Coronel Jo\u00e3o Rincon N.6",
+                            "Pires Do Rio, GO",
+                            "75200-000",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d104951735",
+                            "name": "Boutique",
+                            "pluralName": "Boutiques",
+                            "shortName": "Boutique",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f8106f4e4b0e160b9de3fee",
+                    "name": "Rancho santiago",
+                    "location": {
+                        "lat": -17.327345592380308,
+                        "lng": -48.284999360842896,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.327345592380308,
+                                "lng": -48.284999360842896
+                            }
+                        ],
+                        "distance": 13716,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Pires do Rio, GO",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1f1931735",
+                            "name": "General Entertainment",
+                            "pluralName": "General Entertainment",
+                            "shortName": "Entertainment",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "562e1a0d498eb4bc0976b8f7",
+                    "name": "Fazenda Serra dos Corr\u00eaa",
+                    "location": {
+                        "lat": -17.421925042058614,
+                        "lng": -48.40546420565479,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.421925042058614,
+                                "lng": -48.40546420565479
+                            }
+                        ],
+                        "distance": 4335,
+                        "cc": "BR",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d15b941735",
+                            "name": "Farm",
+                            "pluralName": "Farms",
+                            "shortName": "Farm",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/farm_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5233ba0c11d21eafcb03b71b",
+                    "name": "Rancho Texas",
+                    "location": {
+                        "lat": -17.31509780883789,
+                        "lng": -48.27931213378906,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.31509780883789,
+                                "lng": -48.27931213378906
+                            }
+                        ],
+                        "distance": 14904,
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1e5931735",
+                            "name": "Music Venue",
+                            "pluralName": "Music Venues",
+                            "shortName": "Music Venue",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "532d8d51498eed2c7845023f",
+                    "name": "Centro de beleza da Fabiana",
+                    "location": {
+                        "lat": -17.325224,
+                        "lng": -48.424619,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.325224,
+                                "lng": -48.424619
+                            }
+                        ],
+                        "distance": 6977,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Palmelo, GO",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "52e81612bcbc57f1066b7a35",
+                            "name": "Club House",
+                            "pluralName": "Club Houses",
+                            "shortName": "Club",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4fbeab0ee4b027867d80d340",
+                    "name": "Ch\u00e1cara Para\u00edso",
+                    "location": {
+                        "lat": -17.329243029004513,
+                        "lng": -48.41961581778846,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.329243029004513,
+                                "lng": -48.41961581778846
+                            }
+                        ],
+                        "distance": 6371,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4f2a210c4b9023bd5841ed28",
+                            "name": "Housing Development",
+                            "pluralName": "Housing Developments",
+                            "shortName": "Housing Development",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/housingdevelopment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51b36537498e8654a4dee855",
+                    "name": "Hotel Globo",
+                    "location": {
+                        "lat": -17.325102343141605,
+                        "lng": -48.42370159761632,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.325102343141605,
+                                "lng": -48.42370159761632
+                            }
+                        ],
+                        "distance": 6953,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1fa931735",
+                            "name": "Hotel",
+                            "pluralName": "Hotels",
+                            "shortName": "Hotel",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51fe7a83498e552541dc088b",
+                    "name": "Pens\u00e3o Palmelo",
+                    "location": {
+                        "lat": -17.32364845275879,
+                        "lng": -48.423709869384766,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.32364845275879,
+                                "lng": -48.423709869384766
+                            }
+                        ],
+                        "distance": 7105,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4f4530a74b9074f6e4fb0100",
+                            "name": "Boarding House",
+                            "pluralName": "Boarding Houses",
+                            "shortName": "Boarding",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "52022c93498e85da0e1b2ecb",
+                    "name": "Sanat\u00f3rio Eur\u00edpides Barsanufo",
+                    "location": {
+                        "lat": -17.325235739439787,
+                        "lng": -48.423711349244044,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.325235739439787,
+                                "lng": -48.423711349244044
+                            }
+                        ],
+                        "distance": 6940,
+                        "cc": "BR",
+                        "city": "Palmelo",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Goi\u00e1s",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "5032891291d4c4b30a586d68",
+                            "name": "Assisted Living",
+                            "pluralName": "Assisted Living",
+                            "shortName": "Assisted Living",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5a807a6f2105c35b0b55283e",
+                    "name": "Restaurante Marat\u00e1",
+                    "location": {
+                        "lat": -17.420037,
+                        "lng": -48.390574,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.420037,
+                                "lng": -48.390574
+                            }
+                        ],
+                        "distance": 4207,
+                        "postalCode": "75200-000",
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Pires do Rio, GO",
+                            "75200-000",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d16b941735",
+                            "name": "Brazilian Restaurant",
+                            "pluralName": "Brazilian Restaurants",
+                            "shortName": "Brazilian",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5a8079aea92d987ed6b64cbd",
+                    "name": "Cachoeira do Marat\u00e1",
+                    "location": {
+                        "lat": -17.420071,
+                        "lng": -48.39038,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": -17.420071,
+                                "lng": -48.39038
+                            }
+                        ],
+                        "distance": 4215,
+                        "postalCode": "75200-000",
+                        "cc": "BR",
+                        "city": "Pires do Rio",
+                        "state": "GO",
+                        "country": "Brasil",
+                        "formattedAddress": [
+                            "Pires do Rio, GO",
+                            "75200-000",
+                            "Brasil"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "56aa371be4b08b9a8d573560",
+                            "name": "Waterfall",
+                            "pluralName": "Waterfalls",
+                            "shortName": "Waterfall",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516490",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    },
+    "58.32333, 100.09528": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6124eb7458d5d482f5ed6"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "52.41653, 133.33867": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f61251a0d82771879317fa"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "-4.51811, 151.62302": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6125305b8422821945150"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "46.90654, -67.38997": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f61256367711292352c883"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "4e0e37d1fa76d62f4446afd7",
+                    "name": "World's Largest Fiddleheads, Plaster Rock",
+                    "location": {
+                        "lat": 46.896591497788414,
+                        "lng": -67.39563805116848,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.896591497788414,
+                                "lng": -67.39563805116848
+                            }
+                        ],
+                        "distance": 1188,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4cfe733d47699eb0dd0c1715",
+                    "name": "H&R Block",
+                    "location": {
+                        "address": "244 A Main St",
+                        "lat": 46.90654,
+                        "lng": -67.38997,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.90654,
+                                "lng": -67.38997
+                            }
+                        ],
+                        "distance": 0,
+                        "postalCode": "E7G 2-E1",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "244 A Main St",
+                            "Plaster Rock NB E7G 2-E1",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "503287a291d4c4b30a586d65",
+                            "name": "Financial or Legal Service",
+                            "pluralName": "Financial or Legal Services",
+                            "shortName": "Financial / Legal",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bacb309f964a520f6043be3",
+                    "name": "Plaster Rock IRVING 24 Cardlock",
+                    "location": {
+                        "address": "Route 108",
+                        "lat": 46.89634952238651,
+                        "lng": -67.39493584694378,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.89634952238651,
+                                "lng": -67.39493584694378
+                            }
+                        ],
+                        "distance": 1195,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Route 108",
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d113951735",
+                            "name": "Gas Station",
+                            "pluralName": "Gas Stations",
+                            "shortName": "Gas Station",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "52aa9df011d24c3e080369c6",
+                    "name": "Family Worship Center",
+                    "location": {
+                        "address": "123 Main St.",
+                        "lat": 46.891687383064465,
+                        "lng": -67.39671546301877,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.891687383064465,
+                                "lng": -67.39671546301877
+                            }
+                        ],
+                        "distance": 1731,
+                        "postalCode": "E7G 2H2",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "123 Main St.",
+                            "Plaster Rock NB E7G 2H2",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d132941735",
+                            "name": "Church",
+                            "pluralName": "Churches",
+                            "shortName": "Church",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "59e8fb1d9ef8ef41eb1ce2e9",
+                    "name": "NAPA Auto Parts - Shaw Auto Supply Ltd",
+                    "location": {
+                        "address": "250A Main St",
+                        "lat": 46.9086549,
+                        "lng": -67.3951253,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.9086549,
+                                "lng": -67.3951253
+                            }
+                        ],
+                        "distance": 457,
+                        "postalCode": "E7G 2C9",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "250A Main St",
+                            "Plaster Rock NB E7G 2C9",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124951735",
+                            "name": "Automotive Shop",
+                            "pluralName": "Automotive Shops",
+                            "shortName": "Automotive",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5001f448e4b0c123ddba3ac3",
+                    "name": "Jr's",
+                    "location": {
+                        "lat": 46.89017090095323,
+                        "lng": -67.40261383923188,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.89017090095323,
+                                "lng": -67.40261383923188
+                            }
+                        ],
+                        "distance": 2060,
+                        "cc": "CA",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1c9941735",
+                            "name": "Ice Cream Shop",
+                            "pluralName": "Ice Cream Shops",
+                            "shortName": "Ice Cream",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5cc8bd17270ee7002c7e6ede",
+                    "name": "Home Hardware",
+                    "location": {
+                        "address": "38A Riverside Drive",
+                        "lat": 46.904241,
+                        "lng": -67.3952934,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.904241,
+                                "lng": -67.3952934
+                            }
+                        ],
+                        "distance": 478,
+                        "postalCode": "E7G 2P8",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "38A Riverside Drive",
+                            "Plaster Rock NB E7G 2P8",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d112951735",
+                            "name": "Hardware Store",
+                            "pluralName": "Hardware Stores",
+                            "shortName": "Hardware",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hardware_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "59983e4673fe2572eb7a1227",
+                    "name": "Dayna's Country Kitchen",
+                    "location": {
+                        "address": "273 Main St",
+                        "lat": 46.911444,
+                        "lng": -67.394237,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.911444,
+                                "lng": -67.394237
+                            }
+                        ],
+                        "distance": 635,
+                        "postalCode": "E7G 2G4",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "273 Main St",
+                            "Plaster Rock NB E7G 2G4",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d147941735",
+                            "name": "Diner",
+                            "pluralName": "Diners",
+                            "shortName": "Diner",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4d140706e190721e94280421",
+                    "name": "Dave and alvenas",
+                    "location": {
+                        "address": "4132 route 108",
+                        "lat": 46.94623,
+                        "lng": -67.49171,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.94623,
+                                "lng": -67.49171
+                            }
+                        ],
+                        "distance": 8907,
+                        "postalCode": "E7G2r9",
+                        "cc": "CA",
+                        "city": "Victoria",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "4132 route 108",
+                            "Victoria NB E7G2r9",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e5118bfae6051db8de2e8a9",
+                    "name": "Relation Lake",
+                    "location": {
+                        "lat": 46.89630128363425,
+                        "lng": -67.3971266728671,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.89630128363425,
+                                "lng": -67.3971266728671
+                            }
+                        ],
+                        "distance": 1263,
+                        "cc": "CA",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d161941735",
+                            "name": "Lake",
+                            "pluralName": "Lakes",
+                            "shortName": "Lake",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f1c157de4b0065cbb704889",
+                    "name": "Tonique Plex",
+                    "location": {
+                        "lat": 46.89597043486335,
+                        "lng": -67.39735715894447,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.89597043486335,
+                                "lng": -67.39735715894447
+                            }
+                        ],
+                        "distance": 1303,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d185941735",
+                            "name": "Hockey Arena",
+                            "pluralName": "Hockey Arenas",
+                            "shortName": "Hockey",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_hockey_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5323068b498ebdcc0c92fb70",
+                    "name": "Boyd B. Harding Ltd.",
+                    "location": {
+                        "address": "35 Sunrise Lane",
+                        "lat": 46.8996,
+                        "lng": -67.3859,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.8996,
+                                "lng": -67.3859
+                            }
+                        ],
+                        "distance": 832,
+                        "postalCode": "E7G 3Y5",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "35 Sunrise Lane",
+                            "Plaster Rock NB E7G 3Y5",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "52f2ab2ebcbc57f1066b8b44",
+                            "name": "Auto Garage",
+                            "pluralName": "Auto Garages",
+                            "shortName": "Auto Garage",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "53504aad498e212e0a62ea8c",
+                    "name": "Plaster Rock Sawmill (Twin Rivers Paper Company)",
+                    "location": {
+                        "lat": 46.90248489379883,
+                        "lng": -67.38958740234375,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.90248489379883,
+                                "lng": -67.38958740234375
+                            }
+                        ],
+                        "distance": 452,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4eb1bea83b7b6f98df247e06",
+                            "name": "Factory",
+                            "pluralName": "Factories",
+                            "shortName": "Factory",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/factory_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5079c7b4e4b08ed647bc57df",
+                    "name": "tobique river",
+                    "location": {
+                        "lat": 46.955596,
+                        "lng": -67.391797,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.955596,
+                                "lng": -67.391797
+                            }
+                        ],
+                        "distance": 5462,
+                        "cc": "CA",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4eb1d4dd4b900d56c88a45fd",
+                            "name": "River",
+                            "pluralName": "Rivers",
+                            "shortName": "River",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51150fa6e4b0ddd22a61db6e",
+                    "name": "World Pond Hockey Championships",
+                    "location": {
+                        "lat": 46.91325462292465,
+                        "lng": -67.39193167015397,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.91325462292465,
+                                "lng": -67.39193167015397
+                            }
+                        ],
+                        "distance": 762,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4f4528bc4b90abdf24c9de85",
+                            "name": "Athletics & Sports",
+                            "pluralName": "Athletics & Sports",
+                            "shortName": "Athletics & Sports",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f33f4bfe4b00f9f27429f83",
+                    "name": "Don's coffee shop",
+                    "location": {
+                        "lat": 46.90522,
+                        "lng": -67.39443,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.90522,
+                                "lng": -67.39443
+                            }
+                        ],
+                        "distance": 369,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d143941735",
+                            "name": "Breakfast Spot",
+                            "pluralName": "Breakfast Spots",
+                            "shortName": "Breakfast",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e5046801495fc2ca40bf9fd",
+                    "name": "Plaster Rock Legion  (Marble Arch Branch)",
+                    "location": {
+                        "lat": 46.90746383,
+                        "lng": -67.39662948,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.90746383,
+                                "lng": -67.39662948
+                            }
+                        ],
+                        "distance": 516,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d171941735",
+                            "name": "Event Space",
+                            "pluralName": "Event Spaces",
+                            "shortName": "Event Space",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e0e2fc922711665f612628a",
+                    "name": "Plaster Rock Welcome Centre",
+                    "location": {
+                        "lat": 46.895400913786425,
+                        "lng": -67.3960509255885,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.895400913786425,
+                                "lng": -67.3960509255885
+                            }
+                        ],
+                        "distance": 1323,
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "Plaster Rock NB",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d171941735",
+                            "name": "Event Space",
+                            "pluralName": "Event Spaces",
+                            "shortName": "Event Space",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4d57d73d5ba0548134d30946",
+                    "name": "Settler's Inn and Motel",
+                    "location": {
+                        "address": "141 Main St",
+                        "lat": 46.8921707,
+                        "lng": -67.3965035,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.8921707,
+                                "lng": -67.3965035
+                            }
+                        ],
+                        "distance": 1674,
+                        "postalCode": "E7G 2H2",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "141 Main St",
+                            "Plaster Rock NB E7G 2H2",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1fa931735",
+                            "name": "Hotel",
+                            "pluralName": "Hotels",
+                            "shortName": "Hotel",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5001f3b0e4b05ceffc654877",
+                    "name": "RBC Royal Bank",
+                    "location": {
+                        "address": "199 MAIN ST",
+                        "lat": 46.90369,
+                        "lng": -67.3973,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 46.90369,
+                                "lng": -67.3973
+                            }
+                        ],
+                        "distance": 641,
+                        "postalCode": "E7G 2G8",
+                        "cc": "CA",
+                        "city": "Plaster Rock",
+                        "state": "NB",
+                        "country": "Canada",
+                        "formattedAddress": [
+                            "199 MAIN ST",
+                            "Plaster Rock NB E7G 2G8",
+                            "Canada"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d10a951735",
+                            "name": "Bank",
+                            "pluralName": "Banks",
+                            "shortName": "Bank",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516502",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    },
+    "66.88996, 18.40836": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6125993d32c0cdcccf97d"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "5b8135cfc97f280039a70a30",
+                    "name": "Njavve forsen",
+                    "location": {
+                        "lat": 66.875957,
+                        "lng": 18.259336,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 66.875957,
+                                "lng": 18.259336
+                            }
+                        ],
+                        "distance": 6697,
+                        "cc": "SE",
+                        "city": "Jokkmokk",
+                        "state": "Norrbottens l\u00e4n",
+                        "country": "Sverige",
+                        "formattedAddress": [
+                            "Jokkmokk",
+                            "Sverige"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4eb1d4dd4b900d56c88a45fd",
+                            "name": "River",
+                            "pluralName": "Rivers",
+                            "shortName": "River",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643516505",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
+    },
+    "53.16605, 139.05147": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6125bba4a403961c4a131"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "63.16667, -169.3": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f6125e3440b7049deda0e4"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "-10.14447, 148.00914": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f612613440b7049deda4fb"
+        },
+        "response": {
+            "venues": []
+        }
     }
 }

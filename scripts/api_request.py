@@ -5,7 +5,7 @@ import json
 
 from scripts.constants import *
 from scripts.file_handler import *
-
+from scripts import dataframe_builder
 
 
 ### Automated Data Collection
@@ -20,6 +20,7 @@ def collect_random_samples(number:int):
             request_yelp_venues(geo_location)
             request_country_from_nominatim(geo_location)
             requset_places_from_google(geo_location)
+            dataframe_builder.add_sample(geo_location)
         else:
             print(f"Ending sample collection after {i} samples collection: Geo location not recieved")
             break

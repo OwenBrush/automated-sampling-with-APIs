@@ -131,5 +131,174 @@
                 "latitude": 2.73333
             }
         }
+    },
+    "-83.5, 167.35": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 167.35,
+                "latitude": -83.5
+            }
+        }
+    },
+    "55.24601, -107.58192": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -107.58192,
+                "latitude": 55.24601
+            }
+        }
+    },
+    "27.7847, 61.30295": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 61.30295,
+                "latitude": 27.7847
+            }
+        }
+    },
+    "53.16644, -126.31993": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -126.31993,
+                "latitude": 53.16644
+            }
+        }
+    },
+    "-17.38333, -48.4": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -48.4,
+                "latitude": -17.38333
+            }
+        }
+    },
+    "58.32333, 100.09528": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 100.09528,
+                "latitude": 58.32333
+            }
+        }
+    },
+    "52.41653, 133.33867": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 133.33867,
+                "latitude": 52.41653
+            }
+        }
+    },
+    "-4.51811, 151.62302": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 151.62302,
+                "latitude": -4.51811
+            }
+        }
+    },
+    "46.90654, -67.38997": {
+        "businesses": [
+            {
+                "id": "CU6P1jsHpAwfa3qMDiW1oQ",
+                "alias": "lil-peppinos-plaster-rock",
+                "name": "lil' Peppinos",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MIztdBFvXymBKNlPQ2-GZg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/lil-peppinos-plaster-rock?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "italian",
+                        "title": "Italian"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 46.90829,
+                    "longitude": -67.39518
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "248 Main Street",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Plaster Rock",
+                    "zip_code": "E7G 2C9",
+                    "country": "CA",
+                    "state": "NB",
+                    "display_address": [
+                        "248 Main Street",
+                        "Plaster Rock, NB E7G 2C9",
+                        "Canada"
+                    ]
+                },
+                "phone": "+15063562111",
+                "display_phone": "+1 506-356-2111",
+                "distance": 450.50465703029835
+            }
+        ],
+        "total": 1,
+        "region": {
+            "center": {
+                "longitude": -67.38997,
+                "latitude": 46.90654
+            }
+        }
+    },
+    "66.88996, 18.40836": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 18.40836,
+                "latitude": 66.88996
+            }
+        }
+    },
+    "53.16605, 139.05147": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 139.05147,
+                "latitude": 53.16605
+            }
+        }
+    },
+    "63.16667, -169.3": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -169.3,
+                "latitude": 63.16667
+            }
+        }
+    },
+    "-10.14447, 148.00914": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 148.00914,
+                "latitude": -10.14447
+            }
+        }
     }
 }

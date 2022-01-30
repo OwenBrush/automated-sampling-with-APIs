@@ -123,5 +123,308 @@
             "8.3822176",
             "16.1911011"
         ]
+    },
+    "-83.5, 167.35": {
+        "error": "Unable to geocode"
+    },
+    "55.24601, -107.58192": {
+        "place_id": 282544399,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1428125,
+        "lat": "61.0666922",
+        "lon": "-107.991707",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8661259109654083,
+        "addresstype": "country",
+        "name": "Canada",
+        "display_name": "Canada",
+        "address": {
+            "country": "Canada",
+            "country_code": "ca"
+        },
+        "boundingbox": [
+            "41.6765556",
+            "83.3362128",
+            "-141.00275",
+            "-52.3231981"
+        ]
+    },
+    "27.7847, 61.30295": {
+        "place_id": 282365896,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 304938,
+        "lat": "32.6475314",
+        "lon": "54.5643516",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8247027036152258,
+        "addresstype": "country",
+        "name": "Iran",
+        "display_name": "Iran",
+        "address": {
+            "country": "Iran",
+            "country_code": "ir"
+        },
+        "boundingbox": [
+            "24.8353084",
+            "39.7824624",
+            "44.0318908",
+            "63.3332704"
+        ]
+    },
+    "53.16644, -126.31993": {
+        "place_id": 282544399,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1428125,
+        "lat": "61.0666922",
+        "lon": "-107.991707",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8661259109654083,
+        "addresstype": "country",
+        "name": "Canada",
+        "display_name": "Canada",
+        "address": {
+            "country": "Canada",
+            "country_code": "ca"
+        },
+        "boundingbox": [
+            "41.6765556",
+            "83.3362128",
+            "-141.00275",
+            "-52.3231981"
+        ]
+    },
+    "-17.38333, -48.4": {
+        "place_id": 282542504,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 59470,
+        "lat": "-10.3333333",
+        "lon": "-53.2",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8455773423061166,
+        "addresstype": "country",
+        "name": "Brazil",
+        "display_name": "Brazil",
+        "address": {
+            "country": "Brazil",
+            "country_code": "br"
+        },
+        "boundingbox": [
+            "-33.8689056",
+            "5.2695808",
+            "-73.9830625",
+            "-28.6289646"
+        ]
+    },
+    "58.32333, 100.09528": {
+        "place_id": 282213843,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 60189,
+        "lat": "64.6863136",
+        "lon": "97.7453061",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.852192362078589,
+        "addresstype": "country",
+        "name": "Russia",
+        "display_name": "Russia",
+        "address": {
+            "country": "Russia",
+            "country_code": "ru"
+        },
+        "boundingbox": [
+            "41.1850968",
+            "82.0586232",
+            "-180",
+            "180"
+        ]
+    },
+    "52.41653, 133.33867": {
+        "place_id": 282213843,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 60189,
+        "lat": "64.6863136",
+        "lon": "97.7453061",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.852192362078589,
+        "addresstype": "country",
+        "name": "Russia",
+        "display_name": "Russia",
+        "address": {
+            "country": "Russia",
+            "country_code": "ru"
+        },
+        "boundingbox": [
+            "41.1850968",
+            "82.0586232",
+            "-180",
+            "180"
+        ]
+    },
+    "-4.51811, 151.62302": {
+        "place_id": 282483743,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 307866,
+        "lat": "-5.6816069",
+        "lon": "144.2489081",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.6883295037610466,
+        "addresstype": "country",
+        "name": "Papua New Guinea",
+        "display_name": "Papua New Guinea",
+        "address": {
+            "country": "Papua New Guinea",
+            "country_code": "pg"
+        },
+        "boundingbox": [
+            "-11.8555739",
+            "-0.5573576",
+            "140.8416553",
+            "159.6934961"
+        ]
+    },
+    "46.90654, -67.38997": {
+        "place_id": 282544399,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1428125,
+        "lat": "61.0666922",
+        "lon": "-107.991707",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8661259109654083,
+        "addresstype": "country",
+        "name": "Canada",
+        "display_name": "Canada",
+        "address": {
+            "country": "Canada",
+            "country_code": "ca"
+        },
+        "boundingbox": [
+            "41.6765556",
+            "83.3362128",
+            "-141.00275",
+            "-52.3231981"
+        ]
+    },
+    "66.88996, 18.40836": {
+        "place_id": 282195460,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 52822,
+        "lat": "59.6749712",
+        "lon": "14.5208584",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8416324543382404,
+        "addresstype": "country",
+        "name": "Sweden",
+        "display_name": "Sweden",
+        "address": {
+            "country": "Sweden",
+            "country_code": "se"
+        },
+        "boundingbox": [
+            "55.1331192",
+            "69.0599699",
+            "10.5930952",
+            "24.1776819"
+        ]
+    },
+    "53.16605, 139.05147": {
+        "place_id": 282213843,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 60189,
+        "lat": "64.6863136",
+        "lon": "97.7453061",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.852192362078589,
+        "addresstype": "country",
+        "name": "Russia",
+        "display_name": "Russia",
+        "address": {
+            "country": "Russia",
+            "country_code": "ru"
+        },
+        "boundingbox": [
+            "41.1850968",
+            "82.0586232",
+            "-180",
+            "180"
+        ]
+    },
+    "63.16667, -169.3": {
+        "place_id": 282416250,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 148838,
+        "lat": "39.7837304",
+        "lon": "-100.445882",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.9356913674575887,
+        "addresstype": "country",
+        "name": "United States",
+        "display_name": "United States",
+        "address": {
+            "country": "United States",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "-14.7608358",
+            "71.6048217",
+            "-180",
+            "180"
+        ]
+    },
+    "-10.14447, 148.00914": {
+        "place_id": 282483743,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 307866,
+        "lat": "-5.6816069",
+        "lon": "144.2489081",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.6883295037610466,
+        "addresstype": "country",
+        "name": "Papua New Guinea",
+        "display_name": "Papua New Guinea",
+        "address": {
+            "country": "Papua New Guinea",
+            "country_code": "pg"
+        },
+        "boundingbox": [
+            "-11.8555739",
+            "-0.5573576",
+            "140.8416553",
+            "159.6934961"
+        ]
     }
 }

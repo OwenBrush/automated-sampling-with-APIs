@@ -603,5 +603,783 @@
                 "type": "boundary"
             }
         }
+    },
+    "-83.5, 167.35": {
+        "threegeonames": "ASQUITH-LENIENTLY-FUV",
+        "geonumber": "5752461519034",
+        "nearest": {
+            "inlatt": "-83.5",
+            "distance": "0.000",
+            "timezone": "Antarctica/McMurdo",
+            "elevation": "0",
+            "region": {},
+            "state": "AQ",
+            "latt": "-83.5",
+            "longt": "167.35",
+            "city": "Asquith Bluff",
+            "prov": {},
+            "inlongt": "167.35",
+            "altgeocode": "ASQU-WGACW"
+        },
+        "osmtags": {
+            "id": {},
+            "state": {}
+        },
+        "geocode": "ASQU-WGACW",
+        "major": {
+            "inlatt": "-83.5",
+            "distance": "0.000",
+            "timezone": "Antarctica/McMurdo",
+            "elevation": "0",
+            "region": {},
+            "state": "AQ",
+            "latt": "-83.5",
+            "longt": "167.35",
+            "city": "Asquith Bluff",
+            "prov": {},
+            "inlongt": "167.35"
+        },
+        "adminareas": {}
+    },
+    "55.24601, -107.58192": {
+        "threegeonames": "PINEHOUSE-DAYWEAR-JRENKAR",
+        "geonumber": "1999899105377",
+        "nearest": {
+            "inlatt": "55.24601",
+            "distance": "0.000",
+            "timezone": "America/Regina",
+            "elevation": "444",
+            "region": {},
+            "state": "CA",
+            "latt": "55.24601",
+            "longt": "-107.58192",
+            "city": "La Plonge 192",
+            "prov": "Saskatchewan",
+            "inlongt": "-107.58192",
+            "altgeocode": "PLONGE-ERLGR"
+        },
+        "osmtags": {
+            "wikidata": "Q1363850",
+            "wikipedia": "en:Division No. 18, Saskatchewan",
+            "name": "Northern Saskatchewan Administration District",
+            "state": "CA",
+            "admin_level": "6",
+            "boundary": "administrative",
+            "id": "569775",
+            "type": "boundary",
+            "alt_name": "Census Division No. 18"
+        },
+        "geocode": "CHUDYK-ERLGR",
+        "major": {
+            "inlatt": "55.24601",
+            "distance": "5.884",
+            "timezone": "America/Regina",
+            "elevation": "425",
+            "region": {},
+            "state": "CA",
+            "latt": "55.26675",
+            "longt": "-107.66735",
+            "city": "Chudyk Lake",
+            "prov": "Saskatchewan",
+            "inlongt": "-107.58192"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "en:Division No. 18, Saskatchewan",
+                "wikidata": "Q1363850",
+                "osmid": "569775",
+                "name": "Northern Saskatchewan Administration District",
+                "admin_level": "6",
+                "level": "6",
+                "boundary": "administrative",
+                "alt_name": "Census Division No. 18",
+                "type": "boundary"
+            }
+        }
+    },
+    "27.7847, 61.30295": {
+        "threegeonames": "IRANSHAHR-EVIDENTLY-MORAVEC",
+        "geonumber": "8365161884203",
+        "nearest": {
+            "inlatt": "27.7847",
+            "distance": "0.000",
+            "timezone": "Asia/Tehran",
+            "elevation": "1454",
+            "region": {},
+            "name": "Q\u0101der\u0101b\u0101d",
+            "state": "IR",
+            "latt": "27.7847",
+            "longt": "61.30295",
+            "city": "Qaderabad",
+            "prov": "Sistan and Baluchestan",
+            "inlongt": "61.30295",
+            "altgeocode": "QADERABADZE-RDCSH"
+        },
+        "osmtags": {
+            "boundary": "administrative",
+            "name": "\u067e\u0633\u06a9\u0648\u0647",
+            "id": "95666",
+            "type": "boundary",
+            "state": "IR",
+            "admin_level": "8"
+        },
+        "geocode": "SIRAG-RDCSH",
+        "major": {
+            "inlatt": "27.7847",
+            "distance": "6.026",
+            "timezone": "Asia/Tehran",
+            "elevation": "1431",
+            "region": {},
+            "name": "R\u016bdkh\u0101neh-ye S\u012brag",
+            "state": "IR",
+            "latt": "27.75",
+            "longt": "61.35",
+            "city": "Malekabad",
+            "prov": "Sistan and Baluchestan",
+            "inlongt": "61.30295"
+        },
+        "adminareas": {
+            "admin7": {
+                "population": "16297",
+                "osmid": "541497",
+                "name": "\u062f\u0647\u0633\u062a\u0627\u0646 \u067e\u0633\u06a9\u0648\u0647",
+                "admin_level": "7",
+                "level": "7",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_en": "Paskooh"
+            },
+            "admin6": {
+                "osmid": "95651",
+                "place": "county",
+                "name": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062e\u0627\u0634",
+                "admin_level": "6",
+                "level": "6",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_en": "Khash County"
+            },
+            "admin8": {
+                "level": "8",
+                "boundary": "administrative",
+                "osmid": "95666",
+                "name": "\u067e\u0633\u06a9\u0648\u0647",
+                "type": "boundary",
+                "admin_level": "8"
+            }
+        }
+    },
+    "53.16644, -126.31993": {
+        "threegeonames": "ULKATCHO-ALLEGORY-TOWNLAND",
+        "geonumber": "2032735862953",
+        "nearest": {
+            "inlatt": "53.16644",
+            "distance": "0.000",
+            "timezone": "America/Vancouver",
+            "elevation": "947",
+            "region": {},
+            "state": "CA",
+            "latt": "53.16644",
+            "longt": "-126.31993",
+            "city": "Ice Hill",
+            "prov": "British Columbia",
+            "inlongt": "-126.31993",
+            "altgeocode": "ICEHILL-XHYLD"
+        },
+        "osmtags": {
+            "source": "DataBC TANTALIS REG_DSTRCT",
+            "boundary": "administrative",
+            "name": "Regional District of Bulkley-Nechako",
+            "id": "366463",
+            "type": "boundary",
+            "state": "CA",
+            "admin_level": "6"
+        },
+        "geocode": "DEMION-XHYLD",
+        "major": {
+            "inlatt": "53.16644",
+            "distance": "12.388",
+            "timezone": "America/Vancouver",
+            "elevation": "965",
+            "region": {},
+            "state": "CA",
+            "latt": "53.19139",
+            "longt": "-126.50111",
+            "city": "Demion Lake",
+            "prov": "British Columbia",
+            "inlongt": "-126.31993"
+        },
+        "adminareas": {
+            "admin6": {
+                "source": "DataBC TANTALIS REG_DSTRCT",
+                "level": "6",
+                "boundary": "administrative",
+                "osmid": "366463",
+                "name": "Regional District of Bulkley-Nechako",
+                "type": "boundary",
+                "admin_level": "6"
+            }
+        }
+    },
+    "-17.38333, -48.4": {
+        "threegeonames": "GOIATUBA-CLEF-FLUIDYNE",
+        "geonumber": "3801255087295",
+        "nearest": {
+            "inlatt": "-17.38333",
+            "distance": "0.000",
+            "timezone": "America/Sao_Paulo",
+            "elevation": "713",
+            "region": "Palmelo",
+            "name": "Ribeir\u00e3o S\u00e3o Jer\u00f4nimo",
+            "state": "BR",
+            "latt": "-17.38333",
+            "longt": "-48.4",
+            "city": "Palmelo",
+            "prov": "Goi\u00e1s",
+            "inlongt": "-48.4",
+            "altgeocode": "RIBJER-XRPED"
+        },
+        "osmtags": {
+            "population": "27928",
+            "source": "IBGE",
+            "wikidata": "Q987688",
+            "wikipedia": "pt:Pires do Rio",
+            "name": "Pires do Rio",
+            "state": "BR",
+            "name_ru": "\u041f\u0438\u0440\u0438\u0441-\u0434\u0443-\u0420\u0438\u0443",
+            "admin_level": "8",
+            "boundary": "administrative",
+            "id": "8290",
+            "type": "boundary",
+            "IBGE_GEOCODIGO": "5217401"
+        },
+        "geocode": "ORIZONA-XRPED",
+        "major": {
+            "inlatt": "-17.38333",
+            "distance": "40.666",
+            "timezone": "America/Sao_Paulo",
+            "elevation": "810",
+            "region": "Orizona",
+            "name": "Orizona",
+            "state": "BR",
+            "latt": "-17.03139",
+            "longt": "-48.29583",
+            "city": "Orizona",
+            "prov": "Goi\u00e1s",
+            "inlongt": "-48.4"
+        },
+        "adminareas": {
+            "admin7": {
+                "source": "IBGE",
+                "osmid": "6678",
+                "name": "Microrregi\u00e3o de Pires do Rio",
+                "admin_level": "7",
+                "level": "7",
+                "boundary": "administrative",
+                "type": "boundary",
+                "IBGE_GEOCODIGO": "520516"
+            },
+            "admin8": {
+                "wikipedia": "pt:Pires do Rio",
+                "wikidata": "Q987688",
+                "source": "IBGE",
+                "population": "27928",
+                "osmid": "8290",
+                "name": "Pires do Rio",
+                "name_ru": "\u041f\u0438\u0440\u0438\u0441-\u0434\u0443-\u0420\u0438\u0443",
+                "admin_level": "8",
+                "level": "8",
+                "boundary": "administrative",
+                "type": "boundary",
+                "IBGE_GEOCODIGO": "5217401"
+            },
+            "admin5": {
+                "wikipedia": "pt:Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Goi\u00e2nia",
+                "wikidata": "Q56346691",
+                "source": "IBGE",
+                "osmid": "571361",
+                "name": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Goi\u00e2nia",
+                "admin_level": "5",
+                "level": "5",
+                "boundary": "administrative",
+                "type": "boundary",
+                "IBGE_GEOCODIGO": "5201"
+            }
+        }
+    },
+    "58.32333, 100.09528": {
+        "threegeonames": "KODINSK-MANDIBLE-INTOWN",
+        "geonumber": "8214974023362",
+        "nearest": {
+            "inlatt": "58.32333",
+            "distance": "0.000",
+            "timezone": "Asia/Krasnoyarsk",
+            "elevation": "174",
+            "region": {},
+            "name": "Kosoy Byk",
+            "state": "RU",
+            "latt": "58.32333",
+            "longt": "100.09528",
+            "city": "Kosoy Byk",
+            "prov": "Krasnoyarskiy",
+            "inlongt": "100.09528",
+            "altgeocode": "KOSOYBYK-BFOYC"
+        },
+        "osmtags": {
+            "source": "cadastre",
+            "wikidata": "Q285506",
+            "wikipedia": "ru:\u041a\u0435\u0436\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "official_status": "ru:\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "name_ja": "\u30b1\u30b8\u30de\u5730\u533a",
+            "addr_country": "RU",
+            "name": "\u041a\u0435\u0436\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "state": "RU",
+            "name_ru": "\u041a\u0435\u0436\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "admin_level": "6",
+            "addr_region": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "boundary": "administrative",
+            "id": "487308",
+            "type": "boundary",
+            "name_en": "Kezhemsky Rayon"
+        },
+        "geocode": "BOLTURINO-BFOYC",
+        "major": {
+            "inlatt": "58.32333",
+            "distance": "5.006",
+            "timezone": "Asia/Krasnoyarsk",
+            "elevation": "161",
+            "region": {},
+            "name": "Bolturino",
+            "state": "RU",
+            "latt": "58.33611",
+            "longt": "100.01306",
+            "city": "Bolturino",
+            "prov": "Krasnoyarskiy",
+            "inlongt": "100.09528"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "ru:\u041a\u0435\u0436\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "wikidata": "Q285506",
+                "source": "cadastre",
+                "official_status": "ru:\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_ja": "\u30b1\u30b8\u30de\u5730\u533a",
+                "addr_country": "RU",
+                "osmid": "487308",
+                "name": "\u041a\u0435\u0436\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_ru": "\u041a\u0435\u0436\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "admin_level": "6",
+                "level": "6",
+                "addr_region": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_en": "Kezhemsky Rayon"
+            }
+        }
+    },
+    "52.41653, 133.33867": {
+        "threegeonames": "STOYBA-ZANESVILLE-FLOQUIL",
+        "geonumber": "8034549626844",
+        "nearest": {
+            "inlatt": "52.41653",
+            "distance": "0.000",
+            "timezone": "Asia/Vladivostok",
+            "elevation": "801",
+            "region": {},
+            "state": "RU",
+            "latt": "52.41653",
+            "longt": "133.33867",
+            "city": "Taloma",
+            "prov": "Khabarovsk",
+            "inlongt": "133.33867",
+            "altgeocode": "TALOTAL-OTECA"
+        },
+        "osmtags": {
+            "wikidata": "Q2218626",
+            "wikipedia": "ru:\u0421\u0435\u043b\u0435\u043c\u0434\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "official_status": "ru:\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "name_ja": "\u30bb\u30ec\u30e0\u30b8\u30e3\u5730\u533a",
+            "addr_country": "RU",
+            "name": "\u0421\u0435\u043b\u0435\u043c\u0434\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "state": "RU",
+            "admin_level": "6",
+            "addr_region": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "boundary": "administrative",
+            "id": "347012",
+            "type": "boundary",
+            "name_en": "Selemdzhinsky District"
+        },
+        "geocode": "AMNUO-OTECA",
+        "major": {
+            "inlatt": "52.41653",
+            "distance": "7.468",
+            "timezone": {},
+            "elevation": "825",
+            "region": {},
+            "state": "RU",
+            "latt": "52.412103",
+            "longt": "133.448545",
+            "city": "\u041c\u0430\u043b\u043e\u0435 \u0410\u043c\u043d\u0443\u043e",
+            "prov": {},
+            "inlongt": "133.33867"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "ru:\u0421\u0435\u043b\u0435\u043c\u0434\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "wikidata": "Q2218626",
+                "official_status": "ru:\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_ja": "\u30bb\u30ec\u30e0\u30b8\u30e3\u5730\u533a",
+                "addr_country": "RU",
+                "osmid": "347012",
+                "name": "\u0421\u0435\u043b\u0435\u043c\u0434\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "admin_level": "6",
+                "level": "6",
+                "addr_region": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_en": "Selemdzhinsky District"
+            }
+        }
+    },
+    "-4.51811, 151.62302": {
+        "threegeonames": "KOKOPO-CLOUDLAND-COASTSIDE",
+        "geonumber": "6559937988537",
+        "nearest": {
+            "inlatt": "-4.51811",
+            "distance": "0.000",
+            "timezone": "Pacific/Port_Moresby",
+            "elevation": "62",
+            "region": {},
+            "name": "Dakureie Bay",
+            "state": "PG",
+            "latt": "-4.51811",
+            "longt": "151.62302",
+            "city": "Poiniara",
+            "prov": "East New Britain",
+            "inlongt": "151.62302",
+            "altgeocode": "DAKUREIE-JZAXL"
+        },
+        "osmtags": {
+            "id": {},
+            "state": {}
+        },
+        "geocode": "YALOM-JZAXL",
+        "major": {
+            "inlatt": "-4.51811",
+            "distance": "18.037",
+            "timezone": "Pacific/Port_Moresby",
+            "elevation": "1053",
+            "region": {},
+            "name": "Yalom",
+            "state": "PG",
+            "latt": "-4.41667",
+            "longt": "151.75",
+            "city": "Yalom",
+            "prov": "East New Britain",
+            "inlongt": "151.62302"
+        },
+        "adminareas": {}
+    },
+    "46.90654, -67.38997": {
+        "threegeonames": "ESCOUMINS-CONDOMANIA-XBOXARENA",
+        "geonumber": "2447822989433",
+        "nearest": {
+            "inlatt": "46.90654",
+            "distance": "0.000",
+            "timezone": "America/Moncton",
+            "elevation": "148",
+            "region": {},
+            "name": "Plaster Rock",
+            "state": "CA",
+            "latt": "46.90654",
+            "longt": "-67.38997",
+            "city": "Plaster Rock",
+            "prov": "New Brunswick",
+            "inlongt": "-67.38997",
+            "altgeocode": "ROCKRCA-VYJFD"
+        },
+        "osmtags": {
+            "source": "SNB",
+            "name": "Plaster Rock",
+            "land_area": "administrative",
+            "state": "CA",
+            "admin_level": "8",
+            "boundary": "administrative",
+            "id": "549734",
+            "type": "boundary",
+            "name_fr": "Plaster Rock"
+        },
+        "geocode": "WAPSKE-VYJFD",
+        "major": {
+            "inlatt": "46.90654",
+            "distance": "7.718",
+            "timezone": "America/Moncton",
+            "elevation": {},
+            "region": {},
+            "name": "Wapske",
+            "state": "CA",
+            "latt": "46.843253",
+            "longt": "-67.348261",
+            "city": "Plaster Rock",
+            "prov": "New Brunswick",
+            "inlongt": "-67.38997"
+        },
+        "adminareas": {
+            "admin6": {
+                "source": "SNB",
+                "osmid": "229233",
+                "name": "Victoria County",
+                "admin_level": "6",
+                "level": "6",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_fr": "Comt\u00e9 de Victoria"
+            },
+            "admin8": {
+                "source": "SNB",
+                "osmid": "549734",
+                "name": "Plaster Rock",
+                "land_area": "administrative",
+                "admin_level": "8",
+                "level": "8",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_fr": "Plaster Rock"
+            }
+        }
+    },
+    "66.88996, 18.40836": {
+        "threegeonames": "UDTJA-ABSOLUMENT-MAQSOOD",
+        "geonumber": "3029058944032",
+        "nearest": {
+            "inlatt": "66.88996",
+            "distance": "0.000",
+            "timezone": "Europe/Stockholm",
+            "elevation": "307",
+            "region": "Jokkmokks Kommun",
+            "state": "SE",
+            "latt": "66.88996",
+            "longt": "18.40836",
+            "city": "Luohk\u00e1luokta",
+            "prov": "Norrbotten",
+            "inlongt": "18.40836",
+            "altgeocode": "LUOHTA-TVUCE"
+        },
+        "osmtags": {
+            "ref_scb": "2510",
+            "source": "SCB",
+            "wikipedia": "sv:Jokkmokks kommun",
+            "KOD83_91": "2510",
+            "short_name": "Jokkmokk",
+            "LANDAREAKM": "18143.70",
+            "state": "SE",
+            "KOD97_97": "2510",
+            "KOD95_96": "2510",
+            "boundary": "administrative",
+            "id": "499317",
+            "KNKOD": "2510",
+            "wikidata": "Q512048",
+            "KOD80_82": "2510",
+            "ref": "2510",
+            "name": "Jokkmokks kommun",
+            "KOD98_98": "2510",
+            "official_name": "Jokkmokks kommun",
+            "border": "NO,SE,",
+            "admin_level": "7",
+            "KNBEF96": "6507",
+            "KOD92_94": "2510",
+            "KOD77_79": "2510",
+            "name_sv": "Jokkmokks kommun",
+            "type": "boundary"
+        },
+        "geocode": "SASNEK-TVUCE",
+        "major": {
+            "inlatt": "66.88996",
+            "distance": "3.079",
+            "timezone": "Europe/Stockholm",
+            "elevation": "689",
+            "region": "Jokkmokks Kommun",
+            "state": "SE",
+            "latt": "66.86238",
+            "longt": "18.41474",
+            "city": "Sasnek",
+            "prov": "Norrbotten",
+            "inlongt": "18.40836"
+        },
+        "adminareas": {
+            "admin7": {
+                "wikipedia": "sv:Jokkmokks kommun",
+                "source": "SCB",
+                "ref_scb": "2510",
+                "KOD83_91": "2510",
+                "short_name": "Jokkmokk",
+                "osmid": "499317",
+                "LANDAREAKM": "18143.70",
+                "KOD97_97": "2510",
+                "KOD95_96": "2510",
+                "boundary": "administrative",
+                "KNKOD": "2510",
+                "wikidata": "Q512048",
+                "KOD80_82": "2510",
+                "ref": "2510",
+                "name": "Jokkmokks kommun",
+                "official_name": "Jokkmokks kommun",
+                "KOD98_98": "2510",
+                "KNBEF96": "6507",
+                "admin_level": "7",
+                "KOD92_94": "2510",
+                "level": "7",
+                "KOD77_79": "2510",
+                "name_sv": "Jokkmokks kommun",
+                "type": "boundary"
+            }
+        }
+    },
+    "53.16605, 139.05147": {
+        "threegeonames": "OGLONGI-BENEWAH-CALIFRONIA",
+        "geonumber": "6678816659038",
+        "nearest": {
+            "inlatt": "53.166054",
+            "distance": "0.000",
+            "timezone": "Asia/Vladivostok",
+            "elevation": "1",
+            "region": {},
+            "state": "RU",
+            "latt": "53.16605",
+            "longt": "139.05147",
+            "city": "Kaygachan",
+            "prov": "Khabarovsk",
+            "inlongt": "139.051473",
+            "altgeocode": "KAYGACHAN-WAEJE"
+        },
+        "osmtags": {
+            "population": "17088",
+            "wikipedia": "ru:\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "official_status": "ru:\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "name_ja": "\u30a6\u30ea\u30c1\u5730\u533a",
+            "addr_country": "RU",
+            "state": "RU",
+            "name_ru": "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "boundary": "administrative",
+            "id": "315096",
+            "name_en": "Ulchsky Rayon",
+            "wikidata": "Q1094036",
+            "name": "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "admin_level": "6",
+            "border": "RU,",
+            "addr_region": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "population_date": "2014-01-01",
+            "type": "boundary"
+        },
+        "geocode": "NEVAGLI-WAEJE",
+        "major": {
+            "inlatt": "53.166054",
+            "distance": "6.662",
+            "timezone": "Asia/Vladivostok",
+            "elevation": "4",
+            "region": {},
+            "state": "RU",
+            "latt": "53.20937",
+            "longt": "138.98239",
+            "city": "Nevagli",
+            "prov": "Khabarovsk",
+            "inlongt": "139.051473"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "ru:\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "population": "17088",
+                "official_status": "ru:\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_ja": "\u30a6\u30ea\u30c1\u5730\u533a",
+                "addr_country": "RU",
+                "osmid": "315096",
+                "name_ru": "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "boundary": "administrative",
+                "name_en": "Ulchsky Rayon",
+                "wikidata": "Q1094036",
+                "name": "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "admin_level": "6",
+                "addr_region": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "level": "6",
+                "population_date": "2014-01-01",
+                "type": "boundary"
+            }
+        }
+    },
+    "63.16667, -169.3": {
+        "threegeonames": "SEEVOO-PROSIGNIA-TAAYM",
+        "geonumber": "1367436821359",
+        "nearest": {
+            "inlatt": "63.16667",
+            "distance": "0.000",
+            "timezone": "America/Nome",
+            "elevation": "1",
+            "region": "Nome Census Area",
+            "state": "US",
+            "latt": "63.16667",
+            "longt": "-169.3",
+            "city": "Maknighak Camp",
+            "prov": "Alaska",
+            "inlongt": "-169.3",
+            "altgeocode": "MAKNIGHAK-UGSOL"
+        },
+        "osmtags": {
+            "id": {},
+            "state": {}
+        },
+        "geocode": "MAKNIK-UGSOL",
+        "major": {
+            "inlatt": "63.16667",
+            "distance": "7.643",
+            "timezone": "America/Nome",
+            "elevation": "1",
+            "region": "Nome Census Area",
+            "state": "US",
+            "latt": "63.18694",
+            "longt": "-169.15444",
+            "city": "Maknik Lagoon",
+            "prov": "Alaska",
+            "inlongt": "-169.3"
+        },
+        "adminareas": {}
+    },
+    "-10.14447, 148.00914": {
+        "threegeonames": "RIGO-WHISTON-EIABETES",
+        "geonumber": "6545720012064",
+        "nearest": {
+            "inlatt": "-10.14447",
+            "distance": "0.000",
+            "timezone": "Pacific/Port_Moresby",
+            "elevation": "11",
+            "region": {},
+            "name": "Kinikalana",
+            "state": "PG",
+            "latt": "-10.14447",
+            "longt": "148.00914",
+            "city": "Kinikalana",
+            "prov": "Central Province",
+            "inlongt": "148.00914",
+            "altgeocode": "KINIKALANA-SUJIM"
+        },
+        "osmtags": {
+            "id": {},
+            "state": {}
+        },
+        "geocode": "WAPAGAI-SUJIM",
+        "major": {
+            "inlatt": "-10.14447",
+            "distance": "0.705",
+            "timezone": "Pacific/Port_Moresby",
+            "elevation": "14",
+            "region": {},
+            "name": "Wapagai",
+            "state": "PG",
+            "latt": "-10.15051",
+            "longt": "148.00717",
+            "city": "Wapagai",
+            "prov": "Central Province",
+            "inlongt": "148.00914"
+        },
+        "adminareas": {}
     }
 }

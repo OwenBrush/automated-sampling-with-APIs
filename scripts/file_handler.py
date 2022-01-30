@@ -1,5 +1,6 @@
 import json
 
+from scripts.constants import *
 ### File handling
 
 def save_response_to_file(key:str, response:str, file:str): 
@@ -30,3 +31,10 @@ def get_response(file_name, geo_location):
         data = dict(json.load(r_file))
         if geo_location in data.keys():
             return data[geo_location]
+    return False
+
+
+def get_all_geo_locations():
+    with open(LOG_DIR+GEO_LOCATIONS, 'r') as r_file:
+        data = dict(json.load(r_file))
+        return data.keys()

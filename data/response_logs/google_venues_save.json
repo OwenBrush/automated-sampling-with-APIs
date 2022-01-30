@@ -2596,5 +2596,2313 @@
             }
         ],
         "status": "OK"
+    },
+    "-83.5, 167.35": {
+        "html_attributions": [],
+        "results": [],
+        "status": "ZERO_RESULTS"
+    },
+    "55.24601, -107.58192": {
+        "html_attributions": [],
+        "results": [],
+        "status": "ZERO_RESULTS"
+    },
+    "27.7847, 61.30295": {
+        "html_attributions": [],
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 27.5047177,
+                        "lng": 61.6070583
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 27.92890085857997,
+                            "lng": 62.42397317394214
+                        },
+                        "southwest": {
+                            "lat": 26.52157850052509,
+                            "lng": 61.12106312847757
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "SIbVa Suran",
+                "photos": [
+                    {
+                        "height": 1080,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102338390003616813116\">\u0627\u062d\u0645\u062f \u0627\u0631\u0628\u0627\u0628 \u0634\u0633\u062a\u0627\u0646</a>"
+                        ],
+                        "photo_reference": "Aap_uEB67bRhQkogJflR-WS75D08OyipSH7PdVjgdc0FXzNhTRyKafAThZDfh5flGpatdnWusk94PkuA3rHS0iRWPDqgbp0vWyo95XW-zGuhH1yghdizaTngkbSVsspCLHEE3hS97Hgjg0wtfzETsTWqo6cGKBVDy4cwZwwBKHG4SoHwTNS4",
+                        "width": 1920
+                    }
+                ],
+                "place_id": "ChIJn-X-iNQ6wj4RIgisxMVZHUk",
+                "reference": "ChIJn-X-iNQ6wj4RIgisxMVZHUk",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "SIbVa Suran"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 27.7846239,
+                        "lng": 61.3030702
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 27.7859139802915,
+                            "lng": 61.3043902302915
+                        },
+                        "southwest": {
+                            "lat": 27.7832160197085,
+                            "lng": 61.3016922697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "\u062e\u06cc\u0627\u0637\u06cc \u06cc\u0627\u0633\u06cc\u0646 \u0634\u0646\u0628\u0647 \u0632\u0647\u06cc",
+                "place_id": "ChIJtfF1RGgp6D4Rj70WTXurW4s",
+                "plus_code": {
+                    "compound_code": "Q8M3+R6 \u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f\u060c \u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0633\u062a\u0627\u0646 \u0648 \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646\u060c Iran",
+                    "global_code": "7JV3Q8M3+R6"
+                },
+                "reference": "ChIJtfF1RGgp6D4Rj70WTXurW4s",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "\u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f, \u067e\u0633\u06a9\u0648\u0647"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 27.7822957,
+                        "lng": 61.3013979
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 27.78369613029151,
+                            "lng": 61.30276998029151
+                        },
+                        "southwest": {
+                            "lat": 27.7809981697085,
+                            "lng": 61.30007201970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "\u0645\u062f\u0631\u0633\u0647 \u0647\u0641\u062a \u062a\u06cc\u0631 \u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f \u067e\u0633\u06a9\u0648\u0647",
+                "place_id": "ChIJ9_B63c4p6D4RkAdTSxAi-TY",
+                "reference": "ChIJ9_B63c4p6D4RkAdTSxAi-TY",
+                "scope": "GOOGLE",
+                "types": [
+                    "primary_school",
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "\u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f\u060c, Q8J2+WH6"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 27.7829345,
+                        "lng": 61.300115
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 27.7843072302915,
+                            "lng": 61.3014322302915
+                        },
+                        "southwest": {
+                            "lat": 27.7816092697085,
+                            "lng": 61.29873426970849
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0645\u0647\u0631\u0627\u0646 \u0634\u0646\u0628\u0647 \u0632\u0647\u06cc",
+                "place_id": "ChIJa6Q14IAp6D4RCY0w8Rq2myg",
+                "rating": 1,
+                "reference": "ChIJa6Q14IAp6D4RCY0w8Rq2myg",
+                "scope": "GOOGLE",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "SIbVa Suran, Q8M2+52H"
+            },
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 27.7840708,
+                        "lng": 61.3020669
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 27.78973185838817,
+                            "lng": 61.30918253998157
+                        },
+                        "southwest": {
+                            "lat": 27.78035400704795,
+                            "lng": 61.29587895614166
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "\u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f",
+                "place_id": "ChIJfTAFWYsp6D4ReTK1xYyIyOk",
+                "reference": "ChIJfTAFWYsp6D4ReTK1xYyIyOk",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "\u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f"
+            }
+        ],
+        "status": "OK"
+    },
+    "53.16644, -126.31993": {
+        "html_attributions": [],
+        "results": [],
+        "status": "ZERO_RESULTS"
+    },
+    "-17.38333, -48.4": {
+        "html_attributions": [],
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": -17.3491651,
+                        "lng": -48.3934708
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -17.33851443059605,
+                            "lng": -48.37746337622859
+                        },
+                        "southwest": {
+                            "lat": -17.35981515092263,
+                            "lng": -48.40947822377142
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Pires do Rio",
+                "place_id": "ChIJf7qncIRgp5QRWro9QKlwx6s",
+                "reference": "ChIJf7qncIRgp5QRWro9QKlwx6s",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Pires do Rio"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -17.3514002,
+                        "lng": -48.3967912
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -17.3503773697085,
+                            "lng": -48.39531446970851
+                        },
+                        "southwest": {
+                            "lat": -17.35307533029151,
+                            "lng": -48.39801243029151
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Rancho Mendon\u00e7a Palmelo",
+                "opening_hours": {
+                    "open_now": true
+                },
+                "photos": [
+                    {
+                        "height": 1769,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106735294335928321744\">Rancho Mendon\u00e7a Palmelo</a>"
+                        ],
+                        "photo_reference": "Aap_uECurAGRQA8Sso3olhQ_vyYJwR34Fkas08wFvjZNP19BLcK0LNDKXMD7H9ni3jc6z4vjmQGDGFriYZcplejBuGUqdeunvmal3auHzJXYUJLqKO4pDK-EpZNEFmavP_qHJHk59_5_vt7_djhS8ZrBZzjOT8_Z6W3p4lV6B4-PZzGX5bkP",
+                        "width": 3148
+                    }
+                ],
+                "place_id": "ChIJI2Y2J3Fhp5QRrGiZ99cdSRE",
+                "plus_code": {
+                    "compound_code": "JJX3+C7 Palmelo - State of Goi\u00e1s, Brazil",
+                    "global_code": "58JHJJX3+C7"
+                },
+                "rating": 5,
+                "reference": "ChIJI2Y2J3Fhp5QRrGiZ99cdSRE",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 17,
+                "vicinity": "Rancho Mendon\u00e7a - Zona Rural, Palmelo"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -17.346074,
+                        "lng": -48.406107
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -17.3445077,
+                            "lng": -48.40131419999999
+                        },
+                        "southwest": {
+                            "lat": -17.3507729,
+                            "lng": -48.4077046
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Sede Fazenda Taquari V",
+                "photos": [
+                    {
+                        "height": 4032,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112944913699373442129\">Eder Vaz</a>"
+                        ],
+                        "photo_reference": "Aap_uEA7Bc3g7FsoHo4EdiyNPvnMnU9QuFFYEjkfWeurdh5YPosF81I6vQv405xINJVDFnI6rQED_UrxIZwVqOKFmlHENfo4eK1NXieP8nDihF53oCHFK6nBZ6wj2A1PDYmPdtoqP0R9VetaQfTcY_zauycdYZjMsikTbqM88yR_Gh0EdSJB",
+                        "width": 3024
+                    }
+                ],
+                "place_id": "ChIJW0PIzYBfp5QRSsHshh6lRf4",
+                "plus_code": {
+                    "compound_code": "MH3V+HH Pires do Rio - State of Goi\u00e1s, Brazil",
+                    "global_code": "58JHMH3V+HH"
+                },
+                "reference": "ChIJW0PIzYBfp5QRSsHshh6lRf4",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Unnamed Road"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -17.4200859,
+                        "lng": -48.390541
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -17.41922449999999,
+                            "lng": -48.3894217197085
+                        },
+                        "southwest": {
+                            "lat": -17.4226701,
+                            "lng": -48.3921196802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Waterfall Marat\u00e1",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2291,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117616545109275755412\">Maria Luiza</a>"
+                        ],
+                        "photo_reference": "Aap_uEAMc9Hen_3vRl7sycG5nnijHjkgT_9L3azg6TVvDiUxHERakiJwL_vL5nDvoH3vw6fwQe-dKusAF66lQOYi4r_5VIfEFhCUfCw3OMuS2kxzWcKVg6KDwOKutPdSWx8t5Pamf4QMot0js2vHhN9ih5GDja23KPNbXzWNrxZMRifA7D-O",
+                        "width": 3881
+                    }
+                ],
+                "place_id": "ChIJKyZA-4Jnp5QR83u29mH6j0c",
+                "plus_code": {
+                    "compound_code": "HJH5+XQ Pires do Rio - State of Goi\u00e1s, Brazil",
+                    "global_code": "58JHHJH5+XQ"
+                },
+                "rating": 4.4,
+                "reference": "ChIJKyZA-4Jnp5QR83u29mH6j0c",
+                "scope": "GOOGLE",
+                "types": [
+                    "electronics_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 218,
+                "vicinity": "Rod GO-309, Km 17, Pires do Rio"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -17.4222619,
+                        "lng": -48.40608659999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -17.4209871197085,
+                            "lng": -48.4047523697085
+                        },
+                        "southwest": {
+                            "lat": -17.42368508029151,
+                            "lng": -48.40745033029149
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "SERRA DOS CORREIAS",
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/109818128918144505402\">Marlon Henrique Borges de Resende</a>"
+                        ],
+                        "photo_reference": "Aap_uEDdtK4LxGt6lZPhiN70ENte8nOWYPwZ154f9aC56J-C8r_IzEw5RTdUGUXgy-EsRf764f-jNgEKywBSlE5wgt96yKAxpxQx2LxKAfz2Ztl4lVf2OipsXD7SyOg_ctKTZAsXaa9lZ0eD-o4myM6UjyYYMa_B9T6EIkuuZjPFP1Emls3S",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJwSChgXhdp5QROKvsCyOYXAQ",
+                "plus_code": {
+                    "compound_code": "HHHV+3H Pires do Rio - State of Goi\u00e1s, Brazil",
+                    "global_code": "58JHHHHV+3H"
+                },
+                "rating": 5,
+                "reference": "ChIJwSChgXhdp5QROKvsCyOYXAQ",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3,
+                "vicinity": "Pires do Rio"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -17.4252768,
+                        "lng": -48.40898199999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -17.4239858697085,
+                            "lng": -48.4067338
+                        },
+                        "southwest": {
+                            "lat": -17.4266838302915,
+                            "lng": -48.40973139999999
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Fazenda Alto da Serra",
+                "photos": [
+                    {
+                        "height": 2322,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113495748938543289533\">Leandro Junqueira</a>"
+                        ],
+                        "photo_reference": "Aap_uEChtzqsveg0ATE2MNpg2wbNJ4n6li4tPau_8Wax_ChlvfX_aUfGKcoiDf6NoEJsRY_BRbNio5s80FdWLbX1dkjfw5lI9yzojI-bFWbtaxT3mtANJQs_burb5FCxtlWAea2bGDKd4caImckcHkh60aq4Fdbq-FTtW1N4IFWrQVQmUSLS",
+                        "width": 4128
+                    }
+                ],
+                "place_id": "ChIJp9Kv1H1dp5QRcCTOa0ZH7oc",
+                "plus_code": {
+                    "compound_code": "HHFR+VC Pires do Rio - State of Goi\u00e1s, Brazil",
+                    "global_code": "58JHHHFR+VC"
+                },
+                "rating": 5,
+                "reference": "ChIJp9Kv1H1dp5QRcCTOa0ZH7oc",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "Pires do Rio"
+            }
+        ],
+        "status": "OK"
+    },
+    "58.32333, 100.09528": {
+        "html_attributions": [],
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 58.32605700000001,
+                        "lng": 100.0180589
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 58.33191540356291,
+                            "lng": 100.0340663237714
+                        },
+                        "southwest": {
+                            "lat": 58.32019762540484,
+                            "lng": 100.0020514762286
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Bolturino",
+                "place_id": "ChIJgSmMd2y_6FwRDyuhyAO03S8",
+                "reference": "ChIJgSmMd2y_6FwRDyuhyAO03S8",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Bolturino"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 58.3293638,
+                        "lng": 100.0754832
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 58.33016340000001,
+                            "lng": 100.0765746
+                        },
+                        "southwest": {
+                            "lat": 58.32696499999999,
+                            "lng": 100.072209
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Skala Kosoy Byk",
+                "photos": [
+                    {
+                        "height": 854,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/100732219244033801066\">Nina Astafeva</a>"
+                        ],
+                        "photo_reference": "Aap_uEAwh9jML62dDA1q4R1CEXRRqH02A7rX05XTNcOsFZG1Mh89yGAkLTsqM5m8220su0wJiH2EzDV2HhQrVLTh_YNZ0vNvqcK_gaET0zCpF64-sKGDxcYkqTRHTlmPAb_pdcYJqJ8oo9qoJLj8sjqjbCB1_eLLNfjRhJn3g6DWlF0iOUM-",
+                        "width": 480
+                    }
+                ],
+                "place_id": "ChIJMzyF2LG46FwR4MrWu4NuuPo",
+                "plus_code": {
+                    "compound_code": "83HG+P5 Kosoi Byk, Russia",
+                    "global_code": "9PC283HG+P5"
+                },
+                "rating": 5,
+                "reference": "ChIJMzyF2LG46FwR4MrWu4NuuPo",
+                "scope": "GOOGLE",
+                "types": [
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3,
+                "vicinity": "Krasnoyarsk Krai"
+            },
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 58.32278539999999,
+                        "lng": 100.0952843
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 58.32577199563872,
+                            "lng": 100.1035309942111
+                        },
+                        "southwest": {
+                            "lat": 58.32053596695008,
+                            "lng": 100.0873538999122
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Kosoi Byk",
+                "photos": [
+                    {
+                        "height": 1952,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116864207351816966634\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0424\u043e\u043c\u0435\u043d\u043a\u043e</a>"
+                        ],
+                        "photo_reference": "Aap_uEA4uCsA43VcVsnyhRA5yX1Z-Qu5kV2qU0ZahXde4iNhWhmKxajVNYBaTelGuho8kQHk9GlKIl_7vXZafYFUrR17y87jmG-rPMymMj5zBoZMBd3t8OpM4St_2xzOhSmj4bKNPeUnp0iYGg2Aiod5u6IM51PSR4yAMWJaC3GRw-6QYLj1",
+                        "width": 3264
+                    }
+                ],
+                "place_id": "ChIJmc4A8r246FwREnojcOWQmzs",
+                "reference": "ChIJmc4A8r246FwREnojcOWQmzs",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Kosoi Byk"
+            }
+        ],
+        "status": "OK"
+    },
+    "52.41653, 133.33867": {
+        "html_attributions": [],
+        "results": [],
+        "status": "ZERO_RESULTS"
+    },
+    "-4.51811, 151.62302": {
+        "html_attributions": [],
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": -4.523846,
+                        "lng": 151.627701
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -4.512722687206105,
+                            "lng": 151.6437084237714
+                        },
+                        "southwest": {
+                            "lat": -4.534969141938786,
+                            "lng": 151.6116935762286
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Poiniara",
+                "place_id": "ChIJC7bVhvQLwGgRBuqQEyYR_9g",
+                "reference": "ChIJC7bVhvQLwGgRBuqQEyYR_9g",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Poiniara"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -4.5235537,
+                        "lng": 151.6327647
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -4.522432369708498,
+                            "lng": 151.6343388302915
+                        },
+                        "southwest": {
+                            "lat": -4.525130330291502,
+                            "lng": 151.6316408697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "Villaingpemki Primary",
+                "place_id": "ChIJqwHVLnsLwGgRjVp6K3rEvtY",
+                "plus_code": {
+                    "compound_code": "FJGM+H4 Poiniara, Papua New Guinea",
+                    "global_code": "6R7HFJGM+H4"
+                },
+                "reference": "ChIJqwHVLnsLwGgRjVp6K3rEvtY",
+                "scope": "GOOGLE",
+                "types": [
+                    "primary_school",
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "New Britain Hwy, Kimbe"
+            }
+        ],
+        "status": "OK"
+    },
+    "46.90654, -67.38997": {
+        "html_attributions": [],
+        "next_page_token": "Aap_uEARLcBLwC574i_F__tySnkWblV4xvDwK_nzj-brIZjThV-dcm3O3HWTm5FY7zAEDb_WiKIpxK68VA0pNFPjH6JoKfsj97ha87hf76f4jjXPrwND1i-WRa8ITobYNSuTA4XD8pdldDAkQGB-bN2NhvKd9-Cnu2OU4iTYy79pRPgXWvj5MZMpyCbXME_9idoWisLAAJCB0ZhbKOf8vv1PFOEUVeNryo8JLmQ0f1Pel55-yZRypf6pqba8XY1jXF4xDb5F_U82tR7kXlp1c2pTiGwnlQ2JKUiVL8OHjfI9AHWbBTwmiBcFyE3TL6m6w6KVXHm43O01mxq8CSEeXbPGH7mC_uvwhGNwakw372NfS4iDmNqP4mpApPLAc-Az0Al1CqzzhZ8BYFIjUly-hq_1vH-RUGKsX17bIyPYnc7xf6L9",
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 46.9082495,
+                        "lng": -67.3955312
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.91853284181973,
+                            "lng": -67.37760191816685
+                        },
+                        "southwest": {
+                            "lat": 46.89008906771859,
+                            "lng": -67.40447186372583
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Plaster Rock",
+                "photos": [
+                    {
+                        "height": 722,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102474291785177129349\">Daniel Steeves</a>"
+                        ],
+                        "photo_reference": "Aap_uECwGq76S5JMEI6RQibQLW7VHt4_60RRV0CHH9J1JmNaoO5n7W7okiO9ecBjLFKc_75MBTqhUTiKFEUxWfZQnkPOxlsvTZca0Az6kDKjuprH3i_y05B7feVQM8wCcDodvbLXt1u80avc4YqF8YjyqMKgln0ISfVl67FQp_kMO9F70e1q",
+                        "width": 1080
+                    }
+                ],
+                "place_id": "ChIJfQuK3ug6o0wRJ8zCXFt6wAA",
+                "reference": "ChIJfQuK3ug6o0wRJ8zCXFt6wAA",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.8941915,
+                        "lng": -67.39566719999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.8955383802915,
+                            "lng": -67.39414366970848
+                        },
+                        "southwest": {
+                            "lat": 46.8928404197085,
+                            "lng": -67.39684163029149
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "Settler's Inn & Motel",
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113673787720135576129\">Adam Brock</a>"
+                        ],
+                        "photo_reference": "Aap_uEDNnWjCAfXtPZoB8poYQeeB9GSDNca2jPsj7vy3VCmWdkPx11VcMWBZkmr9lQehtQttwTGdxMp4_tkPEthcXX2BqW5EtTqy2Xxgdad3P9gz82YPgLBBq1eukQxVCU-iinkvYS8xN_F05OaMv7Y_d0D9oeYFwWSe3pBzw57P-Cfy6k8P",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJmRogt_M6o0wRgkd9aLHZciI",
+                "plus_code": {
+                    "compound_code": "VJV3+MP Plaster Rock, NB, Canada",
+                    "global_code": "87RJVJV3+MP"
+                },
+                "rating": 4.1,
+                "reference": "ChIJmRogt_M6o0wRgkd9aLHZciI",
+                "scope": "GOOGLE",
+                "types": [
+                    "lodging",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 49,
+                "vicinity": "141 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.9137153,
+                        "lng": -67.39197539999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9150602302915,
+                            "lng": -67.39098471970848
+                        },
+                        "southwest": {
+                            "lat": 46.9123622697085,
+                            "lng": -67.3936826802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "Tobique Valley High School",
+                "place_id": "ChIJ8f9do7o6o0wRaSiiSEqN35I",
+                "plus_code": {
+                    "compound_code": "WJ75+F6 Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ75+F6"
+                },
+                "rating": 4,
+                "reference": "ChIJ8f9do7o6o0wRaSiiSEqN35I",
+                "scope": "GOOGLE",
+                "types": [
+                    "secondary_school",
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3,
+                "vicinity": "290 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.891967,
+                        "lng": -67.3986092
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.8930308802915,
+                            "lng": -67.3969393197085
+                        },
+                        "southwest": {
+                            "lat": 46.8903329197085,
+                            "lng": -67.3996372802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Family Worship Center",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1536,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106004930931317135575\">Family Worship Center</a>"
+                        ],
+                        "photo_reference": "Aap_uEDFgktKq_gWMlxncdtYyuDWb_wHckLkdMu6JmzKMo_gsFcyZ1FgBrUe5h9eVb2M-Nba1L_o7f0VyAT7Hf0Q52lq3gLydeMJOqL987mCYV6l-9mhwCMxTPfCF4qd0z6E6hNgeAXh0KGrjH2cP7-eMaW05gzCa83ywxGps6YSHQX8ib4R",
+                        "width": 2048
+                    }
+                ],
+                "place_id": "ChIJyXMIePQ6o0wRkdDOOReKNB4",
+                "plus_code": {
+                    "compound_code": "VJR2+QH Plaster Rock, NB, Canada",
+                    "global_code": "87RJVJR2+QH"
+                },
+                "rating": 4.4,
+                "reference": "ChIJyXMIePQ6o0wRkdDOOReKNB4",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 35,
+                "vicinity": "123 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.904241,
+                        "lng": -67.3952934
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9055899802915,
+                            "lng": -67.39394441970849
+                        },
+                        "southwest": {
+                            "lat": 46.9028920197085,
+                            "lng": -67.39664238029151
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Riverside Home Hardware Building Centre",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2340,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/109446287510569706614\">Marco Le renard</a>"
+                        ],
+                        "photo_reference": "Aap_uEArgBQx8u8SQmbu9QCHBBlD-ZAB7KbNHRapSe8D7cX-93U_gKXAo5uIpDhh8v_5YpDhLtroDhnLxXXE6h9_XKnSmTg12I2IYjSaUkCtZ4ky4LKMGG12wE5KKc8xTtclyfvL9TXkUPaaIRfzCXQHqA2b7BK_E1zsXQTSlxHDT_K4Gsm1",
+                        "width": 4160
+                    }
+                ],
+                "place_id": "ChIJ76Ta4pQ6o0wR021vVkvQYuI",
+                "plus_code": {
+                    "compound_code": "WJ33+MV Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ33+MV"
+                },
+                "rating": 4.7,
+                "reference": "ChIJ76Ta4pQ6o0wR021vVkvQYuI",
+                "scope": "GOOGLE",
+                "types": [
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 45,
+                "vicinity": "38A Riverside Drive, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.898899,
+                        "lng": -67.3855895
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9004251302915,
+                            "lng": -67.38441481970848
+                        },
+                        "southwest": {
+                            "lat": 46.8977271697085,
+                            "lng": -67.3871127802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Tobique Western Star",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2988,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/105950547650688216403\">Robert Grenon</a>"
+                        ],
+                        "photo_reference": "Aap_uEC8kDJV5sV7ETbh_2UVXdLbL1FgPq8tS65CVT6wIQqj8EMUKoT8xEIhYYC2cIK1bVGQEU-L-PF-5aCJvMwmPMzRPrg3EuJo5BKl-oUgopC9yUGCWLlLmoW-n2fbvrATFGV5OWCzaQoHIfGx3S_MjWCIodAOgewQbAnVw0mLuw4QGIA",
+                        "width": 5312
+                    }
+                ],
+                "place_id": "ChIJtVtmv-46o0wRyuGUXdJk2c8",
+                "plus_code": {
+                    "compound_code": "VJX7+HQ Plaster Rock, NB, Canada",
+                    "global_code": "87RJVJX7+HQ"
+                },
+                "rating": 4.3,
+                "reference": "ChIJtVtmv-46o0wRyuGUXdJk2c8",
+                "scope": "GOOGLE",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 7,
+                "vicinity": "35 Sunrise Lane, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.9131926,
+                        "lng": -67.3915763
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9146237302915,
+                            "lng": -67.3908081197085
+                        },
+                        "southwest": {
+                            "lat": 46.9119257697085,
+                            "lng": -67.3935060802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "Plaster Rock Public School Library",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJhdqucb46o0wRCbSiTEcJFDE",
+                "plus_code": {
+                    "compound_code": "WJ75+79 Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ75+79"
+                },
+                "reference": "ChIJhdqucb46o0wRCbSiTEcJFDE",
+                "scope": "GOOGLE",
+                "types": [
+                    "school",
+                    "library",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "290 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.891967,
+                        "lng": -67.3986092
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.8930308802915,
+                            "lng": -67.3969393197085
+                        },
+                        "southwest": {
+                            "lat": 46.8903329197085,
+                            "lng": -67.3996372802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "Truth Learning Academy / Apostolic Christian School",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1125,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117548057291976398476\">Truth Learning Academy / Apostolic Christian School</a>"
+                        ],
+                        "photo_reference": "Aap_uECpHX5-mF_Tofqo3F-AX6ub_41ZO1LFuH5juNoH89ygaGhAMZQQyutKp-BKNw4_J5xsQZ3ajZd17upAXuZfVomiosgQimgApE5q9DcrlzzOdRbHxADGcjLkeaQMC-VdOd5U3oJceNiWY7EByBfESJX0fDGj1XTSqa_LNA317HJ76o9s",
+                        "width": 1500
+                    }
+                ],
+                "place_id": "ChIJCfS-efQ6o0wRZtLpYk8Mhc0",
+                "plus_code": {
+                    "compound_code": "VJR2+QH Plaster Rock, NB, Canada",
+                    "global_code": "87RJVJR2+QH"
+                },
+                "reference": "ChIJCfS-efQ6o0wRZtLpYk8Mhc0",
+                "scope": "GOOGLE",
+                "types": [
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "123 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.9054894,
+                        "lng": -67.3953542
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.90657803029151,
+                            "lng": -67.3942488197085
+                        },
+                        "southwest": {
+                            "lat": 46.90388006970851,
+                            "lng": -67.3969467802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "United Church of Canada",
+                "place_id": "ChIJkVxLo5U6o0wRK0v23belQKU",
+                "plus_code": {
+                    "compound_code": "WJ43+5V Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ43+5V"
+                },
+                "reference": "ChIJkVxLo5U6o0wRK0v23belQKU",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "50 Riverside Drive, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.89646,
+                        "lng": -67.39508
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.8978065802915,
+                            "lng": -67.39387486970848
+                        },
+                        "southwest": {
+                            "lat": 46.8951086197085,
+                            "lng": -67.3965728302915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+                "name": "Irving Oil",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101696346223381705640\">Scott Scoob Maloney</a>"
+                        ],
+                        "photo_reference": "Aap_uED1PomgnNj6mCddfjrxyuKzvQxmoxUtW4FZiLTUx8uOyTnMSuIFLR8aOv1O0q1hIPHhPzteqzU2XQbxMbpxqvV7Rydh8z6KGjDW82zTL5TvrJ16NgTqwRQlqMKS4gSLt1a5Pm-WD13KXF31imnW3gmoJ0yGdeQiFuH_04rodBXyMOU_",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJJdrDfO06o0wR8LdXzTAVigY",
+                "plus_code": {
+                    "compound_code": "VJW3+HX Plaster Rock, NB, Canada",
+                    "global_code": "87RJVJW3+HX"
+                },
+                "rating": 4,
+                "reference": "ChIJJdrDfO06o0wR8LdXzTAVigY",
+                "scope": "GOOGLE",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 37,
+                "vicinity": "162 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.906783,
+                        "lng": -67.396382
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9081326302915,
+                            "lng": -67.3949433197085
+                        },
+                        "southwest": {
+                            "lat": 46.90543466970851,
+                            "lng": -67.39764128029151
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "Donald Fraser Memorial School",
+                "place_id": "ChIJjVTworo6o0wRXh_uCGQlH6A",
+                "plus_code": {
+                    "compound_code": "WJ43+PC Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ43+PC"
+                },
+                "reference": "ChIJjVTworo6o0wRXh_uCGQlH6A",
+                "scope": "GOOGLE",
+                "types": [
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "231 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.90865489999999,
+                        "lng": -67.3951253
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9100220802915,
+                            "lng": -67.3938650197085
+                        },
+                        "southwest": {
+                            "lat": 46.9073241197085,
+                            "lng": -67.3965629802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "NAPA Auto Parts - Shaw Auto Supply Ltd",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3036,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107750545607607462923\">Philip Kierstead</a>"
+                        ],
+                        "photo_reference": "Aap_uECv8SWKWSiq-kkBQmqV6dRpZtVcJCxOympEGSk19yJcpPgcmHzeD9T-OQN1d-tFfMRg_Z927x5TSaGcPCFGnfPzY99qDpA9EmAkd6DExTVVkcrMHVDdIWlvyLIW_gV6vGxlJ7exAbvq0m0_PYl-yauyvDbwUFeWP1PhRFry1jRt0GdP",
+                        "width": 4048
+                    }
+                ],
+                "place_id": "ChIJ1xn3er46o0wRUJR9paGuVws",
+                "plus_code": {
+                    "compound_code": "WJ53+FW Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ53+FW"
+                },
+                "rating": 4.6,
+                "reference": "ChIJ1xn3er46o0wRUJR9paGuVws",
+                "scope": "GOOGLE",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 7,
+                "vicinity": "250A Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.9041824,
+                        "lng": -67.3881759
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9055890802915,
+                            "lng": -67.38643936970848
+                        },
+                        "southwest": {
+                            "lat": 46.9028911197085,
+                            "lng": -67.3891373302915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Twin Rivers Plaster Rock Lumber Mill",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJOdTNQOg6o0wRLzapZKXo4aM",
+                "plus_code": {
+                    "compound_code": "WJ36+MP Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ36+MP"
+                },
+                "rating": 4.7,
+                "reference": "ChIJOdTNQOg6o0wRLzapZKXo4aM",
+                "scope": "GOOGLE",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 6,
+                "vicinity": "31 Renous Road, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.907025,
+                        "lng": -67.39562169999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9083739802915,
+                            "lng": -67.39427271970848
+                        },
+                        "southwest": {
+                            "lat": 46.9056760197085,
+                            "lng": -67.3969706802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Great Canadian Dollar Store",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3456,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/108232241562546871666\">Lord Commander</a>"
+                        ],
+                        "photo_reference": "Aap_uECpSQmuSYfwYTOAq5El7ReAmBZe-T0a_at5gONgp-K0dMk5IPYX_VriYDik9mxDIpH2NxgyVV__L2VH0Jz78NifR-Xfv2owNzCl1EY42n9-RVTYuYbPS7SEZfMXir5xUiVRiFWIK6CvOMkjh8e-S11BAsqInDAmXfeHbePTQHfABhRx",
+                        "width": 3456
+                    }
+                ],
+                "place_id": "ChIJCwrkIb46o0wRJCyCX77BGtk",
+                "plus_code": {
+                    "compound_code": "WJ43+RQ Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ43+RQ"
+                },
+                "rating": 4.5,
+                "reference": "ChIJCwrkIb46o0wRJCyCX77BGtk",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 31,
+                "vicinity": "236 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.9082417,
+                        "lng": -67.3953472
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.90958938029149,
+                            "lng": -67.3940658697085
+                        },
+                        "southwest": {
+                            "lat": 46.90689141970849,
+                            "lng": -67.39676383029152
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+                "icon_background_color": "#FF9E67",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+                "name": "lil' Peppinos",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2160,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/100913655538486223755\">lil&#39; Peppinos</a>"
+                        ],
+                        "photo_reference": "Aap_uEBBdepL7PNdm4JA3_vr0MEoBp62GCWB5mv09RxqCAGyr7wOyAgQlXwjnYt4zvtbj2JzlqYl7K3o0DRb6Cfhe8qSY_nlwNgy2LuDeB9WbwwHEp-70Rl3Cr6VTFQJOqZ3oUjTHqfNmr37FM6AORHa2BfQ5Zt7gX7UDV7HotWhrxLPXlk",
+                        "width": 3840
+                    }
+                ],
+                "place_id": "ChIJoTZMcL46o0wREEOjbVgKpuE",
+                "plus_code": {
+                    "compound_code": "WJ53+7V Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ53+7V"
+                },
+                "price_level": 2,
+                "rating": 4.8,
+                "reference": "ChIJoTZMcL46o0wREEOjbVgKpuE",
+                "scope": "GOOGLE",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 129,
+                "vicinity": "248 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.90590259999999,
+                        "lng": -67.39583999999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.90725983029149,
+                            "lng": -67.39456841970849
+                        },
+                        "southwest": {
+                            "lat": 46.90456186970849,
+                            "lng": -67.3972663802915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Fired Up Furnace Wood",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJczmWkZU6o0wRGNMK22giwH8",
+                "plus_code": {
+                    "compound_code": "WJ43+9M Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ43+9M"
+                },
+                "rating": 5,
+                "reference": "ChIJczmWkZU6o0wRGNMK22giwH8",
+                "scope": "GOOGLE",
+                "types": [
+                    "general_contractor",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "222 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.90888469999999,
+                        "lng": -67.3949778
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.91025798029149,
+                            "lng": -67.3937348697085
+                        },
+                        "southwest": {
+                            "lat": 46.9075600197085,
+                            "lng": -67.3964328302915
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Hilery T. Hargrove LL.B",
+                "place_id": "ChIJ-xVuEb46o0wRlIQmOZgQcFA",
+                "plus_code": {
+                    "compound_code": "WJ54+H2 Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ54+H2"
+                },
+                "rating": 5,
+                "reference": "ChIJ-xVuEb46o0wRlIQmOZgQcFA",
+                "scope": "GOOGLE",
+                "types": [
+                    "lawyer",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "252 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.905404,
+                        "lng": -67.39592700000001
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9067647802915,
+                            "lng": -67.3946733197085
+                        },
+                        "southwest": {
+                            "lat": 46.9040668197085,
+                            "lng": -67.39737128029151
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+                "name": "Jeff's Your Independent Grocer",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1080,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106340407095381211393\">Joey Mauro</a>"
+                        ],
+                        "photo_reference": "Aap_uEBxYzSEmZQW9zbdCGgUcoxHvYDNHR_krXlhZnTVgpyR9hKx7sAOoiH048TuHlFKF5ekKA7E_fKKB74VDKTJrX_LGlG3jEsmpKEGaKxWf_eTWIOz_wZQ5cohqVS5kCRylP9DhLLOTWPmjoOdwJIiQQoM4748_8s39jS0B4CHqka_6yXZ",
+                        "width": 1920
+                    }
+                ],
+                "place_id": "ChIJeerHl5U6o0wRJvgELAmEhEM",
+                "plus_code": {
+                    "compound_code": "WJ43+5J Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ43+5J"
+                },
+                "rating": 4.3,
+                "reference": "ChIJeerHl5U6o0wRJvgELAmEhEM",
+                "scope": "GOOGLE",
+                "types": [
+                    "grocery_or_supermarket",
+                    "pharmacy",
+                    "bakery",
+                    "food",
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "user_ratings_total": 66,
+                "vicinity": "220 Main Street, Plaster Rock"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 46.9076969,
+                        "lng": -67.3961556
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.9089580302915,
+                            "lng": -67.3948222197085
+                        },
+                        "southwest": {
+                            "lat": 46.9062600697085,
+                            "lng": -67.39752018029151
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+                "name": "Canada Post",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "place_id": "ChIJxefyDr46o0wRB-evT423DQQ",
+                "plus_code": {
+                    "compound_code": "WJ53+3G Plaster Rock, NB, Canada",
+                    "global_code": "87RJWJ53+3G"
+                },
+                "rating": 5,
+                "reference": "ChIJxefyDr46o0wRB-evT423DQQ",
+                "scope": "GOOGLE",
+                "types": [
+                    "post_office",
+                    "finance",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "62 Orange Street, Plaster Rock"
+            },
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 46.886305,
+                        "lng": -67.425749
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 46.89393036664988,
+                            "lng": -67.40974157622858
+                        },
+                        "southwest": {
+                            "lat": 46.87867854923066,
+                            "lng": -67.44175642377142
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Linton Corner",
+                "photos": [
+                    {
+                        "height": 1720,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106561837078574821814\">Jim Munroe</a>"
+                        ],
+                        "photo_reference": "Aap_uEBPca3CHz6Kiwndbm6nBj_0ouUE8Xfk99wvekHB_hoq5egp7q99t8l4z-D9Jlks2Bsl5gZNp8s7_t_88H3YX5BeTdJBdd-CGZTnqLmTdnzCQpBXD3nB4_fm4doKwVLa4Yq8lWUT10SJqPT1FjLEdwTmltnEuULq54G2P7-Q33O9C_Ww",
+                        "width": 3056
+                    }
+                ],
+                "place_id": "ChIJ80SGuYEYo0wRyMxOIbNxsMU",
+                "reference": "ChIJ80SGuYEYo0wRyMxOIbNxsMU",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Linton Corner"
+            }
+        ],
+        "status": "OK"
+    },
+    "66.88996, 18.40836": {
+        "html_attributions": [],
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 66.9031737,
+                        "lng": 18.260781
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 67.90573394332162,
+                            "lng": 20.74796190699021
+                        },
+                        "southwest": {
+                            "lat": 65.9089980670288,
+                            "lng": 16.08876421216585
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Jokkmokk",
+                "photos": [
+                    {
+                        "height": 2250,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117692333489175054639\">Johannes Weld</a>"
+                        ],
+                        "photo_reference": "Aap_uEDTiBvcQxph9VAYv80GGQHCtlOqMDm2NUCaiBSEkT-Pf72SMuwvQUGmLFdI3gm3RtGgeGxnAdrlDwuj0s6WwqVXL5-xm4GxBVeMHvCOwdhR4fjApVWMGOBPZ-7ppXN4um94dap87-t4qrtiFhBsFi4qI6u3ykk6pVaOBSpWGBthopXJ",
+                        "width": 3000
+                    }
+                ],
+                "place_id": "ChIJ85cZFWsv2EUROWJwj_HiNqo",
+                "reference": "ChIJ85cZFWsv2EUROWJwj_HiNqo",
+                "scope": "GOOGLE",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ],
+                "vicinity": "Jokkmokk"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 66.92459459999999,
+                        "lng": 18.4705761
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 66.92566728029149,
+                            "lng": 18.4719587802915
+                        },
+                        "southwest": {
+                            "lat": 66.92296931970849,
+                            "lng": 18.4692608197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+                "icon_background_color": "#4DB546",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+                "name": "Paikasvaratjah",
+                "place_id": "ChIJEf1reOUv2EURrRDIxILLpOk",
+                "plus_code": {
+                    "compound_code": "WFFC+R6 Tj\u00e5motis, Sweden",
+                    "global_code": "9FRWWFFC+R6"
+                },
+                "rating": 5,
+                "reference": "ChIJEf1reOUv2EURrRDIxILLpOk",
+                "scope": "GOOGLE",
+                "types": [
+                    "park",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1,
+                "vicinity": "Unnamed Road, Jokkmokk"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": 66.9318913,
+                        "lng": 18.4359483
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 66.9327219302915,
+                            "lng": 18.4368960802915
+                        },
+                        "southwest": {
+                            "lat": 66.9300239697085,
+                            "lng": 18.4341981197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+                "icon_background_color": "#4DB546",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+                "name": "Sl\u00e5tterstugor Tj\u00e5motis",
+                "opening_hours": {
+                    "open_now": true
+                },
+                "place_id": "ChIJp_-oRtMv2EURGC38sA_nU5g",
+                "plus_code": {
+                    "compound_code": "WCJP+Q9 Tj\u00e5motis, Sweden",
+                    "global_code": "9FRWWCJP+Q9"
+                },
+                "reference": "ChIJp_-oRtMv2EURGC38sA_nU5g",
+                "scope": "GOOGLE",
+                "types": [
+                    "park",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Jokkmokk"
+            }
+        ],
+        "status": "OK"
+    },
+    "53.16605, 139.05147": {
+        "html_attributions": [],
+        "results": [],
+        "status": "ZERO_RESULTS"
+    },
+    "63.16667, -169.3": {
+        "html_attributions": [],
+        "results": [],
+        "status": "ZERO_RESULTS"
+    },
+    "-10.14447, 148.00914": {
+        "html_attributions": [],
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": -10.1335912,
+                        "lng": 148.017143
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.12780053439547,
+                            "lng": 148.0238843100816
+                        },
+                        "southwest": {
+                            "lat": -10.14060106194037,
+                            "lng": 148.0119537921405
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Maopa",
+                "photos": [
+                    {
+                        "height": 4000,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117219959831334821679\">Nelson D Witi</a>"
+                        ],
+                        "photo_reference": "Aap_uED1GhLp-WZjKqNM2owDHfhsY3nyC_nY2pmuNNGVJzt_mUSwTq5_bg8B272Rg08IioPCEw_LnqoPMxa54TPsSpEHrEaDrDjZ2G0B29_RYjINaIm-ERmQMHb-9ABZ448Z_hhaCbmGHWON7q4-ploxFP2URnnHouixHSgQw3mlHS8D912T",
+                        "width": 3000
+                    }
+                ],
+                "place_id": "ChIJYboTalBdA2kRoeApLaBxXSE",
+                "reference": "ChIJYboTalBdA2kRoeApLaBxXSE",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Maopa"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1461476,
+                        "lng": 148.0095385
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1446469197085,
+                            "lng": 148.0106710302915
+                        },
+                        "southwest": {
+                            "lat": -10.1473448802915,
+                            "lng": 148.0079730697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Pelagai United Church",
+                "place_id": "ChIJsTdD1T9dA2kRpbV26N4e44s",
+                "plus_code": {
+                    "compound_code": "V235+GR Pelagai, Papua New Guinea",
+                    "global_code": "5RXCV235+GR"
+                },
+                "reference": "ChIJsTdD1T9dA2kRpbV26N4e44s",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Unnamed Road"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1455619,
+                        "lng": 148.0071809
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1446060697085,
+                            "lng": 148.00952105
+                        },
+                        "southwest": {
+                            "lat": -10.1473040302915,
+                            "lng": 148.00640085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Pelagai Foursquare Church",
+                "place_id": "ChIJQ6PTqPpnA2kRSqdZH3TeOIU",
+                "reference": "ChIJQ6PTqPpnA2kRSqdZH3TeOIU",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V234+QV, Pelagai"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1475272,
+                        "lng": 148.0089575
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1460194697085,
+                            "lng": 148.0099812302915
+                        },
+                        "southwest": {
+                            "lat": -10.1487174302915,
+                            "lng": 148.0072832697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Pelagai Seventh Day Adventist Church",
+                "place_id": "ChIJgTUWXRNdA2kRbsZDVQ6w_5E",
+                "reference": "ChIJgTUWXRNdA2kRbsZDVQ6w_5E",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V225+XHP, Pelagai"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1422142,
+                        "lng": 148.0125407
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1407493197085,
+                            "lng": 148.0137215302915
+                        },
+                        "southwest": {
+                            "lat": -10.1434472802915,
+                            "lng": 148.0110235697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+                "name": "Aroma Primary School",
+                "place_id": "ChIJ6UfBWmFdA2kRgKxZG_URmtM",
+                "reference": "ChIJ6UfBWmFdA2kRgKxZG_URmtM",
+                "scope": "GOOGLE",
+                "types": [
+                    "primary_school",
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V257+42, Aroma"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1357864,
+                        "lng": 148.0171116
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1345057697085,
+                            "lng": 148.0178901802915
+                        },
+                        "southwest": {
+                            "lat": -10.1372037302915,
+                            "lng": 148.0151922197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Georita II - Maopa Levapuka United Church",
+                "place_id": "ChIJq-L4JDRdA2kRU477r0ehACc",
+                "reference": "ChIJq-L4JDRdA2kRU477r0ehACc",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V278+MRQ, Maopa"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1344447,
+                        "lng": 148.0180119
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1327608197085,
+                            "lng": 148.01881435
+                        },
+                        "southwest": {
+                            "lat": -10.1354587802915,
+                            "lng": 148.01560455
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Ripaku Trading",
+                "place_id": "ChIJQfVevVtdA2kRzpNk1ga3kF8",
+                "reference": "ChIJQfVevVtdA2kRzpNk1ga3kF8",
+                "scope": "GOOGLE",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V289+66, Maopa"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1335912,
+                        "lng": 148.017143
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1320952197085,
+                            "lng": 148.0182469802915
+                        },
+                        "southwest": {
+                            "lat": -10.1347931802915,
+                            "lng": 148.0155490197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Business Location",
+                "place_id": "ChIJw3BNG-ldA2kR_GFjJxA-UnM",
+                "plus_code": {
+                    "compound_code": "V288+HV Maopa, Papua New Guinea",
+                    "global_code": "5RXCV288+HV"
+                },
+                "reference": "ChIJw3BNG-ldA2kR_GFjJxA-UnM",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Maopa, Abau District Port Moresby Central Province"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1330829,
+                        "lng": 148.0173783
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1315383197085,
+                            "lng": 148.0186727302915
+                        },
+                        "southwest": {
+                            "lat": -10.1342362802915,
+                            "lng": 148.0159747697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Maopa Seventh Day Adventist Church",
+                "place_id": "ChIJDR2sQuxdA2kRcoJUlNzdz9U",
+                "plus_code": {
+                    "compound_code": "V288+QX Maopa, Papua New Guinea",
+                    "global_code": "5RXCV288+QX"
+                },
+                "reference": "ChIJDR2sQuxdA2kRcoJUlNzdz9U",
+                "scope": "GOOGLE",
+                "types": [
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Central Province"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1325377,
+                        "lng": 148.0179687
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1311498697085,
+                            "lng": 148.0193957302914
+                        },
+                        "southwest": {
+                            "lat": -10.1338478302915,
+                            "lng": 148.0166977697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "Maopa Market",
+                "photos": [
+                    {
+                        "height": 3120,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116780922327919074096\">Andrew Aisir</a>"
+                        ],
+                        "photo_reference": "Aap_uEBxpcBdPjEJ2TVSrcRWiLgahoV8SzQf6ddADhfwYXdqzre7oPrMcK2g1qmo1LsfN0o4slhqLPuJfgupgpHPqYu6jJstOvScQ4S4nMSDjwJ1qyNVGdivn_IIwBZ9HQJBAuMnbY-VzZxIPVD07Q5NUwPWXEQ43p6H4iKhoCekRD8lKDck",
+                        "width": 4160
+                    }
+                ],
+                "place_id": "ChIJCzJd-YxdA2kRIQ8zjvxtvXQ",
+                "plus_code": {
+                    "compound_code": "V289+X5 Maopa, Papua New Guinea",
+                    "global_code": "5RXCV289+X5"
+                },
+                "rating": 3.8,
+                "reference": "ChIJCzJd-YxdA2kRIQ8zjvxtvXQ",
+                "scope": "GOOGLE",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 6,
+                "vicinity": "Unnamed Road"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1316564,
+                        "lng": 148.0182864
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1303197197085,
+                            "lng": 148.0195187302915
+                        },
+                        "southwest": {
+                            "lat": -10.1330176802915,
+                            "lng": 148.0168207697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+                "name": "Wapala Kele Trading",
+                "opening_hours": {
+                    "open_now": true
+                },
+                "place_id": "ChIJE9kzPtVdA2kRTVltiGfsQLo",
+                "plus_code": {
+                    "compound_code": "V299+88 Maopa, Papua New Guinea",
+                    "global_code": "5RXCV299+88"
+                },
+                "reference": "ChIJE9kzPtVdA2kRTVltiGfsQLo",
+                "scope": "GOOGLE",
+                "types": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "vicinity": "Unnamed Road, Maopa"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.132619,
+                        "lng": 148.0206868
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1308496197085,
+                            "lng": 148.0221186802915
+                        },
+                        "southwest": {
+                            "lat": -10.13354758029151,
+                            "lng": 148.0194207197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Gaivakala Seventh-day Adventist Church",
+                "place_id": "ChIJf__DUlRdA2kRLgv__gA33tc",
+                "plus_code": {
+                    "compound_code": "V28C+X7 Maopa, Papua New Guinea",
+                    "global_code": "5RXCV28C+X7"
+                },
+                "reference": "ChIJf__DUlRdA2kRLgv__gA33tc",
+                "scope": "GOOGLE",
+                "types": [
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Gaivakala Seventh-day Adventist Church, C/- Aroma District, Central Papua Conference of the Seventh-day Adventist Church, P.O. Box 332 Port Moresby 121, N.C.D"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1304284,
+                        "lng": 148.0186999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1291509197085,
+                            "lng": 148.0196264802915
+                        },
+                        "southwest": {
+                            "lat": -10.1318488802915,
+                            "lng": 148.0169285197085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                "name": "Maopa Kwalu Rage Rage - United Church",
+                "place_id": "ChIJhb-RV3BdA2kRyYxTnJBiHTE",
+                "reference": "ChIJhb-RV3BdA2kRyYxTnJBiHTE",
+                "scope": "GOOGLE",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V299+RFG, Maopa"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1326123,
+                        "lng": 148.0225646
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1309912697085,
+                            "lng": 148.0238583302915
+                        },
+                        "southwest": {
+                            "lat": -10.1336892302915,
+                            "lng": 148.0211603697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Ross James Pioneer Seventh Day Adventist Church",
+                "place_id": "ChIJ-RnsrOFdA2kRDhjFIfFnPeQ",
+                "reference": "ChIJ-RnsrOFdA2kRDhjFIfFnPeQ",
+                "scope": "GOOGLE",
+                "types": [
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "V28F+X24, Maopa"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "geometry": {
+                    "location": {
+                        "lat": -10.1316783,
+                        "lng": 148.0216882
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1304414697085,
+                            "lng": 148.0230070302915
+                        },
+                        "southwest": {
+                            "lat": -10.1331394302915,
+                            "lng": 148.0203090697085
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "icon_background_color": "#4B96F3",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                "name": "GKL Trading",
+                "place_id": "ChIJx4ThKkhdA2kR8_9vojml-7Q",
+                "plus_code": {
+                    "compound_code": "V29C+8M Maopa, Papua New Guinea",
+                    "global_code": "5RXCV29C+8M"
+                },
+                "reference": "ChIJx4ThKkhdA2kR8_9vojml-7Q",
+                "scope": "GOOGLE",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "vicinity": "Gaivakala, Road"
+            },
+            {
+                "geometry": {
+                    "location": {
+                        "lat": -10.1468225,
+                        "lng": 148.0093244
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": -10.1451423507079,
+                            "lng": 148.0112242833858
+                        },
+                        "southwest": {
+                            "lat": -10.15040164589547,
+                            "lng": 148.0071902086137
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Pelagai",
+                "photos": [
+                    {
+                        "height": 2976,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116301924973461703080\">Nicholas Molis</a>"
+                        ],
+                        "photo_reference": "Aap_uEBe9W4Okb9cYFiBiPNBGppmW6CbE6WrgT5skpQO4xF8cjrFzLcBImabOQPvhgSTDFx7EJ0FNDcvxPs_tpx7jQiVmIAriQ7rVcFxqptk4LzAcDsOV5Pw2RZZejCMYu0WZqWOwPOL_d5_31Zoa6qQBtUsyJmU7iyOmkHRr3Tmomp9SFYD",
+                        "width": 3968
+                    }
+                ],
+                "place_id": "ChIJ_VHovWFdA2kREust6ipkvSE",
+                "reference": "ChIJ_VHovWFdA2kREust6ipkvSE",
+                "scope": "GOOGLE",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "vicinity": "Pelagai"
+            }
+        ],
+        "status": "OK"
     }
 }
