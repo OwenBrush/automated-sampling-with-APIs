@@ -73,5 +73,55 @@
             "20.2619955",
             "30.0454257"
         ]
+    },
+    "45.68893, 131.70528": {
+        "place_id": 282350180,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 270056,
+        "lat": "35.000074",
+        "lon": "104.999927",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8788265963780304,
+        "addresstype": "country",
+        "name": "China",
+        "display_name": "China",
+        "address": {
+            "country": "China",
+            "country_code": "cn"
+        },
+        "boundingbox": [
+            "8.6537474",
+            "53.5608154",
+            "73.4997347",
+            "134.7754563"
+        ]
+    },
+    "2.73333, 10.1": {
+        "place_id": 282376442,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192830,
+        "lat": "4.6125522",
+        "lon": "13.1535811",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.7192668052570288,
+        "addresstype": "country",
+        "name": "Cameroon",
+        "display_name": "Cameroon",
+        "address": {
+            "country": "Cameroon",
+            "country_code": "cm"
+        },
+        "boundingbox": [
+            "1.6517489",
+            "13.083333",
+            "8.3822176",
+            "16.1911011"
+        ]
     }
 }

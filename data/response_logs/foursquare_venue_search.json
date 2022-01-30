@@ -2267,5 +2267,107 @@
             ],
             "confident": false
         }
+    },
+    "45.68893, 131.70528": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f5dd265dfd052035c318c2"
+        },
+        "response": {
+            "venues": []
+        }
+    },
+    "2.73333, 10.1": {
+        "meta": {
+            "code": 200,
+            "requestId": "61f5dd6a1e7fe3270d063e2b"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "545348e1498ee2f00ed58541",
+                    "name": "HEVECAM SA",
+                    "location": {
+                        "address": "NIETE Plantation",
+                        "lat": 2.71951,
+                        "lng": 10.0656,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 2.71951,
+                                "lng": 10.0656
+                            }
+                        ],
+                        "distance": 4122,
+                        "postalCode": "P.O.@174",
+                        "cc": "CM",
+                        "city": "Kribi",
+                        "state": "South",
+                        "country": "Cameroon",
+                        "formattedAddress": [
+                            "NIETE Plantation",
+                            "Kribi P.O.@174",
+                            "Cameroon"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d124941735",
+                            "name": "Office",
+                            "pluralName": "Offices",
+                            "shortName": "Office",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643502954",
+                    "hasPerk": false
+                },
+                {
+                    "id": "506c20e0e4b0360a5b3a9142",
+                    "name": "Plantation de la Nye'ete",
+                    "location": {
+                        "lat": 2.7177669493948002,
+                        "lng": 10.062178411607412,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 2.7177669493948002,
+                                "lng": 10.062178411607412
+                            }
+                        ],
+                        "distance": 4548,
+                        "postalCode": "174",
+                        "cc": "CM",
+                        "city": "Kribi",
+                        "state": "South",
+                        "country": "Cameroon",
+                        "formattedAddress": [
+                            "Kribi 174",
+                            "Cameroon"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d15b941735",
+                            "name": "Farm",
+                            "pluralName": "Farms",
+                            "shortName": "Farm",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/farm_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1643502954",
+                    "hasPerk": false
+                }
+            ],
+            "confident": false
+        }
     }
 }

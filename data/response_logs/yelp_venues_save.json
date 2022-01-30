@@ -111,5 +111,25 @@
                 "latitude": 47.733333
             }
         }
+    },
+    "45.68893, 131.70528": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 131.70528,
+                "latitude": 45.68893
+            }
+        }
+    },
+    "2.73333, 10.1": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 10.1,
+                "latitude": 2.73333
+            }
+        }
     }
 }

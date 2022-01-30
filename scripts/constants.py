@@ -4,6 +4,7 @@ import os
 SAVE_DIR = './data/'
 LOG_DIR = SAVE_DIR+'response_logs/'
 
+RESULTS = 'results.csv'
 GEO_LOCATIONS = 'geo_locations.json'
 COUNTRIES = 'countries.json'
 FOUR_SQUARE = 'foursquare_venue_search.json'

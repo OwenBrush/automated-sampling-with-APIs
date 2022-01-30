@@ -449,5 +449,159 @@
             "inlongt": "24.36667"
         },
         "adminareas": {}
+    },
+    "45.68893, 131.70528": {
+        "threegeonames": "TAIHECUN-WINGUARD-GAUNTLET",
+        "geonumber": "8036430092568",
+        "nearest": {
+            "inlatt": "45.68893",
+            "distance": "0.000",
+            "timezone": "Asia/Shanghai",
+            "elevation": "149",
+            "region": {},
+            "name": "Wudaogang",
+            "state": "CN",
+            "latt": "45.68893",
+            "longt": "131.70528",
+            "city": "Wudaogang",
+            "prov": "Heilongjiang",
+            "inlongt": "131.70528",
+            "altgeocode": "WUDAOGANGCN-VTSCU"
+        },
+        "osmtags": {
+            "wikidata": "Q203738",
+            "wikipedia": "zh:\u5bc6\u5c71\u5e02",
+            "name_zh_pinyin": "M\u00ecsh\u0101n Sh\u00ec",
+            "name": "\u5bc6\u5c71\u5e02",
+            "name_zh": "\u5bc6\u5c71\u5e02",
+            "place": "county",
+            "is_in_country_code": "CN",
+            "state": "CN",
+            "name_ru": "\u041c\u0438\u0448\u0430\u043d\u044c",
+            "admin_level": "6",
+            "boundary": "administrative",
+            "id": "221211",
+            "type": "boundary",
+            "name_en": "Mishan City"
+        },
+        "geocode": "PEIDE-VTSCU",
+        "major": {
+            "inlatt": "45.68893",
+            "distance": "16.874",
+            "timezone": "Asia/Shanghai",
+            "elevation": "116",
+            "region": {},
+            "name": "Peide",
+            "state": "CN",
+            "latt": "45.63778",
+            "longt": "131.90972",
+            "city": "Peide",
+            "prov": "Heilongjiang",
+            "inlongt": "131.70528"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "zh:\u5bc6\u5c71\u5e02",
+                "wikidata": "Q203738",
+                "name_zh_pinyin": "M\u00ecsh\u0101n Sh\u00ec",
+                "osmid": "221211",
+                "place": "county",
+                "name": "\u5bc6\u5c71\u5e02",
+                "name_zh": "\u5bc6\u5c71\u5e02",
+                "is_in_country_code": "CN",
+                "name_ru": "\u041c\u0438\u0448\u0430\u043d\u044c",
+                "admin_level": "6",
+                "level": "6",
+                "boundary": "administrative",
+                "type": "boundary",
+                "name_en": "Mishan City"
+            },
+            "admin5": {
+                "wikipedia": "zh:\u9e21\u897f\u5e02",
+                "name_de": "Jixi",
+                "name_ja": "\u9d8f\u897f\u5e02",
+                "osmid": "210232",
+                "name_zh": "\u9e21\u897f\u5e02",
+                "is_in_country_code": "CN",
+                "name_ru": "\u0426\u0437\u0438\u0441\u0438",
+                "boundary": "administrative",
+                "int_name": "Jixi",
+                "name_en": "Jixi",
+                "wikidata": "Q28979",
+                "name_zh_pinyin": "J\u012bx\u012b Sh\u00ec",
+                "name": "\u9e21\u897f\u5e02",
+                "admin_level": "5",
+                "level": "5",
+                "type": "boundary"
+            }
+        }
+    },
+    "2.73333, 10.1": {
+        "threegeonames": "BINENG-REIMAGINED-QADEER",
+        "geonumber": "3328742051195",
+        "nearest": {
+            "inlatt": "2.73333",
+            "distance": "0.000",
+            "timezone": "Africa/Douala",
+            "elevation": "61",
+            "region": {},
+            "name": "Andjek",
+            "state": "CM",
+            "latt": "2.73333",
+            "longt": "10.1",
+            "city": "Andjek",
+            "prov": "South",
+            "inlongt": "10.1",
+            "altgeocode": "ANDJEK-RZZYP"
+        },
+        "osmtags": {
+            "source": "Institut National de Cartographie",
+            "name": "Ni\u00e9t\u00e9",
+            "state": "CM",
+            "admin_level": "8",
+            "ref_COG": "SU0309",
+            "boundary": "administrative",
+            "type": "boundary",
+            "id": "82134"
+        },
+        "geocode": "OBENG-RZZYP",
+        "major": {
+            "inlatt": "2.73333",
+            "distance": "9.450",
+            "timezone": "Africa/Douala",
+            "elevation": "99",
+            "region": {},
+            "name": "Obeng",
+            "state": "CM",
+            "latt": "2.81667",
+            "longt": "10.08333",
+            "city": "Nkontangan",
+            "prov": "South",
+            "inlongt": "10.1"
+        },
+        "adminareas": {
+            "admin6": {
+                "wikipedia": "fr:Oc\u00e9an (d\u00e9partement)",
+                "wikidata": "Q2445229",
+                "source": "Institut National de Cartographie",
+                "osmid": "82119",
+                "name": "Oc\u00e9an",
+                "ref_COG": "SU03",
+                "admin_level": "6",
+                "level": "6",
+                "boundary": "administrative",
+                "type": "boundary"
+            },
+            "admin8": {
+                "source": "Institut National de Cartographie",
+                "osmid": "82134",
+                "name": "Ni\u00e9t\u00e9",
+                "ref_COG": "SU0309",
+                "admin_level": "8",
+                "level": "8",
+                "boundary": "administrative",
+                "type": "boundary"
+            }
+        }
     }
 }
