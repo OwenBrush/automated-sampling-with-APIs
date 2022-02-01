@@ -426,5 +426,180 @@
             "140.8416553",
             "159.6934961"
         ]
+    },
+    "-44.48767, -65.31431": {
+        "place_id": 282462741,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 286393,
+        "lat": "-34.9964963",
+        "lon": "-64.9672817",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8101041945616906,
+        "addresstype": "country",
+        "name": "Argentina",
+        "display_name": "Argentina",
+        "address": {
+            "country": "Argentina",
+            "country_code": "ar"
+        },
+        "boundingbox": [
+            "-55.1850761",
+            "-21.7808568",
+            "-73.5605371",
+            "-53.6374515"
+        ]
+    },
+    "17.55, 32.95": {
+        "place_id": 282322313,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192789,
+        "lat": "14.5844444",
+        "lon": "29.4917691",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.6964067229299375,
+        "addresstype": "country",
+        "name": "Sudan",
+        "display_name": "Sudan",
+        "address": {
+            "country": "Sudan",
+            "country_code": "sd"
+        },
+        "boundingbox": [
+            "8.685278",
+            "22.224918",
+            "21.8145046",
+            "39.0576252"
+        ]
+    },
+    "-22.2, 131.06667": {
+        "place_id": 282479205,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 80500,
+        "lat": "-24.7761086",
+        "lon": "134.755",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8521350639151115,
+        "addresstype": "country",
+        "name": "Australia",
+        "display_name": "Australia",
+        "address": {
+            "country": "Australia",
+            "country_code": "au"
+        },
+        "boundingbox": [
+            "-55.3228175",
+            "-9.0880125",
+            "72.2461932",
+            "168.2261259"
+        ]
+    },
+    "52.03982, 0.72503": {
+        "place_id": 282351846,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 62149,
+        "lat": "54.7023545",
+        "lon": "-3.2765753",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8723780132837334,
+        "addresstype": "country",
+        "name": "United Kingdom",
+        "display_name": "United Kingdom",
+        "address": {
+            "country": "United Kingdom",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "49.674",
+            "61.061",
+            "-14.015517",
+            "2.0919117"
+        ]
+    },
+    "54.07687, 13.80932": {
+        "place_id": 282224150,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 51477,
+        "lat": "51.0834196",
+        "lon": "10.4234469",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8896814891722549,
+        "addresstype": "country",
+        "name": "Germany",
+        "display_name": "Germany",
+        "address": {
+            "country": "Germany",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.2701114",
+            "55.099161",
+            "5.8663153",
+            "15.0419309"
+        ]
+    },
+    "8.58583, 45.02694": {
+        "place_id": 282860103,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192800,
+        "lat": "10.2116702",
+        "lon": "38.6521203",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.7193136541892808,
+        "addresstype": "country",
+        "name": "Ethiopia",
+        "display_name": "Ethiopia",
+        "address": {
+            "country": "Ethiopia",
+            "country_code": "et"
+        },
+        "boundingbox": [
+            "3.397448",
+            "14.8943383",
+            "32.9975838",
+            "47.9823797"
+        ]
+    },
+    "65.82569, 14.08287": {
+        "place_id": 282899436,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2978650,
+        "lat": "60.5000209",
+        "lon": "9.0999715",
+        "place_rank": 4,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.8146965219784713,
+        "addresstype": "country",
+        "name": "Norway",
+        "display_name": "Norway",
+        "address": {
+            "country": "Norway",
+            "country_code": "no"
+        },
+        "boundingbox": [
+            "-54.654",
+            "81.0280176",
+            "-9.6846279",
+            "34.6889114"
+        ]
     }
 }

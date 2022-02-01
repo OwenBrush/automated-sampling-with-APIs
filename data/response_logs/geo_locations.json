@@ -1381,5 +1381,208 @@
             "inlongt": "148.00914"
         },
         "adminareas": {}
+    },
+    "54.07687, 13.80932": {
+        "threegeonames": "STRALSUND-STELAE-KNYSNA",
+        "geonumber": "3059001943384",
+        "nearest": {
+            "inlatt": "54.07687",
+            "distance": "0.000",
+            "timezone": "Europe/Berlin",
+            "elevation": "3",
+            "region": {},
+            "name": "Zecherin",
+            "state": "DE",
+            "latt": "54.07687",
+            "longt": "13.80932",
+            "city": "Wolgast",
+            "prov": "Mecklenburg-Vorpommern",
+            "inlongt": "13.80932",
+            "altgeocode": "ZECHERIN-YBRVK"
+        },
+        "osmtags": {
+            "wikidata": "Q637118",
+            "wikipedia": "de:M\u00f6lschow",
+            "de_regionalschluessel": "130755561092",
+            "name": "M\u00f6lschow",
+            "de_amtlicher_gemeindeschluessel": "13075092",
+            "state": "DE",
+            "admin_level": "8",
+            "boundary": "administrative",
+            "id": "459641",
+            "type": "boundary"
+        },
+        "geocode": "ANKLAM-YBRVK",
+        "major": {
+            "inlatt": "54.07687",
+            "distance": "25.736",
+            "timezone": "Europe/Berlin",
+            "elevation": "8",
+            "region": {},
+            "name": "Anklam",
+            "state": "DE",
+            "latt": "53.85637",
+            "longt": "13.68965",
+            "city": "Anklam",
+            "prov": "Mecklenburg-Vorpommern",
+            "inlongt": "13.80932"
+        },
+        "adminareas": {
+            "admin7": {
+                "wikipedia": "de:Amt Usedom-Nord",
+                "wikidata": "Q459289",
+                "name_prefix": "Amt",
+                "de_regionalschluessel": "130755561",
+                "osmid": "459643",
+                "name": "Usedom-Nord",
+                "admin_level": "7",
+                "level": "7",
+                "boundary": "administrative",
+                "type": "boundary"
+            },
+            "admin6": {
+                "wikipedia": "de:Landkreis Vorpommern-Greifswald",
+                "name_de": "Vorpommern-Greifswald",
+                "de_regionalschluessel": "13075",
+                "osmid": "425364",
+                "TMC_cid_58_tabcd_1_LocationCode": "14291",
+                "TMC_cid_58_tabcd_1_LCLversion": "12.0",
+                "boundary": "administrative",
+                "license_plate_code": "VG, HGW",
+                "wikidata": "Q2917",
+                "TMC_cid_58_tabcd_1_Class": "Area",
+                "name_prefix": "Landkreis",
+                "name": "Vorpommern-Greifswald",
+                "official_name": "Landkreis Vorpommern-Greifswald",
+                "de_amtlicher_gemeindeschluessel": "13075",
+                "admin_level": "6",
+                "level": "6",
+                "de_place": "county",
+                "type": "boundary",
+                "border_type": "county"
+            },
+            "admin8": {
+                "wikipedia": "de:M\u00f6lschow",
+                "wikidata": "Q637118",
+                "de_regionalschluessel": "130755561092",
+                "osmid": "459641",
+                "name": "M\u00f6lschow",
+                "de_amtlicher_gemeindeschluessel": "13075092",
+                "admin_level": "8",
+                "level": "8",
+                "boundary": "administrative",
+                "type": "boundary"
+            }
+        }
+    },
+    "8.58583, 45.02694": {
+        "threegeonames": "CIMRAAN-NEYAGAWA-FASC",
+        "geonumber": "4780661189725",
+        "nearest": {
+            "inlatt": "8.58583",
+            "distance": "0.000",
+            "timezone": "Africa/Addis_Ababa",
+            "elevation": "982",
+            "region": {},
+            "state": "ET",
+            "latt": "8.58583",
+            "longt": "45.02694",
+            "city": "Naskul",
+            "prov": "Somali",
+            "inlongt": "45.02694",
+            "altgeocode": "NASKUL-YUYMF"
+        },
+        "osmtags": {
+            "boundary": "administrative",
+            "name": "Dege Habur",
+            "id": "500262",
+            "type": "boundary",
+            "border": "ET,",
+            "state": "ET",
+            "admin_level": "5"
+        },
+        "geocode": "HAGDLE-YUYMF",
+        "major": {
+            "inlatt": "8.58583",
+            "distance": "37.536",
+            "timezone": "Africa/Addis_Ababa",
+            "elevation": "972",
+            "region": {},
+            "state": "ET",
+            "latt": "8.35778",
+            "longt": "44.77528",
+            "city": "Hagardejedle",
+            "prov": "Somali",
+            "inlongt": "45.02694"
+        },
+        "adminareas": {
+            "admin5": {
+                "level": "5",
+                "boundary": "administrative",
+                "osmid": "500262",
+                "name": "Dege Habur",
+                "type": "boundary",
+                "admin_level": "5"
+            }
+        }
+    },
+    "65.82569, 14.08287": {
+        "threegeonames": "KORGEN-RYOJI-PACISTAN",
+        "geonumber": "3086473282386",
+        "nearest": {
+            "inlatt": "65.82569",
+            "distance": "0.000",
+            "timezone": "Europe/Oslo",
+            "elevation": "540",
+            "region": "Hemnes",
+            "state": "NO",
+            "latt": "65.82569",
+            "longt": "14.08287",
+            "city": "Tomyra",
+            "prov": "Nordland",
+            "inlongt": "14.08287",
+            "altgeocode": "TOMYRA-BOPHA"
+        },
+        "osmtags": {
+            "wikidata": "Q488384",
+            "ref": "1826",
+            "name": "Hattfjelldal",
+            "place": "municipality",
+            "border": "SE,NO,",
+            "state": "NO",
+            "admin_level": "7",
+            "boundary": "administrative",
+            "name_sma": "Aarborte",
+            "id": "499294",
+            "type": "boundary"
+        },
+        "geocode": "VARNTRESK-BOPHA",
+        "major": {
+            "inlatt": "65.82569",
+            "distance": "5.400",
+            "timezone": "Europe/Oslo",
+            "elevation": "420",
+            "region": "Hattfjelldal",
+            "state": "NO",
+            "latt": "65.83333",
+            "longt": "14.2",
+            "city": "Varntr\u00e6sken",
+            "prov": "Nordland",
+            "inlongt": "14.08287"
+        },
+        "adminareas": {
+            "admin7": {
+                "wikidata": "Q488384",
+                "ref": "1826",
+                "osmid": "499294",
+                "place": "municipality",
+                "name": "Hattfjelldal",
+                "admin_level": "7",
+                "level": "7",
+                "boundary": "administrative",
+                "name_sma": "Aarborte",
+                "type": "boundary"
+            }
+        }
     }
 }

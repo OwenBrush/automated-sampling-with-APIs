@@ -2,9 +2,11 @@ from urllib import response
 import requests
 import time
 import json
+import pandas as pd
+import numpy as np
 
 from scripts.constants import *
-from scripts.file_handler import *
+from scripts import file_handler
 from scripts import dataframe_builder
 
 
@@ -26,6 +28,20 @@ def collect_random_samples(number:int):
             break
         time.sleep(DELAY_BETWEEN_CALLS)
         
+def request_missing_information():
+    df = pd.read_csv(SAVE_DIR+RESULTS, index_col=0)
+    for geo_location in df[df.isna().any(axis=1)].index:
+        sample = df.loc[geo_location]
+        nan_values = sample[sample.isna()].index
+        if 'country' in nan_values:
+            request_country_from_nominatim(geo_location)
+        if 'yelp' in nan_values:
+            request_yelp_venues(geo_location)     
+        if 'four_square' in nan_values:
+            request_foursquare_venues(geo_location)     
+        if 'google' in nan_values:
+            requset_places_from_google(geo_location)    
+ 
         
 def handle_response(geo_location:str, response:response, log_file:str):
     """saves API response to file, if response failed saves as a False boolean
@@ -37,7 +53,7 @@ def handle_response(geo_location:str, response:response, log_file:str):
         print(f"{log_file} Request Failed: {response.status_code}")
         print(response.text)
     
-    save_response_to_file(  key= geo_location,
+    file_handler.save_response_to_file(  key= geo_location,
                             response= data,
                             file= log_file)
     return data
@@ -51,11 +67,11 @@ def request_random_geo_location():
         jres = json.loads(response.text)
         if 'nearest' in jres.keys():
             geo_location = jres['nearest']['latt']+", "+jres['nearest']['longt']
-            if key_exists(geo_location,LOG_DIR+GEO_LOCATIONS):
+            if file_handler.key_exists(geo_location,LOG_DIR+GEO_LOCATIONS):
                 print('geo location already exists')
                 return False
             
-            save_response_to_file(key= geo_location,
+            file_handler.save_response_to_file(key= geo_location,
                                   response= jres,
                                   file= LOG_DIR+GEO_LOCATIONS)
             return geo_location       
@@ -68,9 +84,9 @@ def request_random_geo_location():
 
 
 def request_foursquare_venues(geo_location:str): 
-    if key_exists(geo_location, LOG_DIR+FOUR_SQUARE):
-        print('four square response for geo location already exists')
-        return
+    # if file_handler.key_exists(geo_location, LOG_DIR+FOUR_SQUARE):
+    #     print('four square response for geo location already exists')
+    #     return
     
     response = requests.get(f'{FS_SEARCH_URL}ll={geo_location}&client_id={FS_ID}&client_secret={FS_PASS}&v=20201010')
     
@@ -78,9 +94,9 @@ def request_foursquare_venues(geo_location:str):
 
 
 def request_yelp_venues(geo_location:str):
-    if key_exists(geo_location, LOG_DIR+YELP):
-        print('four square response for geo location already exists')
-        return
+    # if file_handler.key_exists(geo_location, LOG_DIR+YELP):
+    #     print('yelp response for geo location already exists')
+    #     return
     
     cordinates=geo_location.split(', ')
     headers = {'Authorization': 'Bearer {}'.format(YELP_PASS)}
@@ -92,9 +108,9 @@ def request_yelp_venues(geo_location:str):
 
 
 def request_country_from_nominatim(geo_location:str):
-    if key_exists(geo_location, LOG_DIR+COUNTRIES):
-        print('nominatim response for geo location already exists')
-        return
+    # if file_handler.key_exists(geo_location, LOG_DIR+COUNTRIES):
+    #     print('nominatim response for geo location already exists')
+    #     return
     
     cordinates=geo_location.split(', ')
     
@@ -103,9 +119,9 @@ def request_country_from_nominatim(geo_location:str):
     return handle_response(geo_location, response, LOG_DIR+COUNTRIES)
         
 def requset_places_from_google(geo_location:str):
-    if key_exists(geo_location, LOG_DIR+GOOGLE):
-        print('nominatim response for geo location already exists')
-        return
+    # if file_handler.key_exists(geo_location, LOG_DIR+GOOGLE):
+    #     print('google response for geo location already exists')
+    #     return
     
     response = requests.get(f'{GOOGLE_PLACE_URL}location={geo_location}&radius=5000&key={GOOGLE_KEY}')
 

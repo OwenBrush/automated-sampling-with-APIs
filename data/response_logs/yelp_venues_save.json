@@ -300,5 +300,1672 @@
                 "latitude": -10.14447
             }
         }
+    },
+    "-44.48767, -65.31431": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -65.31431,
+                "latitude": -44.48767
+            }
+        }
+    },
+    "17.55, 32.95": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 32.95,
+                "latitude": 17.55
+            }
+        }
+    },
+    "-22.2, 131.06667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 131.06667,
+                "latitude": -22.2
+            }
+        }
+    },
+    "52.03982, 0.72503": {
+        "businesses": [
+            {
+                "id": "ncHyHPvzgBeUzhbdi32QRw",
+                "alias": "the-codfather-sudbury",
+                "name": "The Codfather",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZEPwUyyRgJT_AEWar52UlA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/the-codfather-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 4,
+                "categories": [
+                    {
+                        "alias": "fishnchips",
+                        "title": "Fish & Chips"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 52.038387298584,
+                    "longitude": 0.732118010520935
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "37 King St",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2EQ",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "37 King St",
+                        "Sudbury CO10 2EQ",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+44441787882100",
+                "display_phone": "+44 441787882100",
+                "distance": 510.3132936041716
+            },
+            {
+                "id": "bPKf1uJwH2WSxRi6vmwiVg",
+                "alias": "davids-deli-cafe-sudbury",
+                "name": "David's Deli cafe",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p0TpGsCVaK3f35euGQwXKg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/davids-deli-cafe-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "coffee",
+                        "title": "Coffee & Tea"
+                    },
+                    {
+                        "alias": "delicatessen",
+                        "title": "Delicatessen"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 52.038077,
+                    "longitude": 0.729226
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "51 Gainsboriugh Street",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2ET",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "51 Gainsboriugh Street",
+                        "Sudbury CO10 2ET",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 537.4216235671836
+            },
+            {
+                "id": "UYrGu0AeGUYhAH6M1_Q4xQ",
+                "alias": "pizza-town-sudbury",
+                "name": "Pizza Town",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/pizza-town-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 3,
+                "categories": [
+                    {
+                        "alias": "pizza",
+                        "title": "Pizza"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.039576,
+                    "longitude": 0.732015
+                },
+                "transactions": [],
+                "price": "\u00a3\u00a3",
+                "location": {
+                    "address1": "6 Old Market Place",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1SZ",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "6 Old Market Place",
+                        "Sudbury CO10 1SZ",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787377222",
+                "display_phone": "+44 1787 377222",
+                "distance": 481.58646789994225
+            },
+            {
+                "id": "G5L-OQPkmnC0FvhAS-u8_Q",
+                "alias": "waggon-and-horses-sudbury",
+                "name": "Waggon & Horses",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/waggon-and-horses-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "pubs",
+                        "title": "Pubs"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0397650598081,
+                    "longitude": 0.727682692470808
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "The Wagon",
+                    "address2": "Church Walk",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1HJ",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "The Wagon",
+                        "Church Walk",
+                        "Sudbury CO10 1HJ",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787312147",
+                "display_phone": "+44 1787 312147",
+                "distance": 181.54031216534014
+            },
+            {
+                "id": "wkb9h61Vua-k-nPLv4T98Q",
+                "alias": "black-boy-sudbury",
+                "name": "Black Boy",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/black-boy-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "pubs",
+                        "title": "Pubs"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0386005,
+                    "longitude": 0.7302343
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "7 Market Hill",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2EA",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "7 Market Hill",
+                        "Sudbury CO10 2EA",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787379046",
+                "display_phone": "+44 1787 379046",
+                "distance": 369.9064340869566
+            },
+            {
+                "id": "gt2P0CApK2WWnhXVIoo68w",
+                "alias": "the-riverside-bar-and-restaurant-sudbury",
+                "name": "The Riverside Bar and Restaurant",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pyZZ28OPLZBr0ayejtKprQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/the-riverside-bar-and-restaurant-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "mediterranean",
+                        "title": "Mediterranean"
+                    },
+                    {
+                        "alias": "bars",
+                        "title": "Bars"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0354773,
+                    "longitude": 0.7215022
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "43 Cross Street",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2DL",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "43 Cross Street",
+                        "Sudbury CO10 2DL",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787376444",
+                "display_phone": "+44 1787 376444",
+                "distance": 539.9455735084877
+            },
+            {
+                "id": "LGbsu5GDSJQsyizjsmq-qg",
+                "alias": "starburger-sudbury",
+                "name": "Starburger",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/starburger-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "tradamerican",
+                        "title": "American (Traditional)"
+                    }
+                ],
+                "rating": 2.5,
+                "coordinates": {
+                    "latitude": 52.040322,
+                    "longitude": 0.730879
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "82 North Street",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1RF",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "82 North Street",
+                        "Sudbury CO10 1RF",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787379004",
+                "display_phone": "+44 1787 379004",
+                "distance": 384.267723050127
+            },
+            {
+                "id": "S2BynuisM_5LreoPnkQ-kw",
+                "alias": "caffe-nero-group-sudbury",
+                "name": "Caffe Nero Group",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/caffe-nero-group-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "coffee",
+                        "title": "Coffee & Tea"
+                    }
+                ],
+                "rating": 3.0,
+                "coordinates": {
+                    "latitude": 52.0396233,
+                    "longitude": 0.731512
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "92 North Street",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1RF",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "92 North Street",
+                        "Sudbury CO10 1RF",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787377760",
+                "display_phone": "+44 1787 377760",
+                "distance": 426.54506806008345
+            },
+            {
+                "id": "C9wpUSwEr_boNr-tdnSKzg",
+                "alias": "five-bells-sudbury",
+                "name": "Five Bells",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/five-bells-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "pubs",
+                        "title": "Pubs"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0290327,
+                    "longitude": 0.7438983
+                },
+                "transactions": [],
+                "price": "\u00a3\u00a3",
+                "location": {
+                    "address1": "63 Bures Road",
+                    "address2": "",
+                    "address3": "Great Cornard",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 0HU",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "63 Bures Road",
+                        "Great Cornard",
+                        "Sudbury CO10 0HU",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787379016",
+                "display_phone": "+44 1787 379016",
+                "distance": 1748.737513182258
+            },
+            {
+                "id": "YiVcGKbimDIIFT5HmOZ_4g",
+                "alias": "the-bull-inn-sudbury",
+                "name": "The Bull Inn",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/the-bull-inn-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "pubs",
+                        "title": "Pubs"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 52.0359992980957,
+                    "longitude": 0.71408998966217
+                },
+                "transactions": [],
+                "location": {
+                    "address1": null,
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "Sudbury CO10",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 178.20047172550713
+            },
+            {
+                "id": "x0UFh6e6-JiNjOspSqSboA",
+                "alias": "uk-best-kebabs-sudbury",
+                "name": "UK Best Kebabs",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/uk-best-kebabs-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "hotdogs",
+                        "title": "Fast Food"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 52.0393734,
+                    "longitude": 0.7302213
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "13 Gaol Lane",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1JL",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "13 Gaol Lane",
+                        "Sudbury CO10 1JL",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787371805",
+                "display_phone": "+44 1787 371805",
+                "distance": 358.5292315153147
+            },
+            {
+                "id": "QGYD1ZcwClMx-Owu9zP2sQ",
+                "alias": "cafe-jaqui-sudbury",
+                "name": "Cafe Jaqui",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/cafe-jaqui-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0413198,
+                    "longitude": 0.729321
+                },
+                "transactions": [],
+                "price": "\u00a3",
+                "location": {
+                    "address1": "52a North Street",
+                    "address2": "",
+                    "address3": "Suffolk",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1RD",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "52a North Street",
+                        "Suffolk",
+                        "Sudbury CO10 1RD",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787828171",
+                "display_phone": "+44 1787 828171",
+                "distance": 337.56143760185654
+            },
+            {
+                "id": "KRJSYycTMCn-s8atdZZqcQ",
+                "alias": "dannys-sudbury",
+                "name": "Dannys",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/dannys-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "pubs",
+                        "title": "Pubs"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0380662,
+                    "longitude": 0.7292394
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "51-52 Gainsborough Street",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2ET",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "51-52 Gainsborough Street",
+                        "Sudbury CO10 2ET",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787375752",
+                "display_phone": "+44 1787 375752",
+                "distance": 347.74549580682753
+            },
+            {
+                "id": "RQq1bZtenq9fwO5PW634aw",
+                "alias": "bar-excess-sudbury",
+                "name": "Bar Excess",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/bar-excess-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "coffee",
+                        "title": "Coffee & Tea"
+                    },
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.0403121,
+                    "longitude": 0.730893
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "71 North Street",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1RF",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "71 North Street",
+                        "Sudbury CO10 1RF",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 404.7280453913983
+            },
+            {
+                "id": "o6y-idgaxULSwE3MnhJZBQ",
+                "alias": "micks-fish-and-chips-sudbury",
+                "name": "Mick's Fish&chips",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FFu4YzIn6u5XhJqbf6KXHA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/micks-fish-and-chips-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "seafood",
+                        "title": "Seafood"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 52.044843,
+                    "longitude": 0.741846
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "1 Landsdown Road",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2QF",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "1 Landsdown Road",
+                        "Sudbury CO10 2QF",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787319992",
+                "display_phone": "+44 1787 319992",
+                "distance": 1273.789199923273
+            },
+            {
+                "id": "vGySbFYnvTkyZOdQztkE9Q",
+                "alias": "asparagus-bar-and-grill-sudbury",
+                "name": "Asparagus Bar & Grill",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Py3Mpi8L-Ww_o3KGc6g6pg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/asparagus-bar-and-grill-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "turkish",
+                        "title": "Turkish"
+                    },
+                    {
+                        "alias": "mediterranean",
+                        "title": "Mediterranean"
+                    }
+                ],
+                "rating": 2.5,
+                "coordinates": {
+                    "latitude": 52.038313,
+                    "longitude": 0.7292705
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "54-55 Gainsborough Street",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2ET",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "54-55 Gainsborough Street",
+                        "Sudbury CO10 2ET",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787466781",
+                "display_phone": "+44 1787 466781",
+                "distance": 338.1911180095114
+            },
+            {
+                "id": "yRXepVgcscGDZn44zhBVXQ",
+                "alias": "hitchcocks-sudbury",
+                "name": "Hitchcock's",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/hitchcocks-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "italian",
+                        "title": "Italian"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 52.036878,
+                    "longitude": 0.7316168
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "10 Station Road",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2SS",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "10 Station Road",
+                        "Sudbury CO10 2SS",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787377037",
+                "display_phone": "+44 1787 377037",
+                "distance": 556.7757727920219
+            },
+            {
+                "id": "6yQTmNrqOdaD-_7ALKKu4A",
+                "alias": "the-boat-house-sudbury-sudbury",
+                "name": "The Boat House Sudbury",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/the-boat-house-sudbury-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "bars",
+                        "title": "Bars"
+                    },
+                    {
+                        "alias": "british",
+                        "title": "British"
+                    }
+                ],
+                "rating": 3.0,
+                "coordinates": {
+                    "latitude": 52.0354201214865,
+                    "longitude": 0.721555659691489
+                },
+                "transactions": [],
+                "price": "\u00a3\u00a3\u00a3",
+                "location": {
+                    "address1": "Cross Street",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2DP",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "Cross Street",
+                        "Sudbury CO10 2DP",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787371469",
+                "display_phone": "+44 1787 371469",
+                "distance": 543.9078501887282
+            },
+            {
+                "id": "WOaIxf_HSSdz-sTAUrHS1Q",
+                "alias": "chickengeorge-sudbury",
+                "name": "Chickengeorge",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/chickengeorge-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "hotdogs",
+                        "title": "Fast Food"
+                    }
+                ],
+                "rating": 2.5,
+                "coordinates": {
+                    "latitude": 52.0384987,
+                    "longitude": 0.7329811
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "10 King Street",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 2EB",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "10 King Street",
+                        "Sudbury CO10 2EB",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "+441787375255",
+                "display_phone": "+44 1787 375255",
+                "distance": 563.3392727280421
+            },
+            {
+                "id": "GMmyi1bsMGd802r8rBwCEA",
+                "alias": "north-street-tavern-sudbury",
+                "name": "North Street Tavern",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/north-street-tavern-sudbury?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "pubs",
+                        "title": "Pubs"
+                    }
+                ],
+                "rating": 2.0,
+                "coordinates": {
+                    "latitude": 52.0409857321503,
+                    "longitude": 0.730099974102814
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "66 North Street",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Sudbury",
+                    "zip_code": "CO10 1RE",
+                    "country": "GB",
+                    "state": "SFK",
+                    "display_address": [
+                        "66 North Street",
+                        "Sudbury CO10 1RE",
+                        "United Kingdom"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 370.2036959888197
+            }
+        ],
+        "total": 24,
+        "region": {
+            "center": {
+                "longitude": 0.72503,
+                "latitude": 52.03982
+            }
+        }
+    },
+    "54.07687, 13.80932": {
+        "businesses": [
+            {
+                "id": "DjS6ywp9hGtr_6mwf7qg1Q",
+                "alias": "der-speicher-wolgast",
+                "name": "Der Speicher",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ufaujKkdr1BQDp6XSYgqyQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/der-speicher-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 20,
+                "categories": [
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0546929151623,
+                    "longitude": 13.7807068697287
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac\u20ac",
+                "location": {
+                    "address1": "Hafenstr. 4",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Hafenstr. 4",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836231891",
+                "display_phone": "+49 3836 231891",
+                "distance": 3093.1092839348507
+            },
+            {
+                "id": "4o8AMu_oeFo125GmtF34GA",
+                "alias": "naschkatze-krummin-2",
+                "name": "Naschkatze",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EHO-2SgdqXY-VFSfsn6bQg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/naschkatze-krummin-2?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 12,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    },
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    },
+                    {
+                        "alias": "beergarden",
+                        "title": "Beer Garden"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.047972550089,
+                    "longitude": 13.8477117195725
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Dorfstr. 25",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Krummin",
+                    "zip_code": "17440",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Dorfstr. 25",
+                        "17440 Krummin",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836602213",
+                "display_phone": "+49 3836 602213",
+                "distance": 4074.5941696296977
+            },
+            {
+                "id": "f6L70WDfE3PO9OSF9R8Fbw",
+                "alias": "peenebr\u00fccke-wolgast-blaues-wunder-wolgast",
+                "name": "Peenebr\u00fccke Wolgast \"Blaues Wunder\"",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FF1CrjTRuog5DPIudYznfQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/peenebr%C3%BCcke-wolgast-blaues-wunder-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 8,
+                "categories": [
+                    {
+                        "alias": "landmarks",
+                        "title": "Landmarks & Historical Buildings"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0549,
+                    "longitude": 13.7866
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Stra\u00dfe der Freundschaft",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Stra\u00dfe der Freundschaft",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 2857.6387896002743
+            },
+            {
+                "id": "HKdslcwCG-0ulWjCvrk4Fg",
+                "alias": "gasthaus-am-fischmarkt-wolgast",
+                "name": "Gasthaus Am Fischmarkt",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YjGEWTmIN3gEc1wxsK6S4A/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/gasthaus-am-fischmarkt-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 10,
+                "categories": [
+                    {
+                        "alias": "seafood",
+                        "title": "Seafood"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0554739,
+                    "longitude": 13.7784886
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Kleinbr\u00fcckenstr. 6",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Kleinbr\u00fcckenstr. 6",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836603842",
+                "display_phone": "+49 3836 603842",
+                "distance": 3115.7669144348606
+            },
+            {
+                "id": "wnWvkrUdfTL-z2m95uesJA",
+                "alias": "imbiss-suppentopf-wolgast",
+                "name": "Imbiss Suppentopf",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qPG9R0qKNvN5DoZnI6uixg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/imbiss-suppentopf-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 8,
+                "categories": [
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0547905,
+                    "longitude": 13.7774
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Schusterstr. 30",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Schusterstr. 30",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 3213.8020339184595
+            },
+            {
+                "id": "de8wCsXdZVR7zSmhNb_0Ag",
+                "alias": "tierpark-tannenkamp-wolgast",
+                "name": "Tierpark Tannenkamp",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nHz5Iqe6OZ2xMapAHKS8DQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/tierpark-tannenkamp-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 7,
+                "categories": [
+                    {
+                        "alias": "zoos",
+                        "title": "Zoos"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 54.071032,
+                    "longitude": 13.772931
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Am Tierpark 1 - 2",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Am Tierpark 1 - 2",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836203713",
+                "display_phone": "+49 3836 203713",
+                "distance": 2461.259432200479
+            },
+            {
+                "id": "lRmRmaeqt2a2YU20O5x6ug",
+                "alias": "fischer-klaus-wolgast",
+                "name": "Fischer Klaus",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AMk60n0hx1RvCk-gLDYfNQ/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/fischer-klaus-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 5,
+                "categories": [
+                    {
+                        "alias": "seafood",
+                        "title": "Seafood"
+                    },
+                    {
+                        "alias": "fischbroetchen",
+                        "title": "Fischbroetchen"
+                    },
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 54.0548,
+                    "longitude": 13.7805
+                },
+                "transactions": [],
+                "price": "\u20ac",
+                "location": {
+                    "address1": "Hafenstr. 5-7",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Hafenstr. 5-7",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836234272",
+                "display_phone": "+49 3836 234272",
+                "distance": 3091.815760779885
+            },
+            {
+                "id": "sBkLi40aKQ8Oi6hAiUHv4A",
+                "alias": "junge-die-b\u00e4ckerei-wolgast",
+                "name": "Junge Die B\u00e4ckerei",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ajoleVJ1FxdFjPRRT9f6SA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/junge-die-b%C3%A4ckerei-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 5,
+                "categories": [
+                    {
+                        "alias": "bakeries",
+                        "title": "Bakeries"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.05444,
+                    "longitude": 13.77693
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Rathausplatz 3",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Rathausplatz 3",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836233578",
+                "display_phone": "+49 3836 233578",
+                "distance": 3269.2656251937087
+            },
+            {
+                "id": "lOXyr-otkqk2S6CrIyt3jg",
+                "alias": "eiscafe-rendezvous-wolgast",
+                "name": "Eiscafe Rendezvous",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1za4JbMhY4_ga5wH8hXhvw/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/eiscafe-rendezvous-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 3,
+                "categories": [
+                    {
+                        "alias": "icecream",
+                        "title": "Ice Cream & Frozen Yogurt"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 54.0550889,
+                    "longitude": 13.7802866
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Hafenstr. 25",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Hafenstr. 25",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+4915730738413",
+                "display_phone": "+49 1573 0738413",
+                "distance": 3074.9363809630468
+            },
+            {
+                "id": "rdRQmpHU44kN_3ICfURWRA",
+                "alias": "cafe-biedenweg-wolgast",
+                "name": "Cafe Biedenweg",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yz-33HhTzaj352iHpghA8w/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/cafe-biedenweg-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 4,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    },
+                    {
+                        "alias": "cakeshop",
+                        "title": "Patisserie/Cake Shop"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0543,
+                    "longitude": 13.7755
+                },
+                "transactions": [],
+                "price": "\u20ac",
+                "location": {
+                    "address1": "Lange Str. 15",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Lange Str. 15",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836202372",
+                "display_phone": "+49 3836 202372",
+                "distance": 3342.010986415375
+            },
+            {
+                "id": "G4OsQqmwtVY0g-XukF3Ktg",
+                "alias": "fischmarkt-3-wolgast",
+                "name": "Fischmarkt 3",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2lN78_J46h8fv-5H3yPpVA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/fischmarkt-3-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 5,
+                "categories": [
+                    {
+                        "alias": "seafood",
+                        "title": "Seafood"
+                    }
+                ],
+                "rating": 3.5,
+                "coordinates": {
+                    "latitude": 54.0560441214013,
+                    "longitude": 13.7782005802174
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Fischmarkt 3",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Fischmarkt 3",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+4938362758300",
+                "display_phone": "+49 3836 2758300",
+                "distance": 3079.9748107345167
+            },
+            {
+                "id": "Pm1ytanjwFotXNs724iYfQ",
+                "alias": "musikcaf\u00e9-wolgast",
+                "name": "Musikcaf\u00e9",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/82qCtGokb-9oW3hu_fkkTw/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/musikcaf%C3%A9-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 5,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    },
+                    {
+                        "alias": "coffee",
+                        "title": "Coffee & Tea"
+                    }
+                ],
+                "rating": 3.5,
+                "coordinates": {
+                    "latitude": 54.0542,
+                    "longitude": 13.7774
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Rathausplatz 9",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Rathausplatz 9",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836209979",
+                "display_phone": "+49 3836 209979",
+                "distance": 3270.030087057703
+            },
+            {
+                "id": "viHyKLjDY98gD0U_Q4bCRg",
+                "alias": "zur-pferdetr\u00e4nke-krummin",
+                "name": "Zur Pferdetr\u00e4nke",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hobvFX0NjDGIwnRuAyS2iw/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/zur-pferdetr%C3%A4nke-krummin?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 4,
+                "categories": [
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0491472936203,
+                    "longitude": 13.8485026359558
+                },
+                "transactions": [],
+                "price": "\u20ac",
+                "location": {
+                    "address1": "Dorfstr. 31",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Krummin",
+                    "zip_code": "17440",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Dorfstr. 31",
+                        "17440 Krummin",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836231023",
+                "display_phone": "+49 3836 231023",
+                "distance": 4005.126686851432
+            },
+            {
+                "id": "jxYPcqQIkaU2DAdY8o0fuA",
+                "alias": "petris-garten-wolgast",
+                "name": "Petri's Garten",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R1XsOGGKi8BKlFA__eNSsg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/petris-garten-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 4.5,
+                "coordinates": {
+                    "latitude": 54.0538,
+                    "longitude": 13.7779
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Burgstr. 9",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Burgstr. 9",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836237735",
+                "display_phone": "+49 3836 237735",
+                "distance": 3283.975263536614
+            },
+            {
+                "id": "uzGGI8o-fV2ktLnNvPZ4qQ",
+                "alias": "landgasthof-banneminer-krug-m\u00f6lschow",
+                "name": "Landgasthof Banneminer Krug",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3ogOCvPyAW2ORkkd6t4Bow/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/landgasthof-banneminer-krug-m%C3%B6lschow?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "bulgarian",
+                        "title": "Bulgarian"
+                    },
+                    {
+                        "alias": "beergarden",
+                        "title": "Beer Garden"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 54.06644,
+                    "longitude": 13.85276
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Zinnowitzer Str. 9",
+                    "address2": "",
+                    "address3": "",
+                    "city": "M\u00f6lschow",
+                    "zip_code": "17449",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Zinnowitzer Str. 9",
+                        "17449 M\u00f6lschow",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493837737755",
+                "display_phone": "+49 38377 37755",
+                "distance": 3054.8982196600477
+            },
+            {
+                "id": "FreBgxoV-ih10v5JxQF5UA",
+                "alias": "da-giani-wolgast",
+                "name": "da Giani",
+                "image_url": "",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/da-giani-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "restaurants",
+                        "title": "Restaurants"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 54.0534,
+                    "longitude": 13.7843
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Hafenstr. 1",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Hafenstr. 1",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 3078.393794809036
+            },
+            {
+                "id": "BKbs3M-j3U-lC1S917bMOA",
+                "alias": "restaurant-wiesenperle-trassenheide",
+                "name": "Restaurant Wiesenperle",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/k1GKJedyq82Sux2CU25j7w/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/restaurant-wiesenperle-trassenheide?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 5,
+                "categories": [
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 3.0,
+                "coordinates": {
+                    "latitude": 54.1002,
+                    "longitude": 13.8508
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Bahnhofstr. 45",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Trassenheide",
+                    "zip_code": "17449",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Bahnhofstr. 45",
+                        "17449 Trassenheide",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493837125256",
+                "display_phone": "+49 38371 25256",
+                "distance": 3748.124120529973
+            },
+            {
+                "id": "svuSVZMWo197cvfcHO0K3g",
+                "alias": "hafenbar-wolgast",
+                "name": "Hafenbar",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HZnCorjxcW-zJnMb9caqkA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/hafenbar-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "bars",
+                        "title": "Bars"
+                    },
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 54.0559270150268,
+                    "longitude": 13.7788734142717
+                },
+                "transactions": [],
+                "price": "\u20ac",
+                "location": {
+                    "address1": "Am Fischmarkt",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Am Fischmarkt",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "",
+                "display_phone": "",
+                "distance": 3061.1023336545345
+            },
+            {
+                "id": "pJTQtr1djEIp87FuTJRwog",
+                "alias": "restaurant-da-gianni-wolgast",
+                "name": "Restaurant da Gianni",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0Ubsp37bQlpCE8E5py7yag/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/restaurant-da-gianni-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "italian",
+                        "title": "Italian"
+                    },
+                    {
+                        "alias": "german",
+                        "title": "German"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 54.0505,
+                    "longitude": 13.7645
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "Hafenstr. 2",
+                    "address2": null,
+                    "address3": null,
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Hafenstr. 2",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836233691",
+                "display_phone": "+49 3836 233691",
+                "distance": 4141.597487588238
+            },
+            {
+                "id": "PJNdM1SYW_L4Q69Rt5EwEA",
+                "alias": "wallensteinkeller-wolgast",
+                "name": "Wallensteinkeller",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Oc7OdcSmRjy1ZRu4SkPDYg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/wallensteinkeller-wolgast?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "restaurants",
+                        "title": "Restaurants"
+                    }
+                ],
+                "rating": 2.5,
+                "coordinates": {
+                    "latitude": 54.05346,
+                    "longitude": 13.77826
+                },
+                "transactions": [],
+                "price": "\u20ac\u20ac",
+                "location": {
+                    "address1": "Burgstr. 7",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Wolgast",
+                    "zip_code": "17438",
+                    "country": "DE",
+                    "state": "MV",
+                    "display_address": [
+                        "Burgstr. 7",
+                        "17438 Wolgast",
+                        "Germany"
+                    ]
+                },
+                "phone": "+493836234000",
+                "display_phone": "+49 3836 234000",
+                "distance": 3313.512975416987
+            }
+        ],
+        "total": 24,
+        "region": {
+            "center": {
+                "longitude": 13.80932,
+                "latitude": 54.07687
+            }
+        }
+    },
+    "8.58583, 45.02694": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 45.02694,
+                "latitude": 8.58583
+            }
+        }
+    },
+    "65.82569, 14.08287": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 14.08287,
+                "latitude": 65.82569
+            }
+        }
     }
 }
