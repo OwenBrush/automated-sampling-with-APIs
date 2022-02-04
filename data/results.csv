@@ -11,16 +11,377 @@
 "53.16605, 139.05147",Russia,Kaygachan,0.0,0.0,0.0
 "63.16667, -169.3",United States,Maknighak Camp,0.0,0.0,0.0
 "-10.14447, 148.00914",Papua New Guinea,Kinikalana,0.0,0.0,14.0
-"-44.48767, -65.31431",Argentina,Puerto Larrea,0.0,,0.0
-"17.55, 32.95",Sudan,Jabal Sa’ada,0.0,,0.0
-"-22.2, 131.06667",Australia,Matchee Spring,0.0,,1.0
-"52.03982, 0.72503",United Kingdom,Sudbury,24.0,,18.0
+"-44.48767, -65.31431",Argentina,Puerto Larrea,0.0,0.0,0.0
+"17.55, 32.95",Sudan,Jabal Sa’ada,0.0,0.0,0.0
+"-22.2, 131.06667",Australia,Matchee Spring,0.0,0.0,1.0
+"52.03982, 0.72503",United Kingdom,Sudbury,24.0,30.0,18.0
 "48.953, 3.06238",France,La Ferte-sous-Jouarre,2.0,30.0,18.0
 "-0.89065, 110.78539",Indonesia,Ng Bengaras,0.0,1.0,3.0
 "47.733333, 24.366667",Romania,Vişeu de Jos,0.0,30.0,18.0
 "45.68893, 131.70528",China,Wudaogang,0.0,0.0,5.0
 "2.73333, 10.1",Cameroon,Andjek,0.0,2.0,8.0
 "-83.5, 167.35",,Asquith Bluff,0.0,0.0,0.0
-"54.07687, 13.80932",Germany,Wolgast,24.0,,18.0
+"54.07687, 13.80932",Germany,Wolgast,24.0,30.0,18.0
 "8.58583, 45.02694",Ethiopia,Naskul,0.0,0.0,0.0
-"65.82569, 14.08287",Norway,Tomyra,0.0,,2.0
+"65.82569, 14.08287",Norway,Tomyra,0.0,3.0,2.0
+"10.50127, 122.9527",Visayas,Maao,0.0,30.0,0.0
+"47.33672, 125.72474",China,Jiangjiatun,0.0,0.0,0.0
+"68.47167, -149.98278",United States,Itikmalak River,0.0,0.0,0.0
+"-67.40472, 59.01",,Rund Island,0.0,0.0,0.0
+"61.6785, 40.3686",Russia,Khimicheskiy Les,0.0,30.0,0.0
+"78.43371, -111.50934",Canada,Borden Island,0.0,0.0,0.0
+"-14.81667, 27.01667",Zambia,Sianzovu,0.0,0.0,0.0
+"63.15, 42.06667",Russia,Katino,0.0,0.0,0.0
+"69.88357, 28.45465",Norway,Geahčoaivi,0.0,0.0,0.0
+"-17.19694, 33.51167",Mozambique,Mungari,0.0,0.0,0.0
+"49.44543, 121.27592",China,Wu'er Qi Hanhongsheng Dadui Nongyedian,0.0,1.0,0.0
+"-16.9676, 129.24181",Australia,Mount in Creek Yard,0.0,0.0,0.0
+"-8.53333, 27.6",Democratic Republic of the Congo,Kungwe,0.0,0.0,0.0
+"-18.91667, 26.66667",Zimbabwe,Jambezi Pan,0.0,0.0,0.0
+"-23.17081, 29.04283",South Africa,Tswatsane,0.0,7.0,0.0
+"-24.01667, 21.88333",Botswana,Tshane,0.0,1.0,0.0
+"-27.64631, 21.40841",South Africa,Hop-Hop,0.0,0.0,0.0
+"56.1678, 100.3623",Russia,Kaymeya,0.0,0.0,0.0
+"58.61524, 7.41391",Norway,Kyrkjebygdi,0.0,14.0,0.0
+"-35.77093, -61.33457",Argentina,Cadret,0.0,0.0,0.0
+"-31.43787, 29.78663",South Africa,Cutweni,0.0,5.0,0.0
+"15.82789, 12.69278",Niger,Mabrouka Doûdi,0.0,0.0,0.0
+"66.43583, -158.74389",United States,Ekiek Creek,0.0,0.0,0.0
+"11.9774, 21.8225",Chad,Ankarouba,0.0,0.0,0.0
+"-71.3, -12.4",,Norvegia Bank,0.0,0.0,0.0
+"2.50187, 19.37771",Democratic Republic of the Congo,Mobede,0.0,0.0,0.0
+"29.34923, 6.62701",Algeria,Meksem el Abiod,0.0,0.0,0.0
+"15.93722, 52.13833",Yemen,Ţabūt,0.0,0.0,0.0
+"22.26667, -11.71667",Mauritania,Mzeïbira,0.0,0.0,0.0
+"52.57106, 18.57758",Poland,Piotrków Kujawski,0.0,28.0,0.0
+"72.1125, 74.89389",Russia,Syadeyyakha,0.0,0.0,0.0
+"17.216667, 51.266667",Yemen,Shi‘b Bahūbayn,0.0,0.0,0.0
+"6.36667, 4.38333",Nigeria,Ajumo,0.0,0.0,0.0
+"53.56836, 22.47951",Poland,Okol,0.0,30.0,0.0
+"38.1338, 101.564",China,Xinquan,0.0,0.0,0.0
+"21.03722, -97.42472",Mexico,La Laja de Zapote Bueno,0.0,30.0,0.0
+"-12.61667, 14.2",Angola,Tchingua,0.0,0.0,0.0
+"38.16248, -88.06434",United States,Crossville,0.0,30.0,0.0
+"-32.38333, -72.85",,Quebrada de Chorrillo,0.0,0.0,0.0
+"58.99821, 61.10074",Russia,Vagran,0.0,1.0,0.0
+"59.6395, 57.0283",Russia,Popova-Ostanina,0.0,10.0,0.0
+"39.05528, 125.26583",North Korea,Soktagon-ni,0.0,0.0,0.0
+"59.125, -132.00278",Canada,Disella Lake,0.0,0.0,0.0
+"56.48333, 10.83333",Denmark,Veggerslev,0.0,30.0,0.0
+"-0.86667, 22.66667",Democratic Republic of the Congo,Nongo,0.0,0.0,0.0
+"-85.633, -69.233",,Damschroder Rock,0.0,0.0,0.0
+"46.42937, 135.30143",Russia,Gora Yantarnaya,0.0,0.0,0.0
+"57.11677, -106.43394",Canada,Grassick Lake,0.0,0.0,0.0
+"35.22792, 140.39641",Japan,Ohara,3.0,30.0,0.0
+"10.4, 6.06667",Nigeria,Umma,0.0,0.0,0.0
+"60.53334, -77.58311",Canada,Pointe Kippaku,0.0,0.0,0.0
+"16.26667, -6.3",Mauritania,’Alâb,0.0,0.0,0.0
+"10.7604, 16.8031",Chad,Tchilili Nguiribing,0.0,0.0,0.0
+"34.73184, 135.75982",Japan,Nara-shi,28.0,30.0,0.0
+"42.25736, -122.42641",United States,Grizzly County Campground,0.0,10.0,0.0
+"-69.55, 158.05",,Celestial Peak,0.0,0.0,0.0
+"47.99806, 134.10917",China,Qianshao Nongchang,0.0,0.0,0.0
+"22.34745, -79.28458",Cuba,Yaguajay,0.0,0.0,0.0
+"11.48333, -11.06667",Guinea,Bovedebe,0.0,0.0,0.0
+"29.80022, -100.69037",United States,Carta Valley,0.0,1.0,0.0
+"-24.2, -63.15",Argentina,Bañados del Quirquincho,0.0,0.0,0.0
+"29.76249, 42.79654",Saudi Arabia,Maḩīr al Khadd,0.0,0.0,0.0
+"29.040834, 24.83613",Libya,Libyan Sand Sea,0.0,0.0,0.0
+"62.47729, 157.83337",Russia,Kraskomna,0.0,0.0,0.0
+"55.7711, 106.1806",Russia,Mitin,0.0,0.0,0.0
+"-83.25, -60",,Foundation Ice Stream,0.0,0.0,0.0
+"17.05, -25.36667",Cape Verde,Botija,0.0,3.0,0.0
+"17.05336, 75.82121",India,Agasnal,0.0,2.0,0.0
+"54.532222, 168.0175",Russia,Glinka,0.0,0.0,0.0
+"70.81667, 143.2",Russia,Dadakh,0.0,0.0,0.0
+"30.916667, -108.133333",Mexico,Janos,0.0,11.0,0.0
+"-85.58333, -177.23333",,Grass Bluff,0.0,0.0,0.0
+"77.1, -71.183333",Greenland,Iniartorfik,0.0,0.0,0.0
+"7.133333, -69.083333",Venezuela,Las Queseritas,0.0,0.0,0.0
+"-0.98333, 21.06667",Democratic Republic of the Congo,Ilaka I,0.0,0.0,0.0
+"16.68361, -13.80853",Mauritania,Krâ’ Boû Mbâré,0.0,0.0,0.0
+"0.13351, 28.16451",Democratic Republic of the Congo,Munamansi,0.0,0.0,0.0
+"-11.43333, 30.61667",Zambia,Kabinga,0.0,0.0,0.0
+"-34.166667, 128.683333",,Eucla Canyon,0.0,0.0,0.0
+"-67.33333, 83",,"Tajmyrskij, ledolom",0.0,0.0,0.0
+"52.66667, 176.0875",,Buldir Basin,0.0,0.0,0.0
+"11.933333, 116.883333",,Đá Đồng Thạnh,0.0,0.0,0.0
+"-31.70287, -62.48202",Argentina,Saturnino M. Laspiur,0.0,2.0,0.0
+"63.5, 160",Russia,Severo-Evenskiy Rayon,0.0,0.0,0.0
+"58.107354, 29.05195",Russia,Katezhno,0.0,30.0,0.0
+"66.6509, -87.0326",Canada,Kuunguq Inlet,0.0,0.0,0.0
+"35.959504, 84.791145",China,Hongsha Hu,0.0,0.0,0.0
+"-6.016667, -69.5",Brazil,Rio Juruàzinho,0.0,0.0,0.0
+"31.32647, -4.32158",Morocco,Zawia Sidi 'Abdellah Boubker,0.0,22.0,0.0
+"49.51667, 46.53333",Russia,Niva,0.0,0.0,0.0
+"52.63041, 32.99403",Russia,Zabolot'ye,0.0,9.0,0.0
+"60.416667, 138.2",Russia,Yagodnyy,0.0,0.0,0.0
+"-11.31685, 154.2363",Papua New Guinea,Jinjo,0.0,0.0,0.0
+"-26.21936, 152.61591",Australia,Gympie,0.0,30.0,0.0
+"45.20193, -87.0915",United States,Sister Bay,29.0,30.0,0.0
+"21.66004, -160.53999",United States,Kahālauola,0.0,0.0,0.0
+"40.34786, 74.90974",China,Suyuekecun,0.0,0.0,0.0
+"63.583333, -84.083333",Canada,Bear Cove Point,0.0,0.0,0.0
+"56.71667, -2.96667",United Kingdom,Kirriemuir,1.0,30.0,0.0
+"20.011695, -88.157655",Mexico,Canzepchén,0.0,0.0,0.0
+"45.08333, 148.06667",Russia,Bukhta Lyubava,0.0,2.0,0.0
+"-27.31221, 138.81117",Australia,Lake Milkapurda,0.0,0.0,0.0
+"56.13308, -125.01998",Canada,Wasi Creek,0.0,0.0,0.0
+"21.23615, -13.27971",Mauritania,Bedmeïjât,0.0,0.0,0.0
+"21.329913, 35.15696",Sudan,Khor Mashatkwan,0.0,0.0,0.0
+"61.266667, 96.55",Russia,Turama,0.0,0.0,0.0
+"61.03333, 141.95",Russia,Malemandzha,0.0,0.0,0.0
+"60.9791, 46.4732",Russia,Krasavino,0.0,26.0,0.0
+"15.638889, -171.065278",,Tanager Seamount,0.0,0.0,0.0
+"-18.81667, 123.95",Australia,Matches Spring,0.0,0.0,0.0
+"34.88206, -116.02301",United States,Kelso Dunes Wilderness,0.0,1.0,0.0
+"70, 152.75",Russia,Khrebet Syrya-Takha,0.0,0.0,0.0
+"51.575628, 114.784189",Russia,Pereval Zugalovskiy,0.0,0.0,0.0
+"20.5, -3",Mali,’Erg el Mrâyer,0.0,0.0,0.0
+"-17.266667, -51.383333",Brazil,Ribeirao das Pombas,0.0,1.0,0.0
+"35.903315, 136.170975",Japan,Takefu,4.0,30.0,0.0
+"-25.78102, -69.29552",Chile,Pique de La Exploradora,0.0,0.0,0.0
+"-33.4, 130.38333",,Great Australian Bight Commonwealth Marine Reserve,0.0,0.0,0.0
+"37.41825, 49.19796",Iran,Ziabar (Gaskar),0.0,30.0,0.0
+"-18.76535, -174.12373",Tonga,Totokamaka,0.0,4.0,0.0
+"69.15833, -145.77222",United States,Franklin Creek,0.0,0.0,0.0
+"46.516667, 26.116667",Romania,Ciugheș,0.0,30.0,0.0
+"50.40746, 35.83734",Ukraine,Perovs’ke,0.0,5.0,0.0
+"45.3, 97.233333",Mongolia,Hara Chuluutayn Salaata Uula,0.0,0.0,0.0
+"26.833333, 9.466667",Algeria,Hassi Sougoued,0.0,0.0,0.0
+"21.59908, -81.50812",Cuba,Cocodrilo,0.0,30.0,0.0
+"11.10531, -16.13823",Guinea-Bissau,Ancagumé,0.0,1.0,0.0
+"41.808904, 33.231354",Turkey,Şenpazar,0.0,30.0,0.0
+"29.7054, 83.4154",China,Xungrurisur,0.0,0.0,0.0
+"70.98667, 83.43333",Russia,Yakovlevka,0.0,0.0,0.0
+"28.56429, 27.84515",Egypt,Qabr ash Sharīf,0.0,0.0,0.0
+"53.4004, 47.7688",Russia,Yedelevo,0.0,1.0,0.0
+"52.89661, 70.52953",Kazakhstan,Karlovka,0.0,17.0,0.0
+"49.19068, 7.79192",Germany,Dahn,7.0,30.0,0.0
+"-7.48333, -34.95",Brazil,Caaporã,0.0,30.0,0.0
+"43.16667, 62.88333",Uzbekistan,Oqbo‘g‘ot,0.0,0.0,0.0
+"37.50196, -98.08145",United States,Basil,0.0,4.0,0.0
+"31.69461, -93.31823",United States,Adois (historical),0.0,23.0,0.0
+"47.35563, 30.81622",Ukraine,Yasnopillya,0.0,0.0,0.0
+"-27.46667, -56.71667",Argentina,Puerto Mburajhe,0.0,30.0,0.0
+"19.833333, 149",,Vogt Guyot,0.0,0.0,0.0
+"42.15, 95.98333",China,Yuefeiquan,0.0,0.0,0.0
+"16.52066, 81.2273",India,Kaikalur,0.0,17.0,0.0
+"64.241996, 54.989988",Russia,Lem’yu,0.0,6.0,0.0
+"61.10053, -93.98347",Canada,Arviat,0.0,3.0,0.0
+"55.26306, 55.81972",Russia,Zuyevo,0.0,10.0,0.0
+"0.14926, 21.5374",Democratic Republic of the Congo,Likake,0.0,0.0,0.0
+"22.98363, 13.79166",Libya,Djebel Ati,0.0,0.0,0.0
+"53.37585, -100.25892",Canada,Kaniawakak Island,0.0,0.0,0.0
+"5.03225, 118.324",Malaysia,Lahad Datu,3.0,30.0,0.0
+"9.71434, 78.68649",India,Pandimagarandai,0.0,1.0,0.0
+"-17.6625, -150.61667",France,Lac Roto Rahi,0.0,0.0,0.0
+"26.29661, 95.39828",Myanmar,Lahe,0.0,0.0,0.0
+"5.75, -57.95",Guyana,Maripaka Creek,0.0,0.0,0.0
+"63.08333, -50.53333",Greenland,Savssarssuit,0.0,0.0,0.0
+"17.753056, -0.5275",Mali,Adrar Tabarbarout,0.0,0.0,0.0
+"56.13362, -74.29916",Canada,Île Mantunikw,0.0,0.0,0.0
+"-86.58333, -152.5",,"Farley, Mount",0.0,0.0,0.0
+"49.36676, -105.25109",Canada,Roncott,0.0,6.0,0.0
+"27.03963, 83.64453",India,Pakri Bishunpur,0.0,1.0,0.0
+"-21.16667, -44.86667",Brazil,Macaia,0.0,30.0,0.0
+"68.3455, 161.5622",Russia,Anyuysk,0.0,1.0,0.0
+"61.85021, -107.66749",Canada,Booth Lake,0.0,0.0,0.0
+"-24.73333, 45.41667",Madagascar,Iantsatra,0.0,0.0,0.0
+"-69.45, -35.7",,"Lisjanskogo, shel'fovyj lednik",0.0,0.0,0.0
+"-20, 159",,Recifs et Iles Chesterfield,0.0,0.0,0.0
+"32.60928, -103.14742",United States,Warren,0.0,30.0,0.0
+"33.36079, -1.03087",Algeria,Oued Magrouna Cherguia,0.0,0.0,0.0
+"34.29162, 132.94277",Japan,Takehara,0.0,30.0,0.0
+"-43.607459, 172.692363",New Zealand,Rapaki,5.0,30.0,0.0
+"-18.83333, -65.31667",Bolivia,Pocpo,0.0,0.0,0.0
+"45.59444, -106.27085",United States,Ashland,3.0,22.0,0.0
+"12.20468, 16.81903",Chad,Omo,0.0,0.0,0.0
+"36.35781, 25.47406",Greece,Emporeio,0.0,30.0,0.0
+"48.45, 112.11667",Mongolia,Shibeete,0.0,0.0,0.0
+"23.3385, 12.51922",Niger,Edeyene de Mourzouk,0.0,0.0,0.0
+"47.51474, -104.19605",United States,Sears (historical),0.0,1.0,0.0
+"31.40196, 62.26177",Afghanistan,Kadah,0.0,0.0,0.0
+"47.34828, -112.33919",United States,Upper Ellis Place,0.0,0.0,0.0
+"21.25912, 5.60451",Algeria,Tedjerine,0.0,0.0,0.0
+"42.47047, 69.93565",Kazakhstan,Pritraktovoye,0.0,18.0,0.0
+"-38.45823, 175.1102",New Zealand,Te Mapara,0.0,14.0,0.0
+"-20.13333, -41.7",Brazil,Socapo,0.0,30.0,0.0
+"1.333333, 115.566667",Indonesia,Punan,0.0,0.0,0.0
+"74.10152, -92.71694",Canada,Irvine Bay,0.0,0.0,0.0
+"-30.03394, 139.6301",Australia,Mount Neil,0.0,0.0,0.0
+"36.95, -3.06667",Spain,Ugíjar,1.0,30.0,0.0
+"46.53333, 117.85",China,Hu-ho-wen-to-erh,0.0,1.0,0.0
+"43.21839, 56.91822",Uzbekistan,Boyshag‘ir Quduq,0.0,0.0,0.0
+"44.71487, -118.45911",United States,Diffin Post Office (historical),0.0,1.0,0.0
+"41.99395, -82.53496",Canada,Point Pelee,7.0,30.0,0.0
+"-18.41552, 127.9207",Australia,Linga Community,0.0,0.0,0.0
+"8.46972, -72.59306",Colombia,El Cortico,0.0,1.0,0.0
+"-17.23202, 145.63165",Australia,Yungaburra,1.0,30.0,0.0
+"35.15896, -85.15218",United States,Middle Valley,9.0,30.0,0.0
+"69.23139, 168.15417",Russia,Ozëra Gusinyye,0.0,0.0,0.0
+"-32.01667, 127.91667",Australia,Windabijee Rockhole,0.0,0.0,0.0
+"60.4078, -130.89376",Canada,West Blank Creek,0.0,0.0,0.0
+"33.8544, 46.2712",Iran,Sharak-e Nobovvat,0.0,3.0,0.0
+"-20.25, -65.166667",Bolivia,Palcoyo,0.0,0.0,0.0
+"21.17499, 42.18088",Saudi Arabia,Ḩarrat Nawāşīf,0.0,0.0,0.0
+"9.8904, 3.01845",Benin,Weragando,0.0,1.0,0.0
+"29.066667, -88.133333",,Sounder Canyon,0.0,0.0,0.0
+"3.2675, -75.40972",Colombia,Guamalito,0.0,0.0,0.0
+"4.8, 38.06667",Ethiopia,Ade,0.0,0.0,0.0
+"-47.433333, -70.683333",Argentina,Estancia A. Blas,0.0,0.0,0.0
+"-0.33323, 127.58123",Indonesia,Timlonga,0.0,0.0,0.0
+"22.35806, 34.58146",Egypt,Jabal Umm aţ Ţuyūr at Taḩtānī,0.0,0.0,0.0
+"-12.43333, -73.06667",Peru,Río Coshirení,0.0,2.0,0.0
+"-23.0483, 150.8867",Australia,The Keppels,0.0,4.0,0.0
+"-0.04961, 13.86387",Gabon,Kelle,0.0,0.0,0.0
+"31.69224, 2.2074",Algeria,Arich et Tseldj,0.0,0.0,0.0
+"66.67056, -147.37917",United States,Twentynine Mile Ridge,0.0,0.0,0.0
+"44.48342, -78.41624",Canada,Kawartha Hideaway,0.0,30.0,0.0
+"74.596273, 107.242136",Russia,Ozero Nerada-Kunchsalak,0.0,0.0,0.0
+"5.383333, -55.4",Suriname,Moerjee Kreek,0.0,2.0,0.0
+"48.564722, 87.420556",China,Hom,0.0,16.0,0.0
+"34.209508, 65.811757",Afghanistan,Saylbītū,0.0,0.0,0.0
+"-0.58333, 10.21667",Gabon,Viafe,0.0,1.0,0.0
+"66.866667, 15.083333",Norway,Steinfjellet,0.0,4.0,0.0
+"41.36667, 55",Turkmenistan,Babashi,0.0,0.0,0.0
+"70.98432, -157.85431",United States,Peard Bay (historical),0.0,0.0,0.0
+"37.82359, 24.92838",Greece,Andros,0.0,30.0,0.0
+"-54.26517, -71.56086",Chile,Ensenada López,0.0,0.0,0.0
+"20.23306, -155.77639",United States,Kapaau,16.0,30.0,0.0
+"-20.137433, 125.191757",Australia,Tina Spring,0.0,0.0,0.0
+"60.01774, -65.1244",Canada,Niunngualiup Kangirsukulua Inlet,0.0,0.0,0.0
+"52.22583, 58.99222",Russia,Maksim Gor'kiy,0.0,2.0,0.0
+"52.0266, 102.0658",Russia,Bilyutskiye Gol’tsy,0.0,0.0,0.0
+"46.6025, -83.33389",Canada,Assinamish Lake,0.0,1.0,0.0
+"66.48333, 21.73333",Sweden,Nakirbäcken,0.0,0.0,0.0
+"66.7884, 39.70162",Russia,Sosnovskoye Ozero,0.0,0.0,0.0
+"32.03894, 13.84135",Libya,Wādī Kūrah,0.0,0.0,0.0
+"57.61678, -106.33395",Canada,Rowles Lake,0.0,0.0,0.0
+"41.59009, -74.3821",United States,Burlingham,8.0,30.0,0.0
+"-1.7875, -46.30333",Brazil,Boa Vista do Gurupi,0.0,30.0,0.0
+"45.79237, -97.75288",United States,Britton,2.0,30.0,0.0
+"33.297591, 61.595779",Afghanistan,Gul Gandī,0.0,0.0,0.0
+"25.76235, 72.54399",India,Samdari,0.0,1.0,0.0
+"40.86667, 52.93333",Turkmenistan,Kolodets Chungul,0.0,0.0,0.0
+"37.66319, 101.79812",China,Erlangshanzhang Shan,0.0,0.0,0.0
+"-43.22784, -70.53501",Argentina,Estancia Los Menucos,0.0,0.0,0.0
+"35.01883, 39.18501",Syria,Al Khuwaylīyah,0.0,0.0,0.0
+"55.11195, 36.60885",Russia,Obninsk,0.0,30.0,0.0
+"-10.258332, 161.725551",Solomon Islands,Alangakaula,0.0,0.0,0.0
+"31.96578, -94.05499",United States,Joaquin,3.0,30.0,0.0
+"36.05319, 54.01293",Iran,Kūh-e Sabāneh,0.0,2.0,0.0
+"80.401253, 53.224414",Russia,Mys L’yuys Pul,0.0,0.0,0.0
+"-9.59333, 123.7225",Indonesia,Naisano Dua,0.0,0.0,0.0
+"18.40919, 31.77104",Sudan,El Kuru,0.0,12.0,0.0
+"67.61667, 77.63333",Russia,Mys Ne-Sale,0.0,0.0,0.0
+"50.099, 100.849",Mongolia,Tsagaan Uul,0.0,0.0,0.0
+"-0.41813, 18.79975",Democratic Republic of the Congo,Boalangombe,0.0,0.0,0.0
+"53.6804, 77.45645",Russia,Sheynfel’d,0.0,1.0,0.0
+"60.88667, -147.11889",United States,Growler Bay,0.0,1.0,0.0
+"2.34218, 172.82043",,Fetulele Seamount,0.0,0.0,0.0
+"66.076537, 54.678379",Russia,Voyvozh,0.0,0.0,0.0
+"55.49224, 161.22818",Russia,Yubileynaya,0.0,0.0,0.0
+"52.32639, -6.64056",Ireland,Taghmon,0.0,30.0,0.0
+"49.99949, -68.50038",Canada,Rapides Benoît,0.0,1.0,0.0
+"53.10838, 69.116188",Kazakhstan,Sel’khozkoloniya,0.0,0.0,0.0
+"63.9, -124.85",Canada,Cloverleaf Lake,0.0,0.0,0.0
+"67.266667, 66.333333",Russia,Gora Kharbey,0.0,0.0,0.0
+"25.7365, 74.0556",India,Hiraji ka Gaon,0.0,6.0,0.0
+"43.74028, 125.21028",China,Hanjiutongzi,0.0,30.0,0.0
+"43.87634, -109.29792",United States,Kirwin,0.0,0.0,0.0
+"42.65607, -108.32454",United States,Samuel P Large Ditch,0.0,0.0,0.0
+"-21.75, -41.48333",Brazil,Santa Rita,0.0,30.0,0.0
+"-50.01542, -71.84398",Argentina,La Meseta,0.0,0.0,0.0
+"4.98262, -61.73441",Venezuela,Uonquen,0.0,0.0,0.0
+"20.82016, 53.11578",Saudi Arabia,Shabk al Karab,0.0,0.0,0.0
+"21.64639, 41.20167",Saudi Arabia,Jabal Umm al ‘Uhūd,0.0,2.0,0.0
+"63.12336, 11.07736",Norway,Uthus,0.0,7.0,0.0
+"16.185192, -12.450526",Mauritania,Chelkhat Ghiarhoum,0.0,0.0,0.0
+"-31.07233, 134.9825",Australia,Yerda Well,0.0,0.0,0.0
+"14.7, 33.63333",Sudan,Fennisa,0.0,1.0,0.0
+"16.87949, 2.62364",Mali,Aounkari,0.0,0.0,0.0
+"64.716667, 119.366667",Russia,Озеро Эрыппан,0.0,0.0,0.0
+"30.24341, -96.42941",United States,Prairie Hill,1.0,30.0,0.0
+"14.45603, 47.54409",Yemen,Tabaq,0.0,0.0,0.0
+"26.459, 108.836",China,Kouwen,0.0,0.0,0.0
+"40.4957, 73.78705",Kyrgyzstan,Uryuk,0.0,0.0,0.0
+"15.36667, 107.9",Vietnam,Cô Xôn Mai,0.0,0.0,0.0
+"30.26722, -85.9747",United States,Laguna Beach,23.0,30.0,0.0
+"-33.55052, 140.93201",Australia,Alick Dam,0.0,0.0,0.0
+"17.36068, 74.15735",India,Siravda,0.0,30.0,0.0
+"60.41691, -64.4484",Canada,Cabot Island,0.0,0.0,0.0
+"52.79814, -96.65339",Canada,Opekamank,0.0,0.0,0.0
+"59.68352, -104.05059",Canada,McHarg Lake,0.0,0.0,0.0
+"38.01667, 104.36667",China,Qalgarin Sum,0.0,1.0,0.0
+"10.33075, -71.31925",Venezuela,Santa Rosa,0.0,30.0,0.0
+"-9.31667, -40.01667",Brazil,Barauna,0.0,2.0,0.0
+"65.083333, -5.416667",,Viking Trough,0.0,0.0,0.0
+"38.1448, 48.0327",Iran,Gazir,0.0,30.0,0.0
+"-8.11667, 118.06667",Indonesia,Kawinda,0.0,0.0,0.0
+"-10.35, 132.75",,Money Shoal,0.0,0.0,0.0
+"53.72508, -96.95666",Canada,Matamusko Creek,0.0,0.0,0.0
+"-10.51667, -39.56667",Brazil,Montes,0.0,1.0,0.0
+"5.238611, 105.575556",,Anoa Field,0.0,5.0,0.0
+"55.84829, -100.42316",Canada,Highrock,0.0,0.0,0.0
+"-38.58593, -61.06297",Argentina,El Zorro,0.0,0.0,0.0
+"12.41667, 29.08333",Sudan,Kinanah,0.0,0.0,0.0
+"2.8036, 131.7697",Palau,Helen Reef South Point,0.0,0.0,0.0
+"48.8243, 134.8922",Russia,Golubichnoye,0.0,0.0,0.0
+"-61, 161.5",,Balleny Seamounts,0.0,0.0,0.0
+"52.7, 37.43333",Russia,Isakovka,0.0,11.0,0.0
+"9.53333, 107.66667",Vietnam,Wallace Bank,0.0,0.0,0.0
+"0.63537, 26.13737",Democratic Republic of the Congo,Bafwaboli,0.0,0.0,0.0
+"-0.31667, -63.96667",Brazil,Providencia,0.0,0.0,0.0
+"67.25, 45.38333",Russia,Negrenskaya Viska,0.0,0.0,0.0
+"53.675, 62.57999",Kazakhstan,Kravtsovo,0.0,6.0,0.0
+"-75.84657, -72.46672",,"Hassage, Mount",0.0,0.0,0.0
+"-18.73568, 137.02596",Australia,Playford Bore,0.0,0.0,0.0
+"-22.083333, 124",Australia,Lake Wooloomber,0.0,0.0,0.0
+"49.96569, 8.05907",Germany,Nieder-Ingelheim,68.0,30.0,0.0
+"25.35154, 33.4661",Egypt,Wâdi Abu Heita,0.0,0.0,0.0
+"21.68333, 102.48333",Laos,Nam Houn,0.0,0.0,0.0
+"-79.78333, 158.43333",,Palisade Valley,0.0,0.0,0.0
+"1.14069, 127.49139",Indonesia,Awer,0.0,30.0,0.0
+"50.76651, -119.00234",Canada,Sicamous,0.0,30.0,0.0
+"-18.01667, -65",Bolivia,Curadero,0.0,0.0,0.0
+"54.385833, 0.575278",,Inner Bank,0.0,0.0,0.0
+"-9.98239, 25.45419",Democratic Republic of the Congo,Kapete,0.0,0.0,0.0
+"45.46709, 128.02501",China,Yongxiang,0.0,1.0,0.0
+"-6.32222, 29.97928",Tanzania,Itura,0.0,0.0,0.0
+"10.333333, -74.8",Colombia,Cerro de San Antonio,0.0,28.0,0.0
+"-20.95, -42.16667",Brazil,Santa Rita dos Coqueiros,0.0,30.0,0.0
+"44.113677, 133.668392",Russia,Pshenitsyno,0.0,0.0,0.0
+"47.8, 103.25",Mongolia,Uydzengiin Hural,0.0,0.0,0.0
+"-24.57408, -60.9373",Argentina,El Quebracho Marcado,0.0,0.0,0.0
+"8.41667, 35.28333",Ethiopia,Workaye,0.0,0.0,0.0
+"-24.55, 18.93333",Namibia,Sandfeld,0.0,0.0,0.0
+"25.98971, 67.87011",Pakistan,Goth Nuh,0.0,1.0,0.0
+"30.87166, 28.88959",Egypt,Ad Daraziyah,0.0,30.0,0.0
+"25.94833, 75.55503",India,Jareli ka Jhonpara,0.0,4.0,0.0
+"33.94483, -6.93106",Morocco,Temara,0.0,30.0,0.0
+"-0.36667, 10.46667",Gabon,Mfoua,0.0,0.0,0.0
+"26.26667, 33.96667",Egypt,El-Kab Aqab,0.0,0.0,0.0
+"-10.96667, -67.08333",Bolivia,San Roque,0.0,0.0,0.0
+"57.60471, 10.23313",Denmark,Vesterklit,3.0,30.0,0.0
+"40.33869, 36.25858",Turkey,Cariksiz,0.0,30.0,0.0
+"46.08828, -92.40186",United States,Markville,0.0,30.0,0.0
+"49.19069, -66.08518",Canada,La Colonie,0.0,9.0,0.0
+"60.219823, 151.71684",Russia,Nukh,0.0,0.0,0.0
+"46.95, 50.45",Kazakhstan,Burli,0.0,0.0,0.0
+"26.0437, 108.279",China,Gujia,0.0,0.0,0.0
+"48.01358, 47.18474",Kazakhstan,Dzhan-Gendyr,0.0,0.0,0.0
+"0.1078, -73.50294",Colombia,Quebrada Huitoto,0.0,0.0,0.0
+"-19.99338, -63.94584",Bolivia,Piramiri,0.0,0.0,0.0
+"-52.95, -73.5",Chile,Roca Coombes,0.0,0.0,0.0
+"-10.5, 126",,Timor Sea,0.0,0.0,0.0
+"64.15009, -126.75366",Canada,Toochingkla River,0.0,0.0,0.0
+"65.75, 139.916667",Russia,Tsep’ Nekh-Tas,0.0,0.0,0.0
+"56.28333, 114.16667",Russia,Amnunda,0.0,0.0,0.0
+"44.7582, 27.20338",Romania,Miloşeşti,0.0,30.0,0.0
+"56.02477, 89.86186",Russia,Zakharinka,0.0,0.0,0.0
+"-39.98825, 175.47021",New Zealand,Rata,0.0,28.0,0.0
+"-74.36667, -117.96667",,Scott Peninsula,0.0,0.0,0.0
+"-1.4, 110.08333",Indonesia,Siduk,0.0,15.0,0.0
+"-15.06667, 167.05",Vanuatu,Port-Olry,0.0,4.0,0.0
+"57.51639, -127.63675",Canada,Chili Creek,0.0,0.0,0.0
