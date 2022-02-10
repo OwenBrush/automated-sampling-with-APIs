@@ -2,11 +2,14 @@
 import pandas as pd
 import numpy as np
 import json
+from pathlib import Path
 
 from scripts.constants import *
 from scripts import file_handler
 
 def update_dataframe():
+    if not Path(SAVE_DIR+RESULTS).is_file():
+        pd.DataFrame().to_csv(SAVE_DIR+RESULTS)
     df = pd.read_csv(SAVE_DIR+RESULTS, index_col=0)
     for geo_location in df[df.isna().any(axis=1)].index:
         add_sample(geo_location)
@@ -69,11 +72,12 @@ def get_four_square(geo_location):
 def get_google(geo_location):
     data = file_handler.get_response(LOG_DIR+GOOGLE, geo_location)
     if data: 
-        value = 0
-        for venue in data['results']:
-            if 'business_status' in venue.keys():
-                value += 1  
-        return value
+        # value = 0
+        # for venue in data['results']:
+        #     if 'business_status' in venue.keys():
+        #         value += 1  
+        # return value
+        return len(data['results'])
     else:
         return np.nan
         

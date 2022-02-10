@@ -12135,5 +12135,75 @@
                 "latitude": 57.51639
             }
         }
+    },
+    "68.04194, -154.49361": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -154.49361,
+                "latitude": 68.04194
+            }
+        }
+    },
+    "-18.266667, 35.5": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 35.5,
+                "latitude": -18.266667
+            }
+        }
+    },
+    "4.37577, -54.30529": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -54.30529,
+                "latitude": 4.37577
+            }
+        }
+    },
+    "35.28852, 109.8059": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 109.8059,
+                "latitude": 35.28852
+            }
+        }
+    },
+    "-1.83217, 130.12765": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 130.12765,
+                "latitude": -1.83217
+            }
+        }
+    },
+    "65.75287, 49.8525": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 49.8525,
+                "latitude": 65.75287
+            }
+        }
+    },
+    "66.56875, -62.1079": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -62.1079,
+                "latitude": 66.56875
+            }
+        }
     }
 }

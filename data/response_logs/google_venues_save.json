@@ -9142,5 +9142,47 @@
         "html_attributions": [],
         "results": [],
         "status": "REQUEST_DENIED"
+    },
+    "68.04194, -154.49361": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+    },
+    "-18.266667, 35.5": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+    },
+    "4.37577, -54.30529": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+    },
+    "35.28852, 109.8059": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+    },
+    "-1.83217, 130.12765": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+    },
+    "65.75287, 49.8525": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+    },
+    "66.56875, -62.1079": {
+        "error_message": "You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
     }
 }
