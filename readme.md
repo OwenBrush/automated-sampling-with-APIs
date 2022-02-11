@@ -9,7 +9,7 @@
   3. Every response is saved into json dictionaries, using the geo location as a key.
   4. Scripts can then build dataframes to specification with all available data from called geo locations. 
 
-![Alt text](/flowchart.png?raw=true "API Network flowchart")
+![Alt text](/images/flowchart.png?raw=true "API Network flowchart")
 
 ### APIs used:
   * https://api.3geonames.org/
@@ -34,14 +34,14 @@
  
  ### Average results per request by company:
       
-![Alt text](/four_square.png?raw=true "API Network flowchart")
+![Alt text](/images/four_square.png?raw=true "API Network flowchart")
   
-![Alt text](/yelp.png?raw=true "API Network flowchart")
+![Alt text](/images/yelp.png?raw=true "API Network flowchart")
     
-![Alt text](/google.png?raw=true "API Network flowchart")
+![Alt text](/images/google.png?raw=true "API Network flowchart")
 
  ### Comparison between companies, by total number of results: 
-![Alt text](/comparison.png?raw=true "API Network flowchart")
+![Alt text](/images/comparison.png?raw=true "API Network flowchart")
 
 
  ### Notes
