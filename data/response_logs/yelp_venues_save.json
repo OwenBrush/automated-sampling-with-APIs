@@ -12205,5 +12205,1003 @@
                 "latitude": 66.56875
             }
         }
+    },
+    "48.363084, 142.668459": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 142.668459,
+                "latitude": 48.363084
+            }
+        }
+    },
+    "80.166667, -67.366667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -67.366667,
+                "latitude": 80.166667
+            }
+        }
+    },
+    "13.36451, 23.94868": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 23.94868,
+                "latitude": 13.36451
+            }
+        }
+    },
+    "0.21667, -50.55": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -50.55,
+                "latitude": 0.21667
+            }
+        }
+    },
+    "24.64646, 118.21445": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 118.21445,
+                "latitude": 24.64646
+            }
+        }
+    },
+    "32.16823, 14.10937": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 14.10937,
+                "latitude": 32.16823
+            }
+        }
+    },
+    "39.22279, 32.74574": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 32.74574,
+                "latitude": 39.22279
+            }
+        }
+    },
+    "-30.48274, 28.61879": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 28.61879,
+                "latitude": -30.48274
+            }
+        }
+    },
+    "48.36008, 73.01995": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 73.01995,
+                "latitude": 48.36008
+            }
+        }
+    },
+    "43.54933, -116.41151": {
+        "businesses": [
+            {
+                "id": "NifsdrLXQI13EQ7po7Z7Bg",
+                "alias": "tacos-el-rey-meridian",
+                "name": "Tacos El Rey",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zgnGg2q2YBv8Zl11isHs4Q/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/tacos-el-rey-meridian?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 23,
+                "categories": [
+                    {
+                        "alias": "mexican",
+                        "title": "Mexican"
+                    },
+                    {
+                        "alias": "foodtrucks",
+                        "title": "Food Trucks"
+                    }
+                ],
+                "rating": 4.0,
+                "coordinates": {
+                    "latitude": 43.57635,
+                    "longitude": -116.39311
+                },
+                "transactions": [
+                    "delivery"
+                ],
+                "price": "$",
+                "location": {
+                    "address1": "3100 S Meridian Rd",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Meridian",
+                    "zip_code": "83642",
+                    "country": "US",
+                    "state": "ID",
+                    "display_address": [
+                        "3100 S Meridian Rd",
+                        "Meridian, ID 83642"
+                    ]
+                },
+                "phone": "+12086977069",
+                "display_phone": "(208) 697-7069",
+                "distance": 3361.9431621749036
+            },
+            {
+                "id": "ftVH9Wh_7RkiqrC4o406Yg",
+                "alias": "two-guys-cookin-meridian",
+                "name": "Two Guys Cookin",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dEjo4i4BrHfmrzqAR7oMnw/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/two-guys-cookin-meridian?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 6,
+                "categories": [
+                    {
+                        "alias": "streetvendors",
+                        "title": "Street Vendors"
+                    },
+                    {
+                        "alias": "bbq",
+                        "title": "Barbeque"
+                    },
+                    {
+                        "alias": "mexican",
+                        "title": "Mexican"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 43.5644358749007,
+                    "longitude": -116.403456665576
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Meridian",
+                    "zip_code": "83642",
+                    "country": "US",
+                    "state": "ID",
+                    "display_address": [
+                        "Meridian, ID 83642"
+                    ]
+                },
+                "phone": "+12089573071",
+                "display_phone": "(208) 957-3071",
+                "distance": 1800.6981514420997
+            },
+            {
+                "id": "-kIJmSUZiBygYu6KYWHGQg",
+                "alias": "scottys-hot-dogs-boise",
+                "name": "Scotty's Hot Dogs",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kwVmxLDC_EauU7ltL4Xcpg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/scottys-hot-dogs-boise?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 15,
+                "categories": [
+                    {
+                        "alias": "foodtrucks",
+                        "title": "Food Trucks"
+                    },
+                    {
+                        "alias": "hotdog",
+                        "title": "Hot Dogs"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 43.5950382,
+                    "longitude": -116.2768193
+                },
+                "transactions": [],
+                "price": "$",
+                "location": {
+                    "address1": "",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Boise",
+                    "zip_code": "83709",
+                    "country": "US",
+                    "state": "ID",
+                    "display_address": [
+                        "Boise, ID 83709"
+                    ]
+                },
+                "phone": "+12088613267",
+                "display_phone": "(208) 861-3267",
+                "distance": 11982.203967854995
+            },
+            {
+                "id": "9XcbAj4H-54ihGHF_vn4VA",
+                "alias": "more-than-cake-meridian-2",
+                "name": "More Than Cake",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ex6frYtUOZc15UCYcsy56w/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/more-than-cake-meridian-2?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 3,
+                "categories": [
+                    {
+                        "alias": "customcakes",
+                        "title": "Custom Cakes"
+                    },
+                    {
+                        "alias": "cupcakes",
+                        "title": "Cupcakes"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 43.5718421936035,
+                    "longitude": -116.399543762207
+                },
+                "transactions": [],
+                "price": "$$",
+                "location": {
+                    "address1": "",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Meridian",
+                    "zip_code": "83642",
+                    "country": "US",
+                    "state": "ID",
+                    "display_address": [
+                        "Meridian, ID 83642"
+                    ]
+                },
+                "phone": "+12083923800",
+                "display_phone": "(208) 392-3800",
+                "distance": 1800.7055632626093
+            },
+            {
+                "id": "EaQkAT_VuaoqJXqvmyIdmQ",
+                "alias": "sunnyside-italian-ice-and-frozen-custard-meridian",
+                "name": "Sunnyside Italian Ice & Frozen Custard",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EuqTZdA1P4V42myZjmRZ_Q/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/sunnyside-italian-ice-and-frozen-custard-meridian?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "foodtrucks",
+                        "title": "Food Trucks"
+                    },
+                    {
+                        "alias": "desserts",
+                        "title": "Desserts"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 43.5644359,
+                    "longitude": -116.4034565
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "",
+                    "address2": null,
+                    "address3": "",
+                    "city": "Meridian",
+                    "zip_code": "83642",
+                    "country": "US",
+                    "state": "ID",
+                    "display_address": [
+                        "Meridian, ID 83642"
+                    ]
+                },
+                "phone": "+14257732298",
+                "display_phone": "(425) 773-2298",
+                "distance": 1800.7055632626093
+            }
+        ],
+        "total": 5,
+        "region": {
+            "center": {
+                "longitude": -116.41151,
+                "latitude": 43.54933
+            }
+        }
+    },
+    "63.78333, 120.58333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 120.58333,
+                "latitude": 63.78333
+            }
+        }
+    },
+    "-37.41347, -69.32666": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -69.32666,
+                "latitude": -37.41347
+            }
+        }
+    },
+    "53.1, 5.08333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 5.08333,
+                "latitude": 53.1
+            }
+        }
+    },
+    "-6.21508, 140.39128": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 140.39128,
+                "latitude": -6.21508
+            }
+        }
+    },
+    "34.54935, -4.49127": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -4.49127,
+                "latitude": 34.54935
+            }
+        }
+    },
+    "34.398025, 94.190214": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 94.190214,
+                "latitude": 34.398025
+            }
+        }
+    },
+    "78.95, -76": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -76.0,
+                "latitude": 78.95
+            }
+        }
+    },
+    "66.76473, -177.363133": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -177.363133,
+                "latitude": 66.76473
+            }
+        }
+    },
+    "6.1631, 47.4293": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 47.4293,
+                "latitude": 6.1631
+            }
+        }
+    },
+    "40.4564, 99.3408": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 99.3408,
+                "latitude": 40.4564
+            }
+        }
+    },
+    "60.616667, 1.833333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 1.833333,
+                "latitude": 60.616667
+            }
+        }
+    },
+    "37.17503, -100.04764": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -100.04764,
+                "latitude": 37.17503
+            }
+        }
+    },
+    "41.59616, -84.88552": {
+        "businesses": [
+            {
+                "id": "L0Rdd6Vrpw0jNMiBP2p2Mw",
+                "alias": "hidden-valley-golf-course-angola",
+                "name": "Hidden Valley Golf Course",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YQuRTlDnMYmzkZzoMl40LA/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/hidden-valley-golf-course-angola?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 2,
+                "categories": [
+                    {
+                        "alias": "golf",
+                        "title": "Golf"
+                    }
+                ],
+                "rating": 2.0,
+                "coordinates": {
+                    "latitude": 41.61499,
+                    "longitude": -84.88761
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "5370 E Metz Rd",
+                    "address2": "",
+                    "address3": "",
+                    "city": "Angola",
+                    "zip_code": "46703",
+                    "country": "US",
+                    "state": "IN",
+                    "display_address": [
+                        "5370 E Metz Rd",
+                        "Angola, IN 46703"
+                    ]
+                },
+                "phone": "+12606656064",
+                "display_phone": "(260) 665-6064",
+                "distance": 2111.119724934372
+            }
+        ],
+        "total": 1,
+        "region": {
+            "center": {
+                "longitude": -84.88552,
+                "latitude": 41.59616
+            }
+        }
+    },
+    "34.22569, 73.65801": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 73.65801,
+                "latitude": 34.22569
+            }
+        }
+    },
+    "45.833333, 70.833333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 70.833333,
+                "latitude": 45.833333
+            }
+        }
+    },
+    "65.29806, -146.42528": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -146.42528,
+                "latitude": 65.29806
+            }
+        }
+    },
+    "39.53549, -115.79533": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -115.79533,
+                "latitude": 39.53549
+            }
+        }
+    },
+    "-16.58333, 20.33333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 20.33333,
+                "latitude": -16.58333
+            }
+        }
+    },
+    "22.68333, -8.76667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -8.76667,
+                "latitude": 22.68333
+            }
+        }
+    },
+    "39.86667, -1.03333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -1.03333,
+                "latitude": 39.86667
+            }
+        }
+    },
+    "-28.13333, 149.61667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 149.61667,
+                "latitude": -28.13333
+            }
+        }
+    },
+    "35.73208, 62.84922": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 62.84922,
+                "latitude": 35.73208
+            }
+        }
+    },
+    "19.17788, 77.09374": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 77.09374,
+                "latitude": 19.17788
+            }
+        }
+    },
+    "61.82559, -74.74779": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -74.74779,
+                "latitude": 61.82559
+            }
+        }
+    },
+    "28.25281, 17.153949": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 17.153949,
+                "latitude": 28.25281
+            }
+        }
+    },
+    "-51.11366, -74.76561": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -74.76561,
+                "latitude": -51.11366
+            }
+        }
+    },
+    "52.23344, -109.71823": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -109.71823,
+                "latitude": 52.23344
+            }
+        }
+    },
+    "23.86819, 80.426": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 80.426,
+                "latitude": 23.86819
+            }
+        }
+    },
+    "57.86041, 26.46232": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 26.46232,
+                "latitude": 57.86041
+            }
+        }
+    },
+    "12.19469, 42.66433": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 42.66433,
+                "latitude": 12.19469
+            }
+        }
+    },
+    "-6.01667, 25.96667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 25.96667,
+                "latitude": -6.01667
+            }
+        }
+    },
+    "13.9556, 121.31903": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 121.31903,
+                "latitude": 13.9556
+            }
+        }
+    },
+    "50.10003, -107.70067": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -107.70067,
+                "latitude": 50.10003
+            }
+        }
+    },
+    "67.73417, -162.48778": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -162.48778,
+                "latitude": 67.73417
+            }
+        }
+    },
+    "-7.402628, 117.589305": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 117.589305,
+                "latitude": -7.402628
+            }
+        }
+    },
+    "58.7, 99.31667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 99.31667,
+                "latitude": 58.7
+            }
+        }
+    },
+    "19.961816, 21.324379": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 21.324379,
+                "latitude": 19.961816
+            }
+        }
+    },
+    "39.84891, 112.16093": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 112.16093,
+                "latitude": 39.84891
+            }
+        }
+    },
+    "-12.4759, 132.0461": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 132.0461,
+                "latitude": -12.4759
+            }
+        }
+    },
+    "49.43333, 93.01667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 93.01667,
+                "latitude": 49.43333
+            }
+        }
+    },
+    "25.49841, -98.89834": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -98.89834,
+                "latitude": 25.49841
+            }
+        }
+    },
+    "54.69278, -132.11111": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -132.11111,
+                "latitude": 54.69278
+            }
+        }
+    },
+    "25.0548, 108.916": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 108.916,
+                "latitude": 25.0548
+            }
+        }
+    },
+    "25.666667, 16.1": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 16.1,
+                "latitude": 25.666667
+            }
+        }
+    },
+    "69.284208, 162.286298": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 162.286298,
+                "latitude": 69.284208
+            }
+        }
+    },
+    "-9.63333, 51.3": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 51.3,
+                "latitude": -9.63333
+            }
+        }
+    },
+    "8.98333, 1.18333": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 1.18333,
+                "latitude": 8.98333
+            }
+        }
+    },
+    "45.61682, -77.23276": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -77.23276,
+                "latitude": 45.61682
+            }
+        }
+    },
+    "57.11407, -73.24118": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -73.24118,
+                "latitude": 57.11407
+            }
+        }
+    },
+    "-72.2, 17.56667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 17.56667,
+                "latitude": -72.2
+            }
+        }
+    },
+    "-23.48273, 120.2645": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 120.2645,
+                "latitude": -23.48273
+            }
+        }
+    },
+    "-40.52088, -73.39647": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -73.39647,
+                "latitude": -40.52088
+            }
+        }
+    },
+    "49.71662, -54.28142": {
+        "businesses": [
+            {
+                "id": "NBtd5jRuNxGiMvaF1U6_cg",
+                "alias": "bangbelly-cafe-fogo",
+                "name": "Bangbelly Cafe",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NWYwRCOqgXQ57CyM-DFblg/o.jpg",
+                "is_closed": false,
+                "url": "https://www.yelp.com/biz/bangbelly-cafe-fogo?adjust_creative=ElpwB6Mc0mfBBSOk-1JR3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ElpwB6Mc0mfBBSOk-1JR3Q",
+                "review_count": 1,
+                "categories": [
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    }
+                ],
+                "rating": 5.0,
+                "coordinates": {
+                    "latitude": 49.251839,
+                    "longitude": -55.0480364
+                },
+                "transactions": [],
+                "location": {
+                    "address1": "41-43 Main Street",
+                    "address2": "",
+                    "address3": null,
+                    "city": "Fogo",
+                    "zip_code": "A0G 2B0",
+                    "country": "CA",
+                    "state": "NL",
+                    "display_address": [
+                        "41-43 Main Street",
+                        "Fogo, NL A0G 2B0",
+                        "Canada"
+                    ]
+                },
+                "phone": "+17092662020",
+                "display_phone": "+1 709-266-2020",
+                "distance": 153.49683900325698
+            }
+        ],
+        "total": 1,
+        "region": {
+            "center": {
+                "longitude": -54.28142,
+                "latitude": 49.71662
+            }
+        }
+    },
+    "80.73537, -82.58162": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -82.58162,
+                "latitude": 80.73537
+            }
+        }
+    },
+    "54.55494, 68.76821": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 68.76821,
+                "latitude": 54.55494
+            }
+        }
+    },
+    "27.2913, 104.326": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 104.326,
+                "latitude": 27.2913
+            }
+        }
+    },
+    "16.783333, -77.716667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": -77.716667,
+                "latitude": 16.783333
+            }
+        }
+    },
+    "65.79162, 23.47757": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 23.47757,
+                "latitude": 65.79162
+            }
+        }
+    },
+    "40.41667, 12.5": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 12.5,
+                "latitude": 40.41667
+            }
+        }
+    },
+    "30.37261, 108.7916": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 108.7916,
+                "latitude": 30.37261
+            }
+        }
+    },
+    "-16.41667, 20.86667": {
+        "businesses": [],
+        "total": 0,
+        "region": {
+            "center": {
+                "longitude": 20.86667,
+                "latitude": -16.41667
+            }
+        }
     }
 }
