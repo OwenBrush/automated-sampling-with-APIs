@@ -40,7 +40,8 @@ def request_missing_information():
         if 'four_square' in nan_values:
             request_foursquare_venues(geo_location)     
         if 'google' in nan_values:
-            requset_places_from_google(geo_location)    
+            requset_places_from_google(geo_location) 
+        dataframe_builder.add_sample(geo_location)  
  
         
 def handle_response(geo_location:str, response:response, log_file:str):
